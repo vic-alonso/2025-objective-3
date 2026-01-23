@@ -1,3 +1,5 @@
+import json
+
 import requests
 from bs4 import BeautifulSoup
 
@@ -29,4 +31,6 @@ def get_aws_ml_blogs() -> list:
 
 if __name__ == "__main__":
     blogs = get_aws_ml_blogs()
-    print(blogs)
+
+    with open("../json-files/aws-ml-articles.json", "w", encoding="utf-8") as f:
+        json.dump(blogs, f, indent=2, ensure_ascii=False)
