@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Deploy AI agents on Amazon Bedrock AgentCore using GitHub Actions",
+    "link": "https://aws.amazon.com/blogs/machine-learning/deploy-ai-agents-on-amazon-bedrock-agentcore-using-github-actions/"
+  },
+  {
+    "title": "How the Amazon AMET Payments team accelerates test case generation with Strands Agents",
+    "link": "https://aws.amazon.com/blogs/machine-learning/how-the-amazon-amet-payments-team-accelerates-test-case-generation-with-strands-agents/"
+  },
+  {
+    "title": "Build a generative AI-powered business reporting solution with Amazon Bedrock",
+    "link": "https://aws.amazon.com/blogs/machine-learning/build-a-generative-ai-powered-business-reporting-solution-with-amazon-bedrock/"
+  },
+  {
+    "title": "Safeguard generative AI applications with Amazon Bedrock Guardrails",
+    "link": "https://aws.amazon.com/blogs/machine-learning/safeguard-generative-ai-applications-with-amazon-bedrock-guardrails/"
+  },
+  {
+    "title": "Scale creative asset discovery with Amazon Nova Multimodal Embeddings unified vector search",
+    "link": "https://aws.amazon.com/blogs/machine-learning/scale-creative-asset-discovery-with-amazon-nova-multimodal-embeddings-unified-vector-search/"
+  },
+  {
+    "title": "How AutoScout24 built a Bot Factory to standardize AI agent development with Amazon Bedrock",
+    "link": "https://aws.amazon.com/blogs/machine-learning/how-autoscout24-built-a-bot-factory-to-standardize-ai-agent-development-with-amazon-bedrock/"
+  },
+  {
+    "title": "Transform AI development with new Amazon SageMaker AI model customization and large-scale training capabilities",
+    "link": "https://aws.amazon.com/blogs/machine-learning/transform-ai-development-with-new-amazon-sagemaker-ai-model-customization-and-large-scale-training-capabilities/"
+  },
+  {
+    "title": "Securing Amazon Bedrock cross-Region inference: Geographic and global",
+    "link": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-bedrock-cross-region-inference-geographic-and-global/"
+  },
+  {
+    "title": "How Omada Health scaled patient care by fine-tuning Llama models on Amazon SageMaker AI",
+    "link": "https://aws.amazon.com/blogs/machine-learning/how-omada-health-scaled-patient-care-by-fine-tuning-llama-models-on-amazon-sagemaker-ai/"
+  },
+  {
+    "title": "Crossmodal search with Amazon Nova Multimodal Embeddings",
+    "link": "https://aws.amazon.com/blogs/machine-learning/crossmodal-search-with-amazon-nova-multimodal-embeddings/"
+  }
+]
