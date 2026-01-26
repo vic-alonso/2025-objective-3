@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Build an AI-powered website assistant with Amazon Bedrock",
+    "link": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-website-assistant-with-amazon-bedrock/"
+  },
+  {
+    "title": "Programmatically creating an IDP solution with Amazon Bedrock Data Automation",
+    "link": "https://aws.amazon.com/blogs/machine-learning/programmatically-creating-an-idp-solution-with-amazon-bedrock-data-automation/"
+  },
+  {
+    "title": "AI agent-driven browser automation for enterprise workflow management",
+    "link": "https://aws.amazon.com/blogs/machine-learning/ai-agent-driven-browser-automation-for-enterprise-workflow-management/"
+  },
+  {
+    "title": "Agentic QA automation using Amazon Bedrock AgentCore Browser and Amazon Nova Act",
+    "link": "https://aws.amazon.com/blogs/machine-learning/agentic-qa-automation-using-amazon-bedrock-agentcore-browser-and-amazon-nova-act/"
+  },
+  {
+    "title": "Optimizing LLM inference on Amazon SageMaker AI with BentoML’s LLM- Optimizer",
+    "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-llm-inference-on-amazon-sagemaker-ai-with-bentomls-llm-optimizer/"
+  },
+  {
+    "title": "Exploring the zero operator access design of Mantle",
+    "link": "https://aws.amazon.com/blogs/machine-learning/exploring-the-zero-operator-access-design-of-mantle/"
+  },
+  {
+    "title": "AWS AI League: Model customization and agentic showdown",
+    "link": "https://aws.amazon.com/blogs/machine-learning/aws-ai-league-model-customization-and-agentic-showdown/"
+  },
+  {
+    "title": "Accelerate Enterprise AI Development using Weights & Biases and Amazon Bedrock AgentCore",
+    "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-enterprise-ai-development-using-weights-biases-weave-and-amazon-bedrock-agentcore/"
+  },
+  {
+    "title": "How dLocal automated compliance reviews using Amazon Quick Automate",
+    "link": "https://aws.amazon.com/blogs/machine-learning/how-dlocal-automated-compliance-reviews-using-amazon-quick-automate/"
+  },
+  {
+    "title": "Advancing ADHD diagnosis: How Qbtech built a mobile AI assessment Model Using Amazon SageMaker AI",
+    "link": "https://aws.amazon.com/blogs/machine-learning/advancing-adhd-diagnosis-how-qbtech-built-a-mobile-ai-assessment-model-using-amazon-sagemaker-ai/"
+  }
+]
