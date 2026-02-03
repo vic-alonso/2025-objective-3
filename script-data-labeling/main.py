@@ -3,18 +3,21 @@ import os
 from typing import Any
 
 import requests
+import vertexai
 from bs4 import BeautifulSoup
 from dotenv import load_dotenv
 from google.cloud import bigquery, storage
-from sentence_transformers import SentenceTransformer
+from vertexai.language_models import TextEmbeddingModel
 
 load_dotenv()
 
-model = SentenceTransformer("all-MiniLM-L6-v2")
 project_id = os.getenv("PROJECT_ID")
 bucket_name = os.getenv("BUCKET_NAME")
 dataset_id = os.getenv("DATASET_ID")
 table_id = os.getenv("TABLE_ID")
+
+vertexai.init(project=project_id, location="us-central1")
+model = TextEmbeddingModel.from_pretrained("text-embedding-004")
 
 
 def extract_content(url: str) -> str:
@@ -30,9 +33,9 @@ def extract_content(url: str) -> str:
 
 
 def generate_embedding(text: str) -> Any:
-    """Generate embeddings of the text using sentence-transformers"""
-    embedding = model.encode(text)
-    return embedding.tolist()
+    """Generate embeddings of the text using Vertex AI"""
+    embeddings = model.get_embeddings([text])
+    return embeddings[0].values
 
 
 def save_to_bigquery(
@@ -41,7 +44,7 @@ def save_to_bigquery(
     embedding: list,
 ) -> None:
     """Save url, title and embedding in BigQuery"""
-    client = bigquery.Client(project=project_id)
+    client = bigquery.Client()
     table_ref = f"{project_id}.{dataset_id}.{table_id}"
 
     rows_to_insert = [
