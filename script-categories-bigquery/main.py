@@ -70,7 +70,7 @@ def get_categories_from_gcs() -> list[dict]:
 
     reader = csv.DictReader(content.splitlines())
     return [
-        {"category": row["category"], "description": row["description"]}
+        {"category": row["Category"], "description": row["Description"]}
         for row in reader
     ]
 
