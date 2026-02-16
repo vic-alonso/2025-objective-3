@@ -25,10 +25,8 @@ def extract_content(url: str) -> str:
     response = requests.get(url, timeout=60)
     response.raise_for_status()
     soup = BeautifulSoup(response.content, "html.parser")
-
     for script in soup(["script", "style", "nav", "footer", "header"]):
         script.decompose()
-
     return soup.get_text(separator=" ", strip=True)
 
 
@@ -47,7 +45,6 @@ def save_to_bigquery(
     """Save title, category, url and embedding in BigQuery"""
     client = bigquery.Client()
     table_ref = f"{project_id}.{dataset_id}.{table_id}"
-
     rows_to_insert = [
         {
             "title": title,
@@ -57,12 +54,10 @@ def save_to_bigquery(
         },
     ]
     print(f"Inserting into BigQuery: {title}")
-
     errors = client.insert_rows_json(table_ref, rows_to_insert)
     if errors:
         msg = f"Error in BigQuery: {errors}"
         raise Exception(msg)
-
     print(f"Save: {title}")
 
 
@@ -83,16 +78,13 @@ def get_urls_from_gcs() -> tuple[list[dict]]:
     bucket = client.bucket(bucket_name)
     blobs = list(bucket.list_blobs(prefix="articles/"))
     print(f"Found {len(blobs)} blobs in bucket")
-
     articles = []
     for blob in blobs:
         print(f"Processing blob: {blob.name}")
         if not blob.name.endswith(".json"):
             continue
-
         content = blob.download_as_text()
         data = json.loads(content)
-
         items = data if isinstance(data, list) else [data]
         for item in items:
             if "link" in item and "title" in item and "category" in item:
@@ -101,11 +93,10 @@ def get_urls_from_gcs() -> tuple[list[dict]]:
                         "url": item["link"],
                         "title": item["title"],
                         "category": item["category"],
-                    }
+                    },
                 )
             else:
                 print(f"Item missing required fields: {item.keys()}")
-
     return (articles,)
 
 
@@ -113,12 +104,10 @@ if __name__ == "__main__":
     print("Extract URLs from the bucket...")
     (articles,) = get_urls_from_gcs()
     print(f"Found {len(articles)} articles.")
-
     for i, article in enumerate(articles, 1):
         print(f"[{i}/{len(articles)}] {article['title']}")
         try:
             process_url(article["url"], article["title"], article["category"])
         except (requests.RequestException, ValueError, OSError) as e:
             print(f"Error: {e}")
-
     print("\n¡Successful Process!")

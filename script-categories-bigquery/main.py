@@ -33,9 +33,7 @@ def save_to_bigquery(
     if not category_table:
         msg_error = "CATEGORY_TABLE environment variable is not set"
         raise ValueError(msg_error)
-
     client = bigquery.Client()
-
     rows_to_insert = [
         {
             "category": category,
@@ -43,12 +41,10 @@ def save_to_bigquery(
             "embedding": embedding,
         },
     ]
-
     errors = client.insert_rows_json(category_table, rows_to_insert)
     if errors:
         msg = f"Error in BigQuery: {errors}"
         raise Exception(msg)
-
     print(f"Save: {category}")
 
 
@@ -67,7 +63,6 @@ def get_categories_from_gcs() -> list[dict]:
     bucket = client.bucket(bucket_name)
     blob = bucket.blob(category_blob)
     content = blob.download_as_text()
-
     reader = csv.DictReader(content.splitlines())
     return [
         {"category": row["Category"], "description": row["Description"]}
@@ -78,12 +73,10 @@ def get_categories_from_gcs() -> list[dict]:
 if __name__ == "__main__":
     print("Extract categories from GCS...")
     categories = get_categories_from_gcs()
-
     for i, item in enumerate(categories, 1):
         print(f"[{i}/{len(categories)}] {item['category']}")
         try:
             process_category(item["category"], item["description"])
         except (ValueError, OSError) as e:
             print(f"Error: {e}")
-
     print("\n¡Successful Process!")
