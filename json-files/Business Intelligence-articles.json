@@ -1,1 +1,252 @@
-[]
+[
+  {
+    "title": "Ambiguous location mapping for map visuals in Amazon Quick Sight",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/ambiguous-location-mapping-for-map-visuals-in-amazon-quick-sight/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "Build conditional analytics in Amazon Quick Suite using advanced filtering",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/build-conditional-analytics-in-amazon-quick-suite-using-advanced-filtering/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "Amazon Quick Sight expands dashboard customization in tables and pivot tables",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/amazon-quick-sight-expands-dashboard-customization-in-tables-and-pivot-tables/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "SISAMEX Revolutionizes Inventory Analytics with Amazon Quick Suite",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/sisamex-revolutionizes-inventory-analytics-with-amazon-quick-suite/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "Enhance Amazon Quick Suite dashboards with on-demand data refresh",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/enhance-amazon-quick-suite-dashboards-with-on-demand-data-refresh/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "January 2026 Amazon Quick Suite events",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/january-2026-amazon-quick-suite-events/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "January sessions of the Amazon Quick Suite Learning Series",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/new-sessions-of-the-amazon-quicksight-learning-series/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "Automate SPICE dataset refreshes using Amazon Quick Sight APIs",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/automate-spice-dataset-refreshes-using-amazon-quick-sight-apis/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "Transforming healthcare analytics: Arcadia’s journey with Amazon Quick Sight",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/transforming-healthcare-analytics-arcadias-journey-with-amazon-quick-sight/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "How Tradeshift delivers value to buyers and sellers through Amazon Quick Suite and Amazon Q",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/how-tradeshift-delivers-value-to-buyers-and-sellers-through-amazon-quick-suite-and-amazon-q/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "How Verisk enhances catastrophe modeling with embedded analytics using Amazon Quick Sight",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/how-verisk-enhances-catastrophe-modeling-with-embedded-analytics-using-amazon-quick-sight/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "Amazon Quick Suite User Group – Chicago: Agentic AI takes center stage",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/amazon-quick-suite-user-group-chicago-agentic-ai-takes-center-stage/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "December 2025 Amazon Quick Suite events",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/december-2025-amazon-quick-suite-events/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "Announcing embedded chat in Amazon Quick Suite",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/announcing-embedded-chat-in-amazon-quick-suite/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "Empower readers with customizable tables and pivot tables in Amazon Quick Sight",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/empower-readers-with-customizable-tables-and-pivot-tables-in-amazon-quick-sight/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "Enhance enterprise analytics with new Amazon Quick Sight theming features",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/enhance-enterprise-analytics-with-new-amazon-quick-sight-theming-features/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "How BMW Group breaks down knowledge silos with Amazon Quick Sight",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/how-bmw-group-breaks-down-knowledge-silos-with-amazon-quick-sight/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "November 2025 Amazon Quick Suite events",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/november-2025-amazon-quick-suite-events/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "Transform and visualize your data preparation flow in Amazon Quick Sight without SQL",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/transform-and-visualize-your-data-preparation-flow-in-amazon-quick-sight-without-sql/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "How D2L transformed educational analytics using visual data preparation in Amazon Quick Sight",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/how-d2l-transformed-educational-analytics-using-visual-data-preparation-in-amazon-quick-sight/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "Expand your dashboard design with font customization for axes and data labels in Amazon Quick Sight",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/expand-your-dashboard-design-with-font-customization-for-axes-and-data-labels-in-amazon-quick-sight/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "Automate governance of Amazon Quick Suite features using custom permissions",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/automate-governance-of-amazon-quick-suite-features-using-custom-permissions/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "Establishing enterprise governance in Amazon Quick Suite using custom permissions",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/establishing-enterprise-governance-in-amazon-quick-suite-using-custom-permissions/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "Reimagine business intelligence: Amazon QuickSight evolves to Amazon Quick Suite",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/reimagine-business-intelligence-amazon-quicksight-evolves-to-amazon-quick-suite/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "October 2025 Amazon Q and Amazon QuickSight events",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/october-2025-amazon-q-and-amazon-quicksight-events/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "How SSENSE modernized their analytics platform with Amazon QuickSight",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/how-ssense-modernized-their-analytics-platform-with-amazon-quicksight/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "How PayNet enhanced payment analytics with Amazon QuickSight",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/how-paynet-enhanced-payment-analytics-with-amazon-quicksight/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "Use Amazon Redshift data sharing to enable Amazon Q in QuickSight across Regions",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/use-amazon-redshift-data-sharing-to-enable-amazon-q-in-quicksight-across-regions/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "How SmugMug accelerates business intelligence with Amazon QuickSight scenarios",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/how-smugmug-accelerates-business-intelligence-with-amazon-quicksight-scenarios/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "How Wealth Wizards democratizes financial advice with Amazon QuickSight scenarios",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/how-wealth-wizards-democratizes-financial-advice-with-amazon-quicksight-scenarios/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "Deliver Amazon QuickSight pixel-perfect reports to multiple customer groups",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/deliver-amazon-quicksight-pixel-perfect-reports-to-multiple-customer-groups/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "Transforming business meetings to get real-time answers to data questions using Amazon Q in QuickSight",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/transforming-business-meetings-to-get-real-time-answers-to-data-questions-using-amazon-q-in-quicksight/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "Transform your Google Sheets data into powerful analytics with Amazon QuickSight",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/transform-your-google-sheets-data-into-powerful-analytics-with-amazon-quicksight/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "Availity accelerates data-driven healthcare decision-making with Amazon QuickSight and Amazon Q",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/availity-accelerates-data-driven-healthcare-decision-making-with-amazon-quicksight-and-amazon-q/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "September 2025 Amazon Q and Amazon QuickSight events",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/september-2025-amazon-q-and-amazon-quicksight-events/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "Amazon QuickSight BIOps – Part 3: Assets deployment using APIs",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/amazon-quicksight-biops-part-3-assets-deployment-using-apis/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "Amazon QuickSight BIOps – Part 2: Version control using APIs",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/amazon-quicksight-biops-part-2-version-control-using-apis/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "Amazon QuickSight BIOps – Part 1: A no-code guide to version control and collaboration",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/amazon-quicksight-biops-part-1-a-no-code-guide-to-version-control-and-collaboration/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "August 2025 Amazon Q and Amazon QuickSight events",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/august-2025-amazon-q-and-amazon-quicksight-events/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "How BeyondTrust embedded Amazon QuickSight for identity security insights",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/how-beyondtrust-embedded-amazon-quicksight-for-identity-security-insights/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "How to securely deliver business intelligence to internal-facing applications with Amazon QuickSight",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/how-to-securely-deliver-business-intelligence-to-internal-facing-applications-with-amazon-quicksight/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "Meet a top Amazon QuickSight Community Expert: Nico Niemann",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/meet-a-top-amazon-quicksight-community-expert-nico-niemann/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "July 2025 Amazon Q and Amazon QuickSight events",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/july-2025-amazon-q-and-amazon-quicksight-events/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "Transforming B2B intelligence: Tradeshift’s journey with Amazon QuickSight and Amazon Q",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/transforming-b2b-intelligence-tradeshifts-journey-with-amazon-quicksight-and-amazon-q/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "June 2025 Amazon Q and Amazon QuickSight events",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/june-2025-amazon-q-and-amazon-quicksight-events/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "NFL Combine IQ and Draft IQ: Delivering insights to millions with Amazon QuickSight",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/nfl-combine-iq-and-draft-iq-delivering-insights-to-millions-with-amazon-quicksight/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "Streamline Amazon QuickSight dataset management: Dataset insights at a glance",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/streamline-amazon-quicksight-dataset-management-dataset-insights-at-a-glance/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "How Opendoor transformed business intelligence with Amazon QuickSight",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/how-opendoor-transformed-business-intelligence-with-amazon-quicksight/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "Integrate Amazon CloudWatch Logs with Amazon QuickSight using Amazon Athena",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/integrate-amazon-cloudwatch-logs-with-amazon-quicksight-using-amazon-athena/",
+    "category": "Business Intelligence"
+  },
+  {
+    "title": "Unlock data insights from custom Jira projects using generative BI in Amazon QuickSight",
+    "link": "https://aws.amazon.com/blogs/business-intelligence/unlock-data-insights-from-custom-jira-projects-using-generative-bi-in-amazon-quicksight/",
+    "category": "Business Intelligence"
+  }
+]

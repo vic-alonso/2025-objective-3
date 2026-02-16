@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "title": "Breaking down cloud data silos between Amazon SageMaker Unified Studio and Google Cloud BigQuery",
+    "link": "https://aws.amazon.com/blogs/multicloud/breaking-down-cloud-data-silos-between-amazon-sagemaker-unified-studio-and-google-cloud-bigquery/",
+    "category": "Multicloud"
+  },
+  {
+    "title": "Join us at re:Invent 2025: Your guide to all things multicloud",
+    "link": "https://aws.amazon.com/blogs/multicloud/reinvent-2025-guide/",
+    "category": "Multicloud"
+  },
+  {
+    "title": "A deep dive into Amazon EKS Hybrid Nodes",
+    "link": "https://aws.amazon.com/blogs/multicloud/a-deep-dive-into-amazon-eks-hybrid-nodes/",
+    "category": "Multicloud"
+  },
+  {
+    "title": "Unlock scalable analytics with AWS Glue and Google BigQuery",
+    "link": "https://aws.amazon.com/blogs/multicloud/unlock-scalable-analytics-with-aws-glue-and-google-bigquery/",
+    "category": "Multicloud"
+  },
+  {
+    "title": "Simplify data transfer: Google BigQuery to Amazon S3 using Amazon AppFlow",
+    "link": "https://aws.amazon.com/blogs/multicloud/simplify-data-transfer-google-bigquery-to-amazon-s3-using-amazon-appflow/",
+    "category": "Multicloud"
+  },
+  {
+    "title": "MuleSoft Anypoint Runtime Fabric Deployment On Amazon EKS Anywhere",
+    "link": "https://aws.amazon.com/blogs/multicloud/mulesoft-anypoint-runtime-fabric-deployment-on-amazon-eks-anywhere/",
+    "category": "Multicloud"
+  },
+  {
+    "title": "Using Azure Active Directory to authenticate to Amazon EKS",
+    "link": "https://aws.amazon.com/blogs/multicloud/using-azure-active-directory-to-authenticate-to-amazon-eks/",
+    "category": "Multicloud"
+  },
+  {
+    "title": "Differences to expect when migrating from Azure Cosmos DB to Amazon DynamoDB",
+    "link": "https://aws.amazon.com/blogs/multicloud/differences-to-expect-when-migrating-from-azure-cosmos-db-to-amazon-dynamodb/",
+    "category": "Multicloud"
+  },
+  {
+    "title": "Automate ETL jobs between Amazon RDS for SQL Server and Azure Managed SQL using AWS Glue Studio",
+    "link": "https://aws.amazon.com/blogs/multicloud/automate-etl-jobs-between-amazon-rds-for-sql-server-and-azure-managed-sql-using-aws-glue-studio/",
+    "category": "Multicloud"
+  },
+  {
+    "title": "Stretching your on-premises environment to AWS using Amazon ECS Anywhere",
+    "link": "https://aws.amazon.com/blogs/multicloud/stretching-your-on-premises-environment-to-aws-using-amazon-ecs-anywhere/",
+    "category": "Multicloud"
+  },
+  {
+    "title": "Modernize Mainframe Applications for Hybrid Cloud with IBM and AWS",
+    "link": "https://aws.amazon.com/blogs/multicloud/18-2/",
+    "category": "Multicloud"
+  },
+  {
+    "title": "Connecting Google Kubernetes Engine (GKE) Clusters to Amazon EKS",
+    "link": "https://aws.amazon.com/blogs/multicloud/connecting-google-kubernetes-engine-gke-clusters-to-amazon-eks/",
+    "category": "Multicloud"
+  }
+]

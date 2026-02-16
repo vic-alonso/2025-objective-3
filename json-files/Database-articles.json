@@ -1,1 +1,252 @@
-[]
+[
+  {
+    "title": "Optimize LLM response costs and latency with effective caching",
+    "link": "https://aws.amazon.com/blogs/database/optimize-llm-response-costs-and-latency-with-effective-caching/",
+    "category": "Database"
+  },
+  {
+    "title": "Introducing pre-warming for Amazon Keyspaces tables",
+    "link": "https://aws.amazon.com/blogs/database/introducing-pre-warming-for-amazon-keyspaces-tables/",
+    "category": "Database"
+  },
+  {
+    "title": "Managing IP address exhaustion for Amazon RDS Proxy",
+    "link": "https://aws.amazon.com/blogs/database/managing-ip-address-exhaustion-for-amazon-rds-proxy/",
+    "category": "Database"
+  },
+  {
+    "title": "Choosing the right code page and collation for migration from mainframe Db2 to Amazon RDS for Db2",
+    "link": "https://aws.amazon.com/blogs/database/choosing-the-right-code-page-and-collation-for-migration-from-mainframe-db2-to-amazon-rds-for-db2/",
+    "category": "Database"
+  },
+  {
+    "title": "Enhance the visibility of Amazon RDS instances and configuration with AWS Config and Amazon Quick Suite",
+    "link": "https://aws.amazon.com/blogs/database/enhance-the-visibility-of-amazon-rds-instances-and-configuration-with-aws-config-and-amazon-quick-suite/",
+    "category": "Database"
+  },
+  {
+    "title": "Analyze JSON data efficiently with Amazon Redshift SUPER",
+    "link": "https://aws.amazon.com/blogs/database/analyze-json-data-efficiently-with-amazon-redshift-super/",
+    "category": "Database"
+  },
+  {
+    "title": "Strategies for upgrading Amazon Aurora PostgreSQL and Amazon RDS for PostgreSQL from version 13",
+    "link": "https://aws.amazon.com/blogs/database/strategies-for-upgrading-amazon-aurora-postgresql-and-amazon-rds-for-postgresql-from-version-13/",
+    "category": "Database"
+  },
+  {
+    "title": "How Tradeshift boosted operational efficiency and scalability with Amazon RDS",
+    "link": "https://aws.amazon.com/blogs/database/how-tradeshift-boosted-operational-efficiency-and-scalability-with-amazon-rds/",
+    "category": "Database"
+  },
+  {
+    "title": "MaiCoin case study: Blue/green upgrade from Amazon ElastiCache Redis to Valkey",
+    "link": "https://aws.amazon.com/blogs/database/maicoin-case-study-blue-green-upgrade-from-amazon-elasticache-redis-to-valkey/",
+    "category": "Database"
+  },
+  {
+    "title": "Automate the export of Amazon RDS for MySQL or Amazon Aurora MySQL audit logs to Amazon S3 with batching or near real-time processing",
+    "link": "https://aws.amazon.com/blogs/database/automate-the-export-of-amazon-rds-for-mysql-or-amazon-aurora-mysql-audit-logs-to-amazon-s3-with-batching-or-near-real-time-processing/",
+    "category": "Database"
+  },
+  {
+    "title": "Control database name visibility in Amazon RDS for SQL Server instances",
+    "link": "https://aws.amazon.com/blogs/database/control-database-name-visibility-in-amazon-rds-for-sql-server-instances/",
+    "category": "Database"
+  },
+  {
+    "title": "Using the shared plan cache for Amazon Aurora PostgreSQL",
+    "link": "https://aws.amazon.com/blogs/database/using-the-shared-plan-cache-for-amazon-aurora-postgresql/",
+    "category": "Database"
+  },
+  {
+    "title": "Effectively managing storage in Amazon RDS for Oracle Databases",
+    "link": "https://aws.amazon.com/blogs/database/effectively-managing-storage-in-amazon-rds-for-oracle-databases/",
+    "category": "Database"
+  },
+  {
+    "title": "AWS Organizations now supports upgrade rollout policy for Amazon Aurora and Amazon RDS automatic minor version upgrades",
+    "link": "https://aws.amazon.com/blogs/database/aws-organizations-now-supports-upgrade-rollout-policy-for-amazon-aurora-and-amazon-rds-automatic-minor-version-upgrades/",
+    "category": "Database"
+  },
+  {
+    "title": "Build durable AI agents with LangGraph and Amazon DynamoDB",
+    "link": "https://aws.amazon.com/blogs/database/build-durable-ai-agents-with-langgraph-and-amazon-dynamodb/",
+    "category": "Database"
+  },
+  {
+    "title": "Best practices for creating and reorganizing data with additional storage volumes in Amazon RDS for Oracle",
+    "link": "https://aws.amazon.com/blogs/database/best-practices-for-creating-and-reorganizing-data-with-additional-storage-volumes-in-amazon-rds-for-oracle/",
+    "category": "Database"
+  },
+  {
+    "title": "Provision Oracle Database@AWS stack using AWS CloudFormation",
+    "link": "https://aws.amazon.com/blogs/database/provision-oracle-databaseaws-stack-using-aws-cloudformation/",
+    "category": "Database"
+  },
+  {
+    "title": "Unlock Amazon Aurora’s Advanced Features with Standard JDBC Driver using AWS Advanced JDBC Wrapper",
+    "link": "https://aws.amazon.com/blogs/database/unlock-amazon-auroras-advanced-features-with-standard-jdbc-driver-using-aws-advanced-jdbc-wrapper/",
+    "category": "Database"
+  },
+  {
+    "title": "Configure Optimize CPU on Amazon RDS for SQL Server",
+    "link": "https://aws.amazon.com/blogs/database/configure-optimize-cpu-on-amazon-rds-for-sql-server/",
+    "category": "Database"
+  },
+  {
+    "title": "Implement multi-Region endpoint routing for Amazon Aurora DSQL",
+    "link": "https://aws.amazon.com/blogs/database/implement-multi-region-endpoint-routing-for-amazon-aurora-dsql/",
+    "category": "Database"
+  },
+  {
+    "title": "Inside Booking.com’s ultra-low latency feature platform with Amazon ElastiCache",
+    "link": "https://aws.amazon.com/blogs/database/inside-booking-coms-ultra-low-latency-feature-platform-with-amazon-elasticache/",
+    "category": "Database"
+  },
+  {
+    "title": "Amazon ElastiCache re:Invent 2025 recap",
+    "link": "https://aws.amazon.com/blogs/database/amazon-elasticache-reinvent-2025-recap/",
+    "category": "Database"
+  },
+  {
+    "title": "Optimizing correlated subqueries in Amazon Aurora PostgreSQL",
+    "link": "https://aws.amazon.com/blogs/database/optimizing-correlated-subqueries-in-amazon-aurora-postgresql/",
+    "category": "Database"
+  },
+  {
+    "title": "Improve Aurora PostgreSQL throughput by up to 165% and price-performance ratio by up to 120% using Optimized Reads on AWS Graviton4-based R8gd instances",
+    "link": "https://aws.amazon.com/blogs/database/improve-aurora-postgresql-throughput-by-up-to-165-and-price-performance-ratio-by-up-to-120-using-optimized-reads-on-aws-graviton4-based-r8gd-instances/",
+    "category": "Database"
+  },
+  {
+    "title": "Why Regeneron chose Amazon RDS Custom for Oracle to deploy COTS and GxP applications on AWS",
+    "link": "https://aws.amazon.com/blogs/database/why-regeneron-chose-amazon-rds-custom-for-oracle-to-deploy-cots-and-gxp-applications-on-aws/",
+    "category": "Database"
+  },
+  {
+    "title": "Create a SQL Server Developer Edition instance on Amazon RDS for SQL Server",
+    "link": "https://aws.amazon.com/blogs/database/create-a-sql-server-developer-edition-instance-on-amazon-rds-for-sql-server/",
+    "category": "Database"
+  },
+  {
+    "title": "Configure additional storage volumes with Amazon RDS for SQL Server",
+    "link": "https://aws.amazon.com/blogs/database/configure-additional-storage-volumes-with-amazon-rds-for-sql-server/",
+    "category": "Database"
+  },
+  {
+    "title": "Build and explore Knowledge Graphs faster with Amazon Neptune using Graph.Build and G.V() – Part 2",
+    "link": "https://aws.amazon.com/blogs/database/build-and-explore-knowledge-graphs-faster-with-amazon-neptune-using-graph-build-and-g-v-part-2/",
+    "category": "Database"
+  },
+  {
+    "title": "Build and explore Knowledge Graphs faster with Amazon Neptune using Graph.Build and G.V() – Part 1",
+    "link": "https://aws.amazon.com/blogs/database/build-and-explore-knowledge-graphs-faster-with-amazon-neptune-using-graph-build-and-g-v-part-1/",
+    "category": "Database"
+  },
+  {
+    "title": "Introducing Amazon Aurora powers for Kiro",
+    "link": "https://aws.amazon.com/blogs/database/introducing-amazon-aurora-powers-for-kiro/",
+    "category": "Database"
+  },
+  {
+    "title": "Build a fitness center management application with Kiro using Amazon DocumentDB (with MongoDB compatibility)",
+    "link": "https://aws.amazon.com/blogs/database/build-a-fitness-center-management-application-with-kiro-using-amazon-documentdb-with-mongodb-compatibility/",
+    "category": "Database"
+  },
+  {
+    "title": "Exploring Optimize CPU feature on Amazon RDS for SQL Server",
+    "link": "https://aws.amazon.com/blogs/database/exploring-optimize-cpu-feature-on-amazon-rds-for-sql-server/",
+    "category": "Database"
+  },
+  {
+    "title": "Netflix consolidates relational database infrastructure on Amazon Aurora, achieving up to 75% improved performance",
+    "link": "https://aws.amazon.com/blogs/database/netflix-consolidates-relational-database-infrastructure-on-amazon-aurora-achieving-up-to-75-improved-performance/",
+    "category": "Database"
+  },
+  {
+    "title": "How Letta builds production-ready AI agents with Amazon Aurora PostgreSQL",
+    "link": "https://aws.amazon.com/blogs/database/how-letta-builds-production-ready-ai-agents-with-amazon-aurora-postgresql/",
+    "category": "Database"
+  },
+  {
+    "title": "Lower cost and latency for AI using Amazon ElastiCache as a semantic cache with Amazon Bedrock",
+    "link": "https://aws.amazon.com/blogs/database/lower-cost-and-latency-for-ai-using-amazon-elasticache-as-a-semantic-cache-with-amazon-bedrock/",
+    "category": "Database"
+  },
+  {
+    "title": "Build persistent memory for agentic AI applications with Mem0 Open Source, Amazon ElastiCache for Valkey, and Amazon Neptune Analytics",
+    "link": "https://aws.amazon.com/blogs/database/build-persistent-memory-for-agentic-ai-applications-with-mem0-open-source-amazon-elasticache-for-valkey-and-amazon-neptune-analytics/",
+    "category": "Database"
+  },
+  {
+    "title": "Simplify data integration using zero-ETL from self-managed databases to Amazon Redshift",
+    "link": "https://aws.amazon.com/blogs/database/simplify-data-integration-using-zero-etl-from-self-managed-databases-to-amazon-redshift/",
+    "category": "Database"
+  },
+  {
+    "title": "Amazon Ads upgrades to Amazon ElastiCache for Valkey to achieve 12% higher throughput and save over 45% in infrastructure costs",
+    "link": "https://aws.amazon.com/blogs/database/amazon-ads-upgrades-to-amazon-elasticache-for-valkey-to-achieve-12-higher-throughput-and-save-over-45-in-infrastructure-costs/",
+    "category": "Database"
+  },
+  {
+    "title": "Everything you don’t need to know about Amazon Aurora DSQL: Part 5 – How the service uses clocks",
+    "link": "https://aws.amazon.com/blogs/database/everything-you-dont-need-to-know-about-amazon-aurora-dsql-part-5-how-the-service-uses-clocks/",
+    "category": "Database"
+  },
+  {
+    "title": "Everything you don’t need to know about Amazon Aurora DSQL: Part 4 – DSQL components",
+    "link": "https://aws.amazon.com/blogs/database/everything-you-dont-need-to-know-about-amazon-aurora-dsql-part-4-dsql-components/",
+    "category": "Database"
+  },
+  {
+    "title": "Everything you don’t need to know about Amazon Aurora DSQL: Part 3 – Transaction processing",
+    "link": "https://aws.amazon.com/blogs/database/everything-you-dont-need-to-know-about-amazon-aurora-dsql-part-3-transaction-processing/",
+    "category": "Database"
+  },
+  {
+    "title": "Everything you don’t need to know about Amazon Aurora DSQL: Part 2 – Shallow view",
+    "link": "https://aws.amazon.com/blogs/database/everything-you-dont-need-to-know-about-amazon-aurora-dsql-part-2-shallow-view/",
+    "category": "Database"
+  },
+  {
+    "title": "Everything you don’t need to know about Amazon Aurora DSQL: Part 1 – Setting the scene",
+    "link": "https://aws.amazon.com/blogs/database/everything-you-dont-need-to-know-about-amazon-aurora-dsql-part-1-setting-the-scene/",
+    "category": "Database"
+  },
+  {
+    "title": "Protect sensitive data with dynamic data masking for Amazon Aurora PostgreSQL",
+    "link": "https://aws.amazon.com/blogs/database/protect-sensitive-data-with-dynamic-data-masking-for-amazon-aurora-postgresql/",
+    "category": "Database"
+  },
+  {
+    "title": "Optimize database performance using resource governor on Amazon RDS for SQL Server",
+    "link": "https://aws.amazon.com/blogs/database/optimize-database-performance-using-resource-governor-on-amazon-rds-for-sql-server/",
+    "category": "Database"
+  },
+  {
+    "title": "Implement high availability in Amazon RDS for SQL Server Web Edition using block-level replication",
+    "link": "https://aws.amazon.com/blogs/database/implement-high-availability-in-amazon-rds-for-sql-server-web-edition-using-block-level-replication/",
+    "category": "Database"
+  },
+  {
+    "title": "Multi-key support for Global Secondary Index in Amazon DynamoDB",
+    "link": "https://aws.amazon.com/blogs/database/multi-key-support-for-global-secondary-index-in-amazon-dynamodb/",
+    "category": "Database"
+  },
+  {
+    "title": "Accelerating data modeling accuracy with the Amazon DynamoDB Data Model Validation Tool",
+    "link": "https://aws.amazon.com/blogs/database/accelerating-data-modeling-accuracy-with-the-amazon-dynamodb-data-model-validation-tool/",
+    "category": "Database"
+  },
+  {
+    "title": "Accelerate generative AI use cases with Amazon Bedrock and Oracle Database@AWS",
+    "link": "https://aws.amazon.com/blogs/database/accelerate-generative-ai-use-cases-with-amazon-bedrock-and-oracle-databaseaws/",
+    "category": "Database"
+  },
+  {
+    "title": "Accelerate database modernization using AI with the Database Modernizer Workshop",
+    "link": "https://aws.amazon.com/blogs/database/accelerate-database-modernization-using-ai-with-the-database-modernizer-workshop/",
+    "category": "Database"
+  }
+]

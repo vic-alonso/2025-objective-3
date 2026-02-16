@@ -1,1 +1,237 @@
-[]
+[
+  {
+    "title": "ANYbotics uses AWS to deploy a global robot workforce for industrial inspections",
+    "link": "https://aws.amazon.com/blogs/robotics/anybotics-uses-aws-to-deploy-a-global-robot-workforce-for-industrial-inspections/",
+    "category": "Robotics"
+  },
+  {
+    "title": "Running high-fidelity O3DE simulations in AWS RoboMaker",
+    "link": "https://aws.amazon.com/blogs/robotics/running-high-fidelity-o3de-simulations-in-aws-robomaker/",
+    "category": "Robotics"
+  },
+  {
+    "title": "Running an SSH server on AWS RoboMaker",
+    "link": "https://aws.amazon.com/blogs/robotics/running-an-ssh-server-on-aws-robomaker/",
+    "category": "Robotics"
+  },
+  {
+    "title": "New introductory course on how to build, deploy, and manage robots with AWS",
+    "link": "https://aws.amazon.com/blogs/robotics/new-introductory-course-on-how-to-build-deploy-and-manage-robots-with-aws/",
+    "category": "Robotics"
+  },
+  {
+    "title": "AWS empowers SEQSENSE to build Autonomous Security Robots",
+    "link": "https://aws.amazon.com/blogs/robotics/aws-empowers-seqsense-to-build-autonomous-security-robots/",
+    "category": "Robotics"
+  },
+  {
+    "title": "How Brisa Robotics uses AWS to improve robotics operations",
+    "link": "https://aws.amazon.com/blogs/robotics/how-brisa-robotics-uses-aws-to-improve-robotics-operations/",
+    "category": "Robotics"
+  },
+  {
+    "title": "Adaptive Reprogramming of Industrial Robots and Toolpath Validation in the Cloud",
+    "link": "https://aws.amazon.com/blogs/robotics/adaptive-reprogramming-of-industrial-robots-and-toolpath-validation-in-the-cloud/",
+    "category": "Robotics"
+  },
+  {
+    "title": "How to provide improved data isolation for tenant robots",
+    "link": "https://aws.amazon.com/blogs/robotics/how-to-provide-improved-data-isolation-for-tenant-robots/",
+    "category": "Robotics"
+  },
+  {
+    "title": "ANT61 accelerates reinforcement learning for space robots using AWS",
+    "link": "https://aws.amazon.com/blogs/robotics/ant61-accelerates-reinforcement-learning-for-space-robots-using-aws/",
+    "category": "Robotics"
+  },
+  {
+    "title": "Build headless robotic simulations with AWS Batch",
+    "link": "https://aws.amazon.com/blogs/robotics/build-headless-robotic-simulations-with-aws-batch/",
+    "category": "Robotics"
+  },
+  {
+    "title": "How to connect your robots to the AWS Cloud and drive data-driven innovation",
+    "link": "https://aws.amazon.com/blogs/robotics/how-to-connect-your-robots-to-the-aws-cloud-and-drive-data-driven-innovation/",
+    "category": "Robotics"
+  },
+  {
+    "title": "Building cost effective and scalable autonomous driving application with AWS RoboMaker",
+    "link": "https://aws.amazon.com/blogs/robotics/building-cost-effective-and-scalable-autonomous-driving-application-with-aws-robomaker/",
+    "category": "Robotics"
+  },
+  {
+    "title": "Build and Simulate Robotics Applications in AWS Cloud9",
+    "link": "https://aws.amazon.com/blogs/robotics/robotics-development-in-aws-cloud9/",
+    "category": "Robotics"
+  },
+  {
+    "title": "Run any high-fidelity simulation in AWS RoboMaker with GPU and container support",
+    "link": "https://aws.amazon.com/blogs/robotics/run-any-high-fidelity-simulation-in-aws-robomaker-with-gpu-and-container-support/",
+    "category": "Robotics"
+  },
+  {
+    "title": "Deploy and Manage ROS Robots with AWS IoT Greengrass 2.0 and Docker",
+    "link": "https://aws.amazon.com/blogs/robotics/deploy-and-manage-ros-robots-with-aws-iot-greengrass-2-0-and-docker/",
+    "category": "Robotics"
+  },
+  {
+    "title": "Containerize robot applications for testing in the cloud and deploying at the edge",
+    "link": "https://aws.amazon.com/blogs/robotics/containerize-robot-applications-for-testing-in-the-cloud-and-deploying-at-the-edge/",
+    "category": "Robotics"
+  },
+  {
+    "title": "Build and simulate a Mini Pupper robot in the cloud without managing any infrastructure",
+    "link": "https://aws.amazon.com/blogs/robotics/build-and-simulate-a-mini-pupper-robot-in-the-cloud-without-managing-any-infrastructure/",
+    "category": "Robotics"
+  },
+  {
+    "title": "Preparing ROS application and simulation containers for AWS RoboMaker",
+    "link": "https://aws.amazon.com/blogs/robotics/preparing-ros-application-and-simulation-containers-for-aws-robomaker/",
+    "category": "Robotics"
+  },
+  {
+    "title": "How Boston Dynamics and AWS use mobility and computer vision for dynamic sensing",
+    "link": "https://aws.amazon.com/blogs/robotics/how-boston-dynamics-and-aws-use-mobility-and-computer-vision-for-dynamic-sensing/",
+    "category": "Robotics"
+  },
+  {
+    "title": "Accelerating the pace of innovation with robotics startups and AWS",
+    "link": "https://aws.amazon.com/blogs/robotics/accelerating-the-pace-of-innovation-with-robotics-startups-and-aws/",
+    "category": "Robotics"
+  },
+  {
+    "title": "AWS RoboMaker now supports ROS2 Foxy Fitzroy featuring Navigation2",
+    "link": "https://aws.amazon.com/blogs/robotics/aws-robomaker-now-supports-ros2-foxy-fitzroy-featuring-navigation2/",
+    "category": "Robotics"
+  },
+  {
+    "title": "AWS announces a new developer desktop feature within the AWS RoboMaker IDE",
+    "link": "https://aws.amazon.com/blogs/robotics/aws-announces-a-new-developer-desktop-feature-within-the-aws-robomaker-ide/",
+    "category": "Robotics"
+  },
+  {
+    "title": "Improving control of diagnostic tools in simulations with AWS RoboMaker tool configuration",
+    "link": "https://aws.amazon.com/blogs/robotics/improving-control-of-diagnostic-tools-in-simulations-with-aws-robomaker-tool-configuration/",
+    "category": "Robotics"
+  },
+  {
+    "title": "Roomie uses AWS RoboMaker to scale custom robotics development",
+    "link": "https://aws.amazon.com/blogs/robotics/roomie-uses-aws-robomaker-to-scale-custom-robotics-development/",
+    "category": "Robotics"
+  },
+  {
+    "title": "Clearpath enables robotics prototyping with one-click simulations using AWS",
+    "link": "https://aws.amazon.com/blogs/robotics/clearpath-enables-robotics-prototyping-one-click-simulations-using-aws/",
+    "category": "Robotics"
+  },
+  {
+    "title": "How INESC TEC tests and deploys ROS applications with AWS RoboMaker",
+    "link": "https://aws.amazon.com/blogs/robotics/how-inesc-tec-tests-and-deploys-ros-applications-with-aws-robomaker/",
+    "category": "Robotics"
+  },
+  {
+    "title": "Introducing upload configurations for AWS RoboMaker Simulation",
+    "link": "https://aws.amazon.com/blogs/robotics/introducing-upload-configurations-for-aws-robomaker-simulations/",
+    "category": "Robotics"
+  },
+  {
+    "title": "Guide To AWS Robotics at re:Invent 2020",
+    "link": "https://aws.amazon.com/blogs/robotics/robotics-at-reinvent-2020/",
+    "category": "Robotics"
+  },
+  {
+    "title": "AWS Robotics announces an open source Cloud Robotics Curriculum",
+    "link": "https://aws.amazon.com/blogs/robotics/cloud-robotics-curriculum-students-educators/",
+    "category": "Robotics"
+  },
+  {
+    "title": "Deploying ROS applications as Snaps with AWS IoT Greengrass 2.0",
+    "link": "https://aws.amazon.com/blogs/robotics/deploying-ros-applications-snaps-aws-iot-greengrass/",
+    "category": "Robotics"
+  },
+  {
+    "title": "Testing map generation at scale with 3D worlds from AWS WorldForge",
+    "link": "https://aws.amazon.com/blogs/robotics/testing-map-generation-worldforge-simulation/",
+    "category": "Robotics"
+  },
+  {
+    "title": "Escape from the maze by training a Reinforcement Learning model on AWS RoboMaker",
+    "link": "https://aws.amazon.com/blogs/robotics/reinforcement-learning-robotics/",
+    "category": "Robotics"
+  },
+  {
+    "title": "Testing a PR2 Robot in a simulated Hospital World",
+    "link": "https://aws.amazon.com/blogs/robotics/hospital-world-simulating-robot/",
+    "category": "Robotics"
+  },
+  {
+    "title": "Build an Alexa controlled robot with AWS RoboMaker",
+    "link": "https://aws.amazon.com/blogs/robotics/build-alexa-controlled-robot/",
+    "category": "Robotics"
+  },
+  {
+    "title": "Navigating robots on Mars: Results of the AWS JPL Open Source Rover Challenge",
+    "link": "https://aws.amazon.com/blogs/robotics/navigating-robots-on-mars-jpl-open-source-rover-challenge/",
+    "category": "Robotics"
+  },
+  {
+    "title": "Easily record and store robotic application data with the S3 rosbag cloud extension for AWS RoboMaker",
+    "link": "https://aws.amazon.com/blogs/robotics/record-store-robot-data-rosbag/",
+    "category": "Robotics"
+  },
+  {
+    "title": "Introduction to Automatic Testing of Robotics Applications",
+    "link": "https://aws.amazon.com/blogs/robotics/automatic-testing-robotics/",
+    "category": "Robotics"
+  },
+  {
+    "title": "ROS 2 Foxy Fitzroy: Setting a new standard for production robot development",
+    "link": "https://aws.amazon.com/blogs/robotics/ros2-foxy-fitzroy-robot-development/",
+    "category": "Robotics"
+  },
+  {
+    "title": "Building Robot Operating System (ROS) 2.0 powered robots with the ROSBot 2.0 tutorial and Amazon Web Services (AWS)",
+    "link": "https://aws.amazon.com/blogs/robotics/building-ros2-robots/",
+    "category": "Robotics"
+  },
+  {
+    "title": "Fleet and multi-robot simulations in AWS RoboMaker",
+    "link": "https://aws.amazon.com/blogs/robotics/fleet-and-multi-robot-simulations-in-aws-robomaker/",
+    "category": "Robotics"
+  },
+  {
+    "title": "Building a ROS-Application CI Pipeline with AWS RoboMaker",
+    "link": "https://aws.amazon.com/blogs/robotics/building-a-ros-application-ci-pipeline-with-aws-robomaker/",
+    "category": "Robotics"
+  },
+  {
+    "title": "Introducing Batch Simulation API for AWS RoboMaker",
+    "link": "https://aws.amazon.com/blogs/robotics/introducing-batch-simulation-api-for-aws-robomaker/",
+    "category": "Robotics"
+  },
+  {
+    "title": "Join the AWS JPL Open-Source Rover Challenge",
+    "link": "https://aws.amazon.com/blogs/robotics/join-the-aws-jpl-open-source-rover-challenge/",
+    "category": "Robotics"
+  },
+  {
+    "title": "Deploy Robotic Applications Using AWS RoboMaker",
+    "link": "https://aws.amazon.com/blogs/robotics/deploy-robotic-applications-using-aws-robomaker/",
+    "category": "Robotics"
+  },
+  {
+    "title": "Hello Robot World",
+    "link": "https://aws.amazon.com/blogs/robotics/hello-robot-world/",
+    "category": "Robotics"
+  },
+  {
+    "title": "Introducing Log-based Simulation for AWS RoboMaker",
+    "link": "https://aws.amazon.com/blogs/robotics/introducing-log-based-simulation-for-aws-robomaker/",
+    "category": "Robotics"
+  },
+  {
+    "title": "Manage Robot Deployment from External Applications with AWS",
+    "link": "https://aws.amazon.com/blogs/robotics/manage-robot-deployment-from-external-applications-with-aws/",
+    "category": "Robotics"
+  }
+]

@@ -1,1 +1,207 @@
-[]
+[
+  {
+    "title": "Top announcements of AWS re:Invent 2025",
+    "link": "https://aws.amazon.com/blogs/aws/top-announcements-of-aws-reinvent-2025/",
+    "category": "AWS News"
+  },
+  {
+    "title": "AWS Weekly Roundup: Amazon Bedrock agent workflows, Amazon SageMaker private connectivity, and more (February 2, 2026)",
+    "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-agent-workflows-amazon-sagemaker-private-connectivity-and-more-february-2-2026/",
+    "category": "AWS News"
+  },
+  {
+    "title": "AWS Weekly Roundup: Amazon EC2 G7e instances, Amazon Corretto updates, and more (January 26, 2026)",
+    "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-ec2-g7e-instances-with-nvidia-blackwell-gpus-january-26-2026/",
+    "category": "AWS News"
+  },
+  {
+    "title": "Announcing Amazon EC2 G7e instances accelerated by NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs",
+    "link": "https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-g7e-instances-accelerated-by-nvidia-rtx-pro-6000-blackwell-server-edition-gpus/",
+    "category": "AWS News"
+  },
+  {
+    "title": "AWS Weekly Roundup: Kiro CLI latest features, AWS European Sovereign Cloud, EC2 X8i instances, and more (January 19, 2026)",
+    "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-kiro-cli-latest-features-aws-european-sovereign-cloud-ec2-x8i-instances-and-more-january-19-2026/",
+    "category": "AWS News"
+  },
+  {
+    "title": "Amazon EC2 X8i instances powered by custom Intel Xeon 6 processors are generally available for memory-intensive workloads",
+    "link": "https://aws.amazon.com/blogs/aws/amazon-ec2-x8i-instances-powered-by-custom-intel-xeon-6-processors-are-generally-available-for-memory-intensive-workloads/",
+    "category": "AWS News"
+  },
+  {
+    "title": "Opening the AWS European Sovereign Cloud",
+    "link": "https://aws.amazon.com/blogs/aws/opening-the-aws-european-sovereign-cloud/",
+    "category": "AWS News"
+  },
+  {
+    "title": "AWS Weekly Roundup: AWS Lambda for .NET 10, AWS Client VPN quickstart, Best of AWS re:Invent, and more (January 12, 2026)",
+    "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-lambda-for-net-10-aws-client-vpn-quickstart-best-of-aws-reinvent-and-more-january-12-2026/",
+    "category": "AWS News"
+  },
+  {
+    "title": "Happy New Year! AWS Weekly Roundup: 10,000 AIdeas Competition, Amazon EC2, Amazon ECS Managed Instances and more (January 5, 2026)",
+    "link": "https://aws.amazon.com/blogs/aws/happy-new-year-aws-weekly-roundup-10000-aideas-competition-amazon-ec2-amazon-ecs-managed-instances-and-more-january-5-2026/",
+    "category": "AWS News"
+  },
+  {
+    "title": "AWS Weekly Roundup: Amazon ECS, Amazon CloudWatch, Amazon Cognito and more (December 15, 2025)",
+    "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-ecs-amazon-cloudwatch-amazon-cognito-and-more-december-15-2025/",
+    "category": "AWS News"
+  },
+  {
+    "title": "AWS Weekly Roundup: AWS re:Invent keynote recap, on-demand videos, and more (December 8, 2025)",
+    "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-reinvent-keynote-recap-on-demand-videos-and-more-december-8-2025/",
+    "category": "AWS News"
+  },
+  {
+    "title": "Amazon Bedrock adds reinforcement ﬁne-tuning simplifying how developers build smarter, more accurate AI models",
+    "link": "https://aws.amazon.com/blogs/aws/improve-model-accuracy-with-reinforcement-fine-tuning-in-amazon-bedrock/",
+    "category": "AWS News"
+  },
+  {
+    "title": "New serverless customization in Amazon SageMaker AI accelerates model fine-tuning",
+    "link": "https://aws.amazon.com/blogs/aws/new-serverless-customization-in-amazon-sagemaker-ai-accelerates-model-fine-tuning/",
+    "category": "AWS News"
+  },
+  {
+    "title": "Introducing checkpointless and elastic training on Amazon SageMaker HyperPod",
+    "link": "https://aws.amazon.com/blogs/aws/introducing-checkpointless-and-elastic-training-on-amazon-sagemaker-hyperpod/",
+    "category": "AWS News"
+  },
+  {
+    "title": "Announcing replication support and Intelligent-Tiering for Amazon S3 Tables",
+    "link": "https://aws.amazon.com/blogs/aws/announcing-replication-support-and-intelligent-tiering-for-amazon-s3-tables/",
+    "category": "AWS News"
+  },
+  {
+    "title": "Amazon S3 Storage Lens adds performance metrics, support for billions of prefixes, and export to S3 Tables",
+    "link": "https://aws.amazon.com/blogs/aws/amazon-s3-storage-lens-adds-performance-metrics-support-for-billions-of-prefixes-and-export-to-s3-tables/",
+    "category": "AWS News"
+  },
+  {
+    "title": "Amazon Bedrock AgentCore adds quality evaluations and policy controls for deploying trusted AI agents",
+    "link": "https://aws.amazon.com/blogs/aws/amazon-bedrock-agentcore-adds-quality-evaluations-and-policy-controls-for-deploying-trusted-ai-agents/",
+    "category": "AWS News"
+  },
+  {
+    "title": "Build multi-step applications and AI workflows with AWS Lambda durable functions",
+    "link": "https://aws.amazon.com/blogs/aws/build-multi-step-applications-and-ai-workflows-with-aws-lambda-durable-functions/",
+    "category": "AWS News"
+  },
+  {
+    "title": "New capabilities to optimize costs and improve scalability on Amazon RDS for SQL Server and Oracle",
+    "link": "https://aws.amazon.com/blogs/aws/amazon-rds-for-oracle-and-rds-for-sql-server-add-new-capabilities-to-enhance-performance-and-optimize-costs/",
+    "category": "AWS News"
+  },
+  {
+    "title": "Introducing Database Savings Plans for AWS Databases",
+    "link": "https://aws.amazon.com/blogs/aws/introducing-database-savings-plans-for-aws-databases/",
+    "category": "AWS News"
+  },
+  {
+    "title": "Amazon CloudWatch introduces unified data management and analytics for operations, security, and compliance",
+    "link": "https://aws.amazon.com/blogs/aws/amazon-cloudwatch-introduces-unified-data-management-and-analytics-for-operations-security-and-compliance/",
+    "category": "AWS News"
+  },
+  {
+    "title": "New and enhanced AWS Support plans add AI capabilities to expert guidance",
+    "link": "https://aws.amazon.com/blogs/aws/new-and-enhanced-aws-support-plans-add-ai-capabilities-to-expert-guidance/",
+    "category": "AWS News"
+  },
+  {
+    "title": "Amazon OpenSearch Service improves vector database performance and cost with GPU acceleration and auto-optimization",
+    "link": "https://aws.amazon.com/blogs/aws/amazon-opensearch-service-improves-vector-database-performance-and-cost-with-gpu-acceleration-and-auto-optimization/",
+    "category": "AWS News"
+  },
+  {
+    "title": "Amazon S3 Vectors now generally available with increased scale and performance",
+    "link": "https://aws.amazon.com/blogs/aws/amazon-s3-vectors-now-generally-available-with-increased-scale-and-performance/",
+    "category": "AWS News"
+  },
+  {
+    "title": "Amazon Bedrock adds 18 fully managed open weight models, including the new Mistral Large 3 and Ministral 3 models",
+    "link": "https://aws.amazon.com/blogs/aws/amazon-bedrock-adds-fully-managed-open-weight-models/",
+    "category": "AWS News"
+  },
+  {
+    "title": "Introducing Amazon EC2 X8aedz instances powered by 5th Gen AMD EPYC processors for memory-intensive workloads",
+    "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-ec2-x8aedz-instances-powered-by-5th-gen-amd-epyc-processors-for-memory-intensive-workloads/",
+    "category": "AWS News"
+  },
+  {
+    "title": "AWS DevOps Agent helps you accelerate incident response and improve system reliability (preview)",
+    "link": "https://aws.amazon.com/blogs/aws/aws-devops-agent-helps-you-accelerate-incident-response-and-improve-system-reliability-preview/",
+    "category": "AWS News"
+  },
+  {
+    "title": "Accelerate AI development using Amazon SageMaker AI with serverless MLflow",
+    "link": "https://aws.amazon.com/blogs/aws/accelerate-ai-development-using-amazon-sagemaker-ai-with-serverless-mlflow/",
+    "category": "AWS News"
+  },
+  {
+    "title": "Amazon FSx for NetApp ONTAP now integrates with Amazon S3 for seamless data access",
+    "link": "https://aws.amazon.com/blogs/aws/amazon-fsx-for-netapp-ontap-now-integrates-with-amazon-s3-for-seamless-data-access/",
+    "category": "AWS News"
+  },
+  {
+    "title": "Introducing Amazon Nova 2 Lite, a fast, cost-effective reasoning model",
+    "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-nova-2-lite-a-fast-cost-effective-reasoning-model/",
+    "category": "AWS News"
+  },
+  {
+    "title": "New AWS Security Agent secures applications proactively from design to deployment (preview)",
+    "link": "https://aws.amazon.com/blogs/aws/new-aws-security-agent-secures-applications-proactively-from-design-to-deployment-preview/",
+    "category": "AWS News"
+  },
+  {
+    "title": "AWS Security Hub now generally available with near real-time analytics and risk prioritization",
+    "link": "https://aws.amazon.com/blogs/aws/aws-security-hub-now-generally-available-with-near-real-time-analytics-and-risk-prioritization/",
+    "category": "AWS News"
+  },
+  {
+    "title": "Amazon GuardDuty adds Extended Threat Detection for Amazon EC2 and Amazon ECS",
+    "link": "https://aws.amazon.com/blogs/aws/amazon-guardduty-adds-extended-threat-detection-for-amazon-ec2-and-amazon-ecs/",
+    "category": "AWS News"
+  },
+  {
+    "title": "Introducing Amazon Nova 2 Sonic: Our new speech-to-speech model for conversational AI",
+    "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-nova-2-sonic-next-generation-speech-to-speech-model-for-conversational-ai/",
+    "category": "AWS News"
+  },
+  {
+    "title": "Build reliable AI agents for UI workflow automation with Amazon Nova Act, now generally available",
+    "link": "https://aws.amazon.com/blogs/aws/build-reliable-ai-agents-for-ui-workflow-automation-with-amazon-nova-act-now-generally-available/",
+    "category": "AWS News"
+  },
+  {
+    "title": "AWS Transform for mainframe introduces Reimagine capabilities and automated testing functionality",
+    "link": "https://aws.amazon.com/blogs/aws/aws-transform-for-mainframe-introduces-reimagine-capabilities-and-automated-testing-functionality/",
+    "category": "AWS News"
+  },
+  {
+    "title": "AWS Transform announces full-stack Windows modernization capabilities",
+    "link": "https://aws.amazon.com/blogs/aws/aws-transform-announces-full-stack-windows-modernization-capabilities/",
+    "category": "AWS News"
+  },
+  {
+    "title": "Introducing AWS Transform custom: Crush tech debt with AI-powered code modernization",
+    "link": "https://aws.amazon.com/blogs/aws/introducing-aws-transform-custom-crush-tech-debt-with-ai-powered-code-modernization/",
+    "category": "AWS News"
+  },
+  {
+    "title": "Top announcements of AWS re:Invent 2025",
+    "link": "https://aws.amazon.com/blogs/aws/top-announcements-of-aws-reinvent-2025/",
+    "category": "AWS News"
+  },
+  {
+    "title": "Introducing Amazon Route 53 Global Resolver for secure anycast DNS resolution (preview)",
+    "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-route-53-global-resolver-for-secure-anycast-dns-resolution-preview/",
+    "category": "AWS News"
+  },
+  {
+    "title": "AWS Clean Rooms launches privacy-enhancing synthetic dataset generation for ML model training",
+    "link": "https://aws.amazon.com/blogs/aws/aws-clean-rooms-launches-privacy-enhancing-synthetic-dataset-generation-for-ml-model-training/",
+    "category": "AWS News"
+  }
+]

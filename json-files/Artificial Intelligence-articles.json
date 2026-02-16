@@ -1,1 +1,252 @@
-[]
+[
+  {
+    "title": "Agentic AI for healthcare data analysis with Amazon SageMaker Data Agent",
+    "link": "https://aws.amazon.com/blogs/machine-learning/agentic-ai-for-healthcare-data-analysis-with-amazon-sagemaker-data-agent/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "How Clarus Care uses Amazon Bedrock to deliver conversational contact center interactions",
+    "link": "https://aws.amazon.com/blogs/machine-learning/how-clarus-care-uses-amazon-bedrock-to-deliver-conversational-contact-center-interactions/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "Evaluating generative AI models with Amazon Nova LLM-as-a-Judge on Amazon SageMaker AI",
+    "link": "https://aws.amazon.com/blogs/machine-learning/evaluating-generative-ai-models-with-amazon-nova-llm-as-a-judge-on-amazon-sagemaker-ai/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "Simplify ModelOps with Amazon SageMaker AI Projects using Amazon S3-based templates",
+    "link": "https://aws.amazon.com/blogs/machine-learning/simplify-modelops-with-amazon-sagemaker-ai-projects-using-amazon-s3-based-templates/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "Scale AI in South Africa using Amazon Bedrock global cross-Region inference with Anthropic Claude 4.5 models",
+    "link": "https://aws.amazon.com/blogs/machine-learning/scale-ai-in-south-africa-using-amazon-bedrock-global-cross-region-inference-with-anthropic-claude-4-5-models/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "Scaling content review operations with multi-agent workflow",
+    "link": "https://aws.amazon.com/blogs/machine-learning/scaling-content-review-operations-with-multi-agent-workflow/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "Build reliable Agentic AI solution with Amazon Bedrock: Learn from Pushpay’s journey on GenAI evaluation",
+    "link": "https://aws.amazon.com/blogs/machine-learning/build-reliable-agentic-ai-solution-with-amazon-bedrock-learn-from-pushpays-journey-on-genai-evaluation/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "Build an intelligent contract management solution with Amazon Quick Suite and Bedrock AgentCore",
+    "link": "https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-contract-management-solution-with-amazon-quick-suite-and-bedrock-agentcore/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "Build a serverless AI Gateway architecture with AWS AppSync Events",
+    "link": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-ai-gateway-architecture-with-aws-appsync-events/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "How Totogi automated change request processing with Totogi BSS Magic and Amazon Bedrock",
+    "link": "https://aws.amazon.com/blogs/machine-learning/how-totogi-automated-change-request-processing-with-totogi-bss-magic-and-amazon-bedrock/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "Build AI agents with Amazon Bedrock AgentCore using AWS CloudFormation",
+    "link": "https://aws.amazon.com/blogs/machine-learning/build-ai-agents-with-amazon-bedrock-agentcore-using-aws-cloudformation/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "How the Amazon.com Catalog Team built self-learning generative AI at scale with Amazon Bedrock",
+    "link": "https://aws.amazon.com/blogs/machine-learning/how-the-amazon-com-catalog-team-built-self-learning-generative-ai-at-scale-with-amazon-bedrock/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "How PDI built an enterprise-grade RAG system for AI applications with AWS",
+    "link": "https://aws.amazon.com/blogs/machine-learning/how-pdi-built-an-enterprise-grade-rag-system-for-ai-applications-with-aws/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "How CLICKFORCE accelerates data-driven advertising with Amazon Bedrock Agents",
+    "link": "https://aws.amazon.com/blogs/machine-learning/how-clickforce-accelerates-data-driven-advertising-with-amazon-bedrock-agents/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "How Thomson Reuters built an Agentic Platform Engineering Hub with Amazon Bedrock AgentCore",
+    "link": "https://aws.amazon.com/blogs/machine-learning/how-thomson-reuters-built-an-agentic-platform-engineering-hub-with-amazon-bedrock-agentcore/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "Build agents to learn from experiences using Amazon Bedrock AgentCore episodic memory",
+    "link": "https://aws.amazon.com/blogs/machine-learning/build-agents-to-learn-from-experiences-using-amazon-bedrock-agentcore-episodic-memory/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "How bunq handles 97% of support with Amazon Bedrock",
+    "link": "https://aws.amazon.com/blogs/machine-learning/how-bunq-handles-97-of-support-with-amazon-bedrock/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "Using Strands Agents to create a multi-agent solution with Meta’s Llama 4 and Amazon Bedrock",
+    "link": "https://aws.amazon.com/blogs/machine-learning/using-strands-agents-to-create-a-multi-agent-solution-with-metas-llama-4-and-amazon-bedrock/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "Introducing multimodal retrieval for Amazon Bedrock Knowledge Bases",
+    "link": "https://aws.amazon.com/blogs/machine-learning/introducing-multimodal-retrieval-for-amazon-bedrock-knowledge-bases/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "Advanced fine-tuning techniques for multi-agent orchestration: Patterns from Amazon at scale",
+    "link": "https://aws.amazon.com/blogs/machine-learning/advanced-fine-tuning-techniques-for-multi-agent-orchestration-patterns-from-amazon-at-scale/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "How Palo Alto Networks enhanced device security infra log analysis with Amazon Bedrock",
+    "link": "https://aws.amazon.com/blogs/machine-learning/how-palo-alto-networks-enhanced-device-security-infra-log-analysis-with-amazon-bedrock/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "From beginner to champion: A student’s journey through the AWS AI League ASEAN finals",
+    "link": "https://aws.amazon.com/blogs/machine-learning/from-beginner-to-champion-a-students-journey-through-the-aws-ai-league-asean-finals/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "Deploy AI agents on Amazon Bedrock AgentCore using GitHub Actions",
+    "link": "https://aws.amazon.com/blogs/machine-learning/deploy-ai-agents-on-amazon-bedrock-agentcore-using-github-actions/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "How the Amazon AMET Payments team accelerates test case generation with Strands Agents",
+    "link": "https://aws.amazon.com/blogs/machine-learning/how-the-amazon-amet-payments-team-accelerates-test-case-generation-with-strands-agents/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "Build a generative AI-powered business reporting solution with Amazon Bedrock",
+    "link": "https://aws.amazon.com/blogs/machine-learning/build-a-generative-ai-powered-business-reporting-solution-with-amazon-bedrock/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "Safeguard generative AI applications with Amazon Bedrock Guardrails",
+    "link": "https://aws.amazon.com/blogs/machine-learning/safeguard-generative-ai-applications-with-amazon-bedrock-guardrails/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "Scale creative asset discovery with Amazon Nova Multimodal Embeddings unified vector search",
+    "link": "https://aws.amazon.com/blogs/machine-learning/scale-creative-asset-discovery-with-amazon-nova-multimodal-embeddings-unified-vector-search/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "How AutoScout24 built a Bot Factory to standardize AI agent development with Amazon Bedrock",
+    "link": "https://aws.amazon.com/blogs/machine-learning/how-autoscout24-built-a-bot-factory-to-standardize-ai-agent-development-with-amazon-bedrock/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "Transform AI development with new Amazon SageMaker AI model customization and large-scale training capabilities",
+    "link": "https://aws.amazon.com/blogs/machine-learning/transform-ai-development-with-new-amazon-sagemaker-ai-model-customization-and-large-scale-training-capabilities/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "Securing Amazon Bedrock cross-Region inference: Geographic and global",
+    "link": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-bedrock-cross-region-inference-geographic-and-global/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "How Omada Health scaled patient care by fine-tuning Llama models on Amazon SageMaker AI",
+    "link": "https://aws.amazon.com/blogs/machine-learning/how-omada-health-scaled-patient-care-by-fine-tuning-llama-models-on-amazon-sagemaker-ai/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "Crossmodal search with Amazon Nova Multimodal Embeddings",
+    "link": "https://aws.amazon.com/blogs/machine-learning/crossmodal-search-with-amazon-nova-multimodal-embeddings/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "Accelerating LLM inference with post-training weight and activation using AWQ and GPTQ on Amazon SageMaker AI",
+    "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-llm-inference-with-post-training-weight-and-activation-using-awq-and-gptq-on-amazon-sagemaker-ai/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "How Beekeeper by LumApps optimized user personalization with Amazon Bedrock",
+    "link": "https://aws.amazon.com/blogs/machine-learning/how-beekeeper-optimized-user-personalization-with-amazon-bedrock/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "Sentiment Analysis with Text and Audio Using AWS Generative AI Services: Approaches, Challenges, and Solutions",
+    "link": "https://aws.amazon.com/blogs/machine-learning/sentiment-analysis-with-text-and-audio-using-aws-generative-ai-services-approaches-challenges-and-solutions/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "Architecting TrueLook’s AI-powered construction safety system on Amazon SageMaker AI",
+    "link": "https://aws.amazon.com/blogs/machine-learning/architecting-truelooks-ai-powered-construction-safety-system-on-amazon-sagemaker-ai/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "Scaling medical content review at Flo Health using Amazon Bedrock (Part 1)",
+    "link": "https://aws.amazon.com/blogs/machine-learning/scaling-medical-content-review-at-flo-health-using-amazon-bedrock-part-1/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "Detect and redact personally identifiable information using Amazon Bedrock Data Automation and Guardrails",
+    "link": "https://aws.amazon.com/blogs/machine-learning/detect-and-redact-personally-identifiable-information-using-amazon-bedrock-data-automation-and-guardrails/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "Speed meets scale: Load testing SageMakerAI endpoints with Observe.AI’s testing tool",
+    "link": "https://aws.amazon.com/blogs/machine-learning/speed-meets-scale-load-testing-sagemakerai-endpoints-with-observe-ais-testing-tool/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "Migrate MLflow tracking servers to Amazon SageMaker AI with serverless MLflow",
+    "link": "https://aws.amazon.com/blogs/machine-learning/migrate-mlflow-tracking-servers-to-amazon-sagemaker-ai-with-serverless-mlflow/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "Build an AI-powered website assistant with Amazon Bedrock",
+    "link": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-website-assistant-with-amazon-bedrock/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "Programmatically creating an IDP solution with Amazon Bedrock Data Automation",
+    "link": "https://aws.amazon.com/blogs/machine-learning/programmatically-creating-an-idp-solution-with-amazon-bedrock-data-automation/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "AI agent-driven browser automation for enterprise workflow management",
+    "link": "https://aws.amazon.com/blogs/machine-learning/ai-agent-driven-browser-automation-for-enterprise-workflow-management/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "Agentic QA automation using Amazon Bedrock AgentCore Browser and Amazon Nova Act",
+    "link": "https://aws.amazon.com/blogs/machine-learning/agentic-qa-automation-using-amazon-bedrock-agentcore-browser-and-amazon-nova-act/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "Optimizing LLM inference on Amazon SageMaker AI with BentoML’s LLM- Optimizer",
+    "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-llm-inference-on-amazon-sagemaker-ai-with-bentomls-llm-optimizer/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "Exploring the zero operator access design of Mantle",
+    "link": "https://aws.amazon.com/blogs/machine-learning/exploring-the-zero-operator-access-design-of-mantle/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "AWS AI League: Model customization and agentic showdown",
+    "link": "https://aws.amazon.com/blogs/machine-learning/aws-ai-league-model-customization-and-agentic-showdown/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "Accelerate Enterprise AI Development using Weights & Biases and Amazon Bedrock AgentCore",
+    "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-enterprise-ai-development-using-weights-biases-weave-and-amazon-bedrock-agentcore/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "How dLocal automated compliance reviews using Amazon Quick Automate",
+    "link": "https://aws.amazon.com/blogs/machine-learning/how-dlocal-automated-compliance-reviews-using-amazon-quick-automate/",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "title": "Advancing ADHD diagnosis: How Qbtech built a mobile AI assessment Model Using Amazon SageMaker AI",
+    "link": "https://aws.amazon.com/blogs/machine-learning/advancing-adhd-diagnosis-how-qbtech-built-a-mobile-ai-assessment-model-using-amazon-sagemaker-ai/",
+    "category": "Artificial Intelligence"
+  }
+]

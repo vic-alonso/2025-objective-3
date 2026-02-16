@@ -1,1 +1,252 @@
-[]
+[
+  {
+    "title": "Tech-savvy savings: innovative ways to cut costs in your small business",
+    "link": "https://aws.amazon.com/blogs/smb/tech-savvy-savings-innovative-ways-to-cut-costs-in-your-small-business/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "How tech agility gives small businesses the edge",
+    "link": "https://aws.amazon.com/blogs/smb/how-tech-agility-gives-small-businesses-the-edge/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "Bringing better healthcare to underserved communities",
+    "link": "https://aws.amazon.com/blogs/smb/bringing-better-healthcare-to-underserved-communities/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "Why small changes with people and process lead to big things",
+    "link": "https://aws.amazon.com/blogs/smb/why-small-changes-with-people-and-process-lead-to-big-things/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "Risk Management for SMB Business Leaders: Guidance for Compliance on AWS",
+    "link": "https://aws.amazon.com/blogs/smb/risk-management-for-smb-business-leaders-guidance-for-compliance-on-aws/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "The Rise of Chatbots: Revolutionizing Customer Engagement",
+    "link": "https://aws.amazon.com/blogs/smb/the-rise-of-chatbots-revolutionizing-customer-engagement/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "Small Business, Big Tech: Why SaaS is Your Organization’s Secret Weapon",
+    "link": "https://aws.amazon.com/blogs/smb/small-business-big-tech-why-saas-is-your-organizations-secret-weapon/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "Reimagining the Customer Experience with Real-Time AI-Powered Solutions",
+    "link": "https://aws.amazon.com/blogs/smb/reimagining-the-customer-experience-with-real-time-ai-powered-solutions/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "Boosting Small Business Profits Through Sustainability",
+    "link": "https://aws.amazon.com/blogs/smb/boosting-small-business-profits-through-sustainability/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "Propelling Innovation: The People, Culture, and Process Imperatives",
+    "link": "https://aws.amazon.com/blogs/smb/propelling-innovation-the-people-culture-and-process-imperatives/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "Getting Started with Your SMB’s First AWS Cloud Project",
+    "link": "https://aws.amazon.com/blogs/smb/getting-started-with-your-smbs-first-aws-cloud-project/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "Supporting Tomorrow’s Athletes with Today’s Generative Artificial Intelligence",
+    "link": "https://aws.amazon.com/blogs/smb/supporting-tomorrows-athletes-with-todays-generative-artificial-intelligence/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "How Your SMB Can Build a Business Case for Cloud Migration",
+    "link": "https://aws.amazon.com/blogs/smb/how-your-smb-can-build-a-business-case-for-cloud-migration/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "The SMB Data Revolution: Strategies for Growth and Innovation",
+    "link": "https://aws.amazon.com/blogs/smb/the-smb-data-revolution-strategies-for-growth-and-innovation/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "How Small Businesses Can Modernize Their IT with AWS Partner Network",
+    "link": "https://aws.amazon.com/blogs/smb/how-small-businesses-can-modernize-their-it-with-aws-partner-network/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "Data-Driven SMBs Financially Outperform Their Competitors—and the Gap Is Widening",
+    "link": "https://aws.amazon.com/blogs/smb/data-driven-smbs-financially-outperform-their-competitors-and-the-gap-is-widening/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "The Value of Upskilling Your SMB’s Employees in Generative AI",
+    "link": "https://aws.amazon.com/blogs/smb/the-value-of-upskilling-your-smbs-employees-in-generative-ai/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "“Working Backwards” to Drive Customer Experience and SMB Innovation Forward",
+    "link": "https://aws.amazon.com/blogs/smb/working-backwards-to-drive-customer-experience-and-smb-innovation-forward/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "Implementing Zero Trust Security: A Practical Approach for SMBs",
+    "link": "https://aws.amazon.com/blogs/smb/implementing-zero-trust-security-a-practical-approach-for-smbs/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "A Few Ways to Unlock Generative AI for Your Small Business on AWS",
+    "link": "https://aws.amazon.com/blogs/smb/a-few-ways-to-unlock-generative-ai-for-your-small-business-on-aws/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "Powering Mental Health Assessments with AI: An SMB’s Innovative Solution",
+    "link": "https://aws.amazon.com/blogs/smb/powering-mental-health-assessments-with-ai-an-smbs-innovative-solution/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "How Bridgeforce Data Solutions Automates Credit Reporting and Disputes on AWS",
+    "link": "https://aws.amazon.com/blogs/smb/how-bridgeforce-data-solutions-automates-credit-reporting-and-disputes-on-aws/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "Six E-Commerce Essentials for Running Your SMB in the Cloud",
+    "link": "https://aws.amazon.com/blogs/smb/six-e-commerce-essentials-for-running-your-smb-in-the-cloud/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "How to Measure the ROI of Your Small Business’s Cloud Workflows",
+    "link": "https://aws.amazon.com/blogs/smb/how-to-measure-the-roi-of-your-small-businesss-cloud-workflows/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "How One SMB Automates Content Localization with Generative Artificial Intelligence",
+    "link": "https://aws.amazon.com/blogs/smb/how-one-smb-automates-content-localization-with-generative-artificial-intelligence/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "Exploring Practical Use Cases for Generative AI in Small Businesses",
+    "link": "https://aws.amazon.com/blogs/smb/exploring-practical-use-cases-for-generative-ai-in-small-businesses/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "The Power of Cloud Storage for Small and Medium Businesses: Unlocking Efficiency and Security",
+    "link": "https://aws.amazon.com/blogs/smb/the-power-of-cloud-storage-for-small-and-medium-businesses-unlocking-efficiency-and-security/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "How to Do a Cloud Cybersecurity Checkup for Your SMB in 2024: Benefits, Checklists, Requirements, and More",
+    "link": "https://aws.amazon.com/blogs/smb/how-to-do-a-cloud-cybersecurity-checkup-for-your-smb-in-2024-benefits-checklists-requirements-and-more/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "Should My SMB Build or Buy its Own CRM? Pros, Cons, and Practical Use Cases",
+    "link": "https://aws.amazon.com/blogs/smb/should-my-smb-build-or-buy-its-own-crm-pros-cons-and-practical-use-cases/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "Payliance Is Elevating the Loan Management Process for Underbanked Consumers",
+    "link": "https://aws.amazon.com/blogs/smb/payliance-is-elevating-the-loan-management-process-for-underbanked-consumers/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "Podcast Series: A Few Takeaways About the Cloud That Impact Your Small Business",
+    "link": "https://aws.amazon.com/blogs/smb/podcast-series-a-few-takeaways-about-the-cloud-that-impact-your-small-business/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "Accelerate Time to Market and Business Growth with an Automated Software-as-a-Service Platform",
+    "link": "https://aws.amazon.com/blogs/smb/accelerate-time-to-market-and-business-growth-with-an-automated-software-as-a-service-platform/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "Why Business Intelligence is the Answer for SMBs Struggling with Spreadsheets",
+    "link": "https://aws.amazon.com/blogs/smb/why-business-intelligence-is-the-answer-for-smbs-struggling-with-spreadsheets/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "Inherited or Bought a Small Business? Here’s How to Modernize It for the Future",
+    "link": "https://aws.amazon.com/blogs/smb/inherited-or-bought-a-small-business-heres-how-to-modernize-it-for-the-future/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "Six Questions SMBs Should Ask When Planning IT Costs in 2024",
+    "link": "https://aws.amazon.com/blogs/smb/six-questions-smbs-should-ask-when-planning-it-costs-in-2024/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "SMBs Struggle with Legacy Tech—Here’s How to Modernize Custom Apps",
+    "link": "https://aws.amazon.com/blogs/smb/smbs-struggle-with-legacy-tech-heres-how-to-modernize-custom-apps/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "What Happens When An SMB Doesn’t Digitize Its Business Operations?",
+    "link": "https://aws.amazon.com/blogs/smb/what-happens-when-an-smb-doesnt-digitize-its-business-operations/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "How Small and Medium Businesses Can Get Started with Artificial Intelligence",
+    "link": "https://aws.amazon.com/blogs/smb/how-small-and-medium-businesses-can-get-started-with-artificial-intelligence/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "Four Ways SMBs Can Overcome Software Compatibility Concerns with Cloud Computing",
+    "link": "https://aws.amazon.com/blogs/smb/four-ways-smbs-can-overcome-software-compatibility-concerns-with-cloud-computing/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "How SMB Retailers and E-Commerce Companies Can Unleash Inventory Insights with Cloud Analytics",
+    "link": "https://aws.amazon.com/blogs/smb/how-smb-retailers-and-e-commerce-companies-can-unleash-inventory-insights-with-cloud-analytics/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "Securing Your SMB: Benefits of Strong Cybersecurity Measures",
+    "link": "https://aws.amazon.com/blogs/smb/securing-your-smb-benefits-of-strong-cybersecurity-measures/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "How One SMB Unified Clinical Data to Better Understand Health Trends",
+    "link": "https://aws.amazon.com/blogs/smb/how-one-smb-unified-clinical-data-to-better-understand-health-trends/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "Build a Strong Foundation in the Cloud to Help Your Small or Medium Business Grow",
+    "link": "https://aws.amazon.com/blogs/smb/build-a-strong-foundation-in-the-cloud-to-help-your-small-or-medium-businesses-grow/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "Three Common Misconceptions About Cloud Security That are Holding Back Small and Medium Businesses",
+    "link": "https://aws.amazon.com/blogs/smb/three-common-misconceptions-about-cloud-security-that-are-holding-back-small-and-medium-businesses/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "Saving Millions in Healthcare Claims Processing Costs with AI Workflows",
+    "link": "https://aws.amazon.com/blogs/smb/saving-millions-in-healthcare-claims-processing-costs-with-ai-workflows/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "How Amazon’s “Day 1 Culture” Can Propel Growth for Small and Medium Businesses",
+    "link": "https://aws.amazon.com/blogs/smb/how-amazons-day-1-culture-can-propel-growth-for-small-and-medium-businesses/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "How to Make the Case for Application Modernization to Non-Technical Business Leaders",
+    "link": "https://aws.amazon.com/blogs/smb/how-to-make-the-case-for-application-modernization-to-non-technical-business-leaders/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "What Small and Medium Businesses Need to Know About Generative AI in the Cloud",
+    "link": "https://aws.amazon.com/blogs/smb/what-small-and-medium-businesses-need-to-know-about-generative-ai-in-the-cloud/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "Forrester Insights: The Competitive Advantage of Data and Analytics for Small and Medium Businesses",
+    "link": "https://aws.amazon.com/blogs/smb/forrester-insights-the-competitive-advantage-of-data-and-analytics-for-small-and-medium-businesses/",
+    "category": "AWS Smart Business"
+  },
+  {
+    "title": "Revolutionize Small and Medium Business Retail Operations with Digital Supply Chain Management",
+    "link": "https://aws.amazon.com/blogs/smb/revolutionize-small-and-medium-business-retail-operations-with-digital-supply-chain-management/",
+    "category": "AWS Smart Business"
+  }
+]

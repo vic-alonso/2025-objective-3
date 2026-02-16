@@ -1,1 +1,252 @@
-[]
+[
+  {
+    "title": "Beyond the Monolith: Structured Strategies for Database Modernization",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/beyond-the-monolith-structured-strategies-for-database-modernization/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "Seamlessly modernize your mission-critical applications on AWS",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/seamlessly-modernize-your-mission-critical-applications-on-aws/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "How Bizrate Insights Achieved 30% Faster Performance Using AWS Serverless Services",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/how-bizrate-insights-achieved-30-faster-performance-using-aws-serverless-services/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "Tackling large mainframe portfolio with Agentic AI and AWS Transform",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/tackling-large-mainframe-portfolio-with-agentic-ai-and-aws-transform/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "Optimize transfer performance with AWS Data Transfer Terminal",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/optimize-transfer-performance-with-aws-data-transfer-terminal/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "Accelerating VMware Cloud Migration with AWS Transform and PowerCLI",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/accelerating-vmware-cloud-migration-with-aws-transform-and-powercli/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "Agentic Cloud Modernization: Accelerating Modernization with AWS MCPs and Kiro",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/agentic-cloud-modernization-accelerating-modernization-with-aws-mcps-and-kiro/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "Accelerating VMware migration: AWS Transform’s new experience",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/accelerating-vmware-migration-aws-transforms-new-experience/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "Accelerating mainframe modernization testing with AWS Transform",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/accelerating-mainframe-modernization-testing-with-aws-transform/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "Accelerate mainframe modernization with AWS Transform: A comprehensive refactor approach",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/accelerate-mainframe-modernization-with-aws-transform-a-comprehensive-refactor-approach/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "AWS for mainframe modernization – re:Invent 2025 Refresher",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/aws-for-mainframe-modernization-reinvent-2025-refresher/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "Reimagine your mainframe applications with Agentic AI and AWS Transform",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/reimagine-your-mainframe-applications-with-agentic-ai-and-aws-transform/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "Mainframe Replatform: Best Practices with Rocket Software on AWS",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/mainframe-replatform-best-practices-with-rocket-software-on-aws/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "Introducing the AWS Transform discovery tool",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/introducing-the-aws-transform-discovery-tool/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "Enhancing Amazon Elastic VMware Service – Deploying the NSX Edge Cluster through SDDC Manager for Application Virtual Networks",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/enhancing-amazon-elastic-vmware-service-deploying-the-nsx-edge-cluster-through-sddc-manager-for-application-virtual-networks/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "Accelerate Your VMware Migration to AWS: Leveraging Amazon Elastic VMware Service and VMware HCX",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/accelerate-your-vmware-migration-to-aws-leveraging-amazon-elastic-vmware-service-and-hcx/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "How Mahindra & Mahindra modernized their Dealer Management System to drive efficiency and agility",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/how-mahindra-mahindra-modernized-their-dealer-management-system-to-drive-efficiency-and-agility/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "AWS for mainframe modernization : Your complete re:Invent 2025 guide",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/aws-for-mainframe-modernization-your-complete-reinvent-2025-guide/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "Mastering Multi-Region Resilience and Scalability: Active-Active Design with Amazon ElastiCache Redis",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/mastering-multi-region-resilience-and-scalability-active-active-design-with-amazon-elasticache-redis/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "Modernizing Legacy Applications with Event-Driven Architecture: The Leave-and-Layer Pattern",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/modernizing-legacy-applications-with-event-driven-architecture-the-leave-and-layer-pattern/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "Taking a comprehensive perspective to mainframe application modernization with a disposition strategy",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/taking-a-comprehensive-perspective-to-mainframe-application-modernization-with-a-disposition-strategy/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "Decoupling the compute and data layers with AWS MGN, AWS DataSync and Amazon FSx",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/decoupling-the-compute-and-data-layers-with-aws-mgn-aws-datasync-and-amazon-fsx/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "Beyond Automation: Why Cloud Reinvention Drives True Business Transformation",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/beyond-automation-why-cloud-reinvention-drives-true-business-transformation/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "How Smarsh reduced costs and increased scale migrating from Pivotal Cloud Foundry to Amazon EKS",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/how-smarsh-reduced-costs-and-increased-scale-migrating-from-pivotal-cloud-foundry-to-amazon-eks/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "AWS for VMware: Your complete re:Invent 2025 guide",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/aws-for-vmware-your-complete-reinvent-2025-guide/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "Simplify server migration to AWS with AWS Transform for VMware",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/simplify-server-migration-to-aws-with-aws-transform-for-vmware/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "How Q2 is Transforming Digital Banking Through Large-Scale Migration to AWS",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/how-q2-is-transforming-digital-banking-through-large-scale-migration-to-aws/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "Ask not what your CMDB can do for you—ask what you can do for your CMDB",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/ask-not-what-your-cmdb-can-do-for-you-ask-what-you-can-do-for-your-cmdb/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "Scaling Cloudera’s development environment: Leveraging Amazon EKS, Karpenter, Bottlerocket, and Cilium for hybrid cloud",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/scaling-clouderas-development-environment-leveraging-amazon-eks-karpenter-bottlerocket-and-cilium-for-hybrid-cloud/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "Anonymizing RVTools Data for AWS Migration Planning",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/anonymizing-rvtools-data-for-aws-migration-planning/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "Understanding Layer 2 Extensions: Comparing Three Prominent Solutions",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/understanding-layer-2-extensions-comparing-three-prominent-solutions/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "Accelerating Your Modernization Journey with EBA: How AWS ModAx Transforms Legacy Applications",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/accelerating-your-modernization-journey-with-eba-how-aws-modax-transforms-legacy-applications/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "Building a Unified Customer 360 Solution for SMB Growth on AWS",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/building-a-unified-customer-360-solution-for-smb-growth-on-aws/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "Moody’s Transforms CreditLens™ Change Management Platform with Innovative Serverless Architecture",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/moodys-transforms-creditlens-change-management-platform-with-innovative-serverless-architecture/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "A Framework for Accelerated Modernization and Technical Debt Reduction",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/a-framework-for-accelerated-modernization-and-technical-debt-reduction/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "Building for Scale and Speed: How Turnitin Accelerated Innovation with Micro-frontend Architecture on AWS",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/building-for-scale-and-speed-how-turnitin-accelerated-innovation-with-micro-frontend-architecture-on-aws/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "How NTT DATA Payments achieved 88% faster feature rollouts and 99.99% availability with AWS ModAx",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/how-ntt-data-payments-achieved-88-faster-feature-rollouts-and-99-99-availability-with-aws-modax/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "Run VMware your way: Amazon Elastic VMware Service is now generally available",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/run-vmware-your-way-amazon-elastic-vmware-service-is-now-generally-available/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "Navigating Conflicting Decisions in Your Cloud Migration and Modernization Journey",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/navigating-conflicting-decisions-in-your-cloud-migration-and-modernization-journey/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "Introducing AWS CardDemo optional features",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/introducing-aws-carddemo-optional-features/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "Availity accelerates migrations to Amazon EKS with Experience-Based Acceleration (EBA)",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/availity-accelerates-migrations-to-amazon-eks-with-experience-based-acceleration-eba/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "Escaping Legacy Database Constraints: Modernize Business Rule Processing with AWS Cloud Technologies",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/escaping-legacy-database-constraints-modernize-business-rule-processing-with-aws-cloud-technologies/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "AWS Developer Transformation accelerates QRRA’s Application Modernization",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/aws-developer-transformation-accelerates-qrras-application-modernization/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "Using Export for vCenter with AWS Transform",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/using-export-for-vcenter-with-aws-transform/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "Seamlessly navigate your data center migration by understanding the end-to-end journey",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/seamlessly-navigate-your-data-center-migration-by-understanding-the-end-to-end-journey/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "Discover the future of migration and modernization at AWS Summit New York City 2025",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/discover-the-future-of-migration-and-modernization-at-aws-summit-new-york-city-2025/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "Enabling AI agents to interact with existing applications",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/enabling-ai-agents-to-interact-with-existing-applications/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "Automate large-scale migration to Amazon EC2 using AWS Migration Hub Orchestrator",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/automate-large-scale-migration-to-amazon-ec2-using-aws-migration-hub-orchestrator/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "Loyalty New Zealand migrates from VMware Cloud on AWS to AWS native and saves 30% in costs",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/loyalty-new-zealand-migrates-from-vmware-cloud-on-aws-to-aws-native-and-saves-30-in-costs/",
+    "category": "Migration & Modernization"
+  },
+  {
+    "title": "Archive your workloads using post launch action in AWS Application Migration Service",
+    "link": "https://aws.amazon.com/blogs/migration-and-modernization/archive-your-workloads-using-post-launch-action-in-aws-application-migration-service/",
+    "category": "Migration & Modernization"
+  }
+]

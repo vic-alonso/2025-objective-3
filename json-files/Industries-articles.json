@@ -1,1 +1,252 @@
-[]
+[
+  {
+    "title": "Protecting Sensitive Data at Scale: Automated detection and remediation in a financial data lake",
+    "link": "https://aws.amazon.com/blogs/industries/protecting-sensitive-data-at-scale-automated-detection-and-remediation-in-a-financial-data-lake/",
+    "category": "Industries"
+  },
+  {
+    "title": "Cloud Adoption Update for Financial Market Infrastructure Providers 2H25",
+    "link": "https://aws.amazon.com/blogs/industries/cloud-adoption-update-for-financial-market-infrastructure-providers-2h25/",
+    "category": "Industries"
+  },
+  {
+    "title": "Operational risk management and AI for banks and financial services customers",
+    "link": "https://aws.amazon.com/blogs/industries/operational-risk-management-and-ai-for-banks-and-financial-services-customers/",
+    "category": "Industries"
+  },
+  {
+    "title": "BMW Group unlocks insights from petabytes of data with agentic search on AWS",
+    "link": "https://aws.amazon.com/blogs/industries/bmw-group-unlocks-insights-from-petabytes-of-data-with-agentic-search-on-aws/",
+    "category": "Industries"
+  },
+  {
+    "title": "Accelerating manufacturing workloads with the AWS Well-Architected Modern Industrial Data Lens",
+    "link": "https://aws.amazon.com/blogs/industries/accelerating-manufacturing-workloads-with-the-aws-well-architected-modern-industrial-data-lens/",
+    "category": "Industries"
+  },
+  {
+    "title": "Announcing the Well-Architected FSI Lens updated for Generative AI and Agentic AI",
+    "link": "https://aws.amazon.com/blogs/industries/announcing-the-well-architected-fsi-lens-updated-for-generative-ai-and-agentic-ai/",
+    "category": "Industries"
+  },
+  {
+    "title": "European FSI Technology Priorities: Insights to Jumpstart Financial Innovation",
+    "link": "https://aws.amazon.com/blogs/industries/european-fsi-technology-priorities-insights-to-jumpstart-financial-innovation/",
+    "category": "Industries"
+  },
+  {
+    "title": "Bridging the Knowledge Gap: Using Generative AI on AWS to Preserve Critical Expertise",
+    "link": "https://aws.amazon.com/blogs/industries/bridging-the-knowledge-gap-using-generative-ai-on-aws-to-preserve-critical-expertise/",
+    "category": "Industries"
+  },
+  {
+    "title": "How to outrank, outsell, and outperform in AI search with Pattern’s GEO Scorecard",
+    "link": "https://aws.amazon.com/blogs/industries/how-to-outrank-outsell-and-outperform-in-ai-search-with-patterns-geo-scorecard/",
+    "category": "Industries"
+  },
+  {
+    "title": "AUMOVIO Boosts Software Development with an Agentic Coding Assistant Powered by Amazon Bedrock",
+    "link": "https://aws.amazon.com/blogs/industries/aumovio-boosts-software-development-with-an-agentic-coding-assistant-powered-by-amazon-bedrock/",
+    "category": "Industries"
+  },
+  {
+    "title": "Financial institutions advance mission-critical workloads and Agentic AI at re:Invent 2025",
+    "link": "https://aws.amazon.com/blogs/industries/financial-institutions-advance-mission-critical-workloads-and-agentic-ai-at-reinvent-2025/",
+    "category": "Industries"
+  },
+  {
+    "title": "Beyond webhooks: Event-driven payment architectures with Amazon EventBridge",
+    "link": "https://aws.amazon.com/blogs/industries/beyond-webhooks-event-driven-payment-architectures-with-amazon-eventbridge/",
+    "category": "Industries"
+  },
+  {
+    "title": "Accelerate Automotive UI Development with Kiro, Squish, and Virtual Targets on AWS",
+    "link": "https://aws.amazon.com/blogs/industries/accelerate-automotive-ui-development-with-kiro-squish-and-virtual-targets-on-aws/",
+    "category": "Industries"
+  },
+  {
+    "title": "Enhancing Bank Performance with AI-Powered Competitive Intelligence on AWS",
+    "link": "https://aws.amazon.com/blogs/industries/enhancing-bank-performance-with-ai-powered-competitive-intelligence-on-aws/",
+    "category": "Industries"
+  },
+  {
+    "title": "How to Build and Backtest Systematic Trading Strategies with AWS Batch and Airflow",
+    "link": "https://aws.amazon.com/blogs/industries/how-to-build-and-backtest-systematic-trading-strategies-on-aws-with-aws-batch-and-airflow/",
+    "category": "Industries"
+  },
+  {
+    "title": "A Healthcare Executive’s guide to digital transformation on AWS",
+    "link": "https://aws.amazon.com/blogs/industries/a-healthcare-executives-guide-to-digital-transformation-on-aws/",
+    "category": "Industries"
+  },
+  {
+    "title": "Building an Insurance Policy AI Assistant using Amazon Bedrock",
+    "link": "https://aws.amazon.com/blogs/industries/building-an-insurance-policy-ai-assistant-using-amazon-bedrock/",
+    "category": "Industries"
+  },
+  {
+    "title": "Achieving distinct IP identity with AWS for enhanced control and connectivity",
+    "link": "https://aws.amazon.com/blogs/industries/achieving-distinct-ip-identity-with-aws-for-enhanced-control-and-connectivity/",
+    "category": "Industries"
+  },
+  {
+    "title": "Building healthcare AI agents with open-source AWS HealthLake MCP server",
+    "link": "https://aws.amazon.com/blogs/industries/building-healthcare-ai-agents-with-open-source-aws-healthlake-mcp-server/",
+    "category": "Industries"
+  },
+  {
+    "title": "Clinical doppelgangers: Accelerating pediatric insights",
+    "link": "https://aws.amazon.com/blogs/industries/clinical-doppelgangers-accelerating-pediatric-insights/",
+    "category": "Industries"
+  },
+  {
+    "title": "Where energy meets efficiency: Modernize HPC workflows with Leostream on AWS",
+    "link": "https://aws.amazon.com/blogs/industries/where-energy-meets-efficiency-modernize-hpc-workflows-with-leostream-on-aws/",
+    "category": "Industries"
+  },
+  {
+    "title": "Building scalable DERMS solutions for DER aggregators on AWS",
+    "link": "https://aws.amazon.com/blogs/industries/building-scalable-derms-solutions-for-der-aggregators-on-aws/",
+    "category": "Industries"
+  },
+  {
+    "title": "AWS re:Invent 2025 Recap for Automotive and Manufacturing",
+    "link": "https://aws.amazon.com/blogs/industries/aws-reinvent-2025-recap-for-automotive-and-manufacturing/",
+    "category": "Industries"
+  },
+  {
+    "title": "AWS re:Invent 2025: A transformative moment for healthcare and life sciences",
+    "link": "https://aws.amazon.com/blogs/industries/aws-reinvent-2025-a-transformative-moment-for-healthcare-and-life-sciences/",
+    "category": "Industries"
+  },
+  {
+    "title": "National Retail Federation (NRF) 2026: Retail’s Big Show – Amazon Web Services Preview",
+    "link": "https://aws.amazon.com/blogs/industries/national-retail-federation-nrf-2026-retails-big-show-amazon-web-services-preview/",
+    "category": "Industries"
+  },
+  {
+    "title": "How OCC and AWS Architected Enterprise-Scale Identity Governance for Critical Financial Infrastructure",
+    "link": "https://aws.amazon.com/blogs/industries/how-occ-and-aws-architected-enterprise-scale-identity-governance-for-critical-financial-infrastructure/",
+    "category": "Industries"
+  },
+  {
+    "title": "Deployment patterns: AWS Network Load Balancer with Amazon EKS for Telco workloads",
+    "link": "https://aws.amazon.com/blogs/industries/deployment-patterns-aws-network-load-balancer-with-amazon-eks-for-telco-workloads/",
+    "category": "Industries"
+  },
+  {
+    "title": "Building Resilient Supply Chains: Multi-Agent AI Architectures for Retail and CPG with Amazon Bedrock",
+    "link": "https://aws.amazon.com/blogs/industries/building-resilient-supply-chains-multi-agent-ai-architectures-for-retail-and-cpg-with-amazon-bedrock/",
+    "category": "Industries"
+  },
+  {
+    "title": "Simplifying Enterprise Data Governance and Management in Regulated Industry",
+    "link": "https://aws.amazon.com/blogs/industries/simplifying-enterprise-data-governance-and-management-in-regulated-industry/",
+    "category": "Industries"
+  },
+  {
+    "title": "AWS re:Invent 2025 Recap: Automotive and Manufacturing Highlights",
+    "link": "https://aws.amazon.com/blogs/industries/aws-reinvent-2025-recap-automotive-and-manufacturing-highlights/",
+    "category": "Industries"
+  },
+  {
+    "title": "Collaborative AI Model Training with Rhino Federated Computing on AWS",
+    "link": "https://aws.amazon.com/blogs/industries/collaborative-ai-model-training-with-rhino-federated-computing-on-aws/",
+    "category": "Industries"
+  },
+  {
+    "title": "Agentic AI in Financial Services: Choosing the Right Pattern for Multi-Agent Systems",
+    "link": "https://aws.amazon.com/blogs/industries/agentic-ai-in-financial-services-choosing-the-right-pattern-for-multi-agent-systems/",
+    "category": "Industries"
+  },
+  {
+    "title": "Navigating the EU Data Act for IoT Solutions: Part 1- Healthcare Industry lens",
+    "link": "https://aws.amazon.com/blogs/industries/navigating-the-eu-data-act-for-iot-solutions-part-1-healthcare-industry-lens/",
+    "category": "Industries"
+  },
+  {
+    "title": "Pharmacy in the Cloud: AWS transforms medication safety and operations",
+    "link": "https://aws.amazon.com/blogs/industries/pharmacy-in-the-cloud-aws-transforms-medication-safety-and-operations/",
+    "category": "Industries"
+  },
+  {
+    "title": "How to Build an Enterprise-Scale GenAI Gateway",
+    "link": "https://aws.amazon.com/blogs/industries/how-to-build-an-enterprise-scale-genai-gateway/",
+    "category": "Industries"
+  },
+  {
+    "title": "How smart Europe Revolutionized Automotive Customer Support with Amazon Bedrock",
+    "link": "https://aws.amazon.com/blogs/industries/how-smart-europe-revolutionized-automotive-customer-support-with-amazon-bedrock/",
+    "category": "Industries"
+  },
+  {
+    "title": "Kotak Mahindra Bank Modernizes Microledgers Using Amazon DynamoDB for Predictable Low Latency at Scale",
+    "link": "https://aws.amazon.com/blogs/industries/kotak-bank-modernizes-microledgers-using-amazon-dynamodb-for-predictable-low-latency-at-scale/",
+    "category": "Industries"
+  },
+  {
+    "title": "Henry Schein One and AWS leverage generative AI to revolutionize dentistry",
+    "link": "https://aws.amazon.com/blogs/industries/henry-schein-one-and-aws-leverage-generative-ai-to-revolutionize-dentistry/",
+    "category": "Industries"
+  },
+  {
+    "title": "Life Sciences Agents in Production: Early Research",
+    "link": "https://aws.amazon.com/blogs/industries/life-sciences-agents-in-production-early-research/",
+    "category": "Industries"
+  },
+  {
+    "title": "Announcing agentic AI for healthcare patient engagement in Amazon Connect (Preview)",
+    "link": "https://aws.amazon.com/blogs/industries/announcing-agentic-ai-for-healthcare-patient-engagement-in-amazon-connect-preview/",
+    "category": "Industries"
+  },
+  {
+    "title": "Your Guide to AWS for Telecom at re:Invent 2025",
+    "link": "https://aws.amazon.com/blogs/industries/your-guide-to-aws-for-telecom-at-reinvent-2025/",
+    "category": "Industries"
+  },
+  {
+    "title": "Build Secure Data Mesh with AWS and Partner Solutions",
+    "link": "https://aws.amazon.com/blogs/industries/build-secure-data-mesh-with-aws-and-partner-solutions/",
+    "category": "Industries"
+  },
+  {
+    "title": "Peloton IQ: How Peloton Generates Millions of Personalized Fitness Insights Weekly Using Amazon Bedrock",
+    "link": "https://aws.amazon.com/blogs/industries/peloton-iq-how-peloton-generates-millions-of-personalized-fitness-insights-weekly-using-amazon-bedrock/",
+    "category": "Industries"
+  },
+  {
+    "title": "How Rivian and Volkswagen Technology Group Built Real-Time Vehicle Security with Amazon Kinesis Video Streams",
+    "link": "https://aws.amazon.com/blogs/industries/how-rivian-and-volkswagen-technology-group-built-real-time-vehicle-security-with-amazon-kinesis-video-streams/",
+    "category": "Industries"
+  },
+  {
+    "title": "Top-performing supply chains: When AI meets energy industry experience",
+    "link": "https://aws.amazon.com/blogs/industries/top-performing-supply-chains-when-ai-meets-energy-industry-experience/",
+    "category": "Industries"
+  },
+  {
+    "title": "Accelerating HiL Testing for AV/ADAS with a Hybrid Cloud Approach – AWS and NetApp",
+    "link": "https://aws.amazon.com/blogs/industries/accelerating-hil-testing-for-av-adas-with-a-hybrid-cloud-approach-aws-and-netapp/",
+    "category": "Industries"
+  },
+  {
+    "title": "Solve customer identity fragmentation at scale with AWS Entity Resolution",
+    "link": "https://aws.amazon.com/blogs/industries/solve-customer-identity-fragmentation-at-scale-with-aws-entity-resolution/",
+    "category": "Industries"
+  },
+  {
+    "title": "Optimize Your Retail Business for AI Search Platforms with AWS and Botify",
+    "link": "https://aws.amazon.com/blogs/industries/optimize-your-retail-business-for-ai-search-platforms-with-aws-and-botify/",
+    "category": "Industries"
+  },
+  {
+    "title": "Revolutionize personalized radiology learning using AI and AWS",
+    "link": "https://aws.amazon.com/blogs/industries/revolutionize-personalized-radiology-learning-using-ai-and-aws/",
+    "category": "Industries"
+  },
+  {
+    "title": "Managing Sustainability Data for Digital Product Passports with Agentic AI",
+    "link": "https://aws.amazon.com/blogs/industries/managing-sustainability-data-for-digital-product-passports-with-agentic-ai/",
+    "category": "Industries"
+  }
+]

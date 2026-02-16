@@ -1,1 +1,252 @@
-[]
+[
+  {
+    "title": "re:Invent 2025 hidden CFM announcements guide",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/reinvent-2025-hidden-cfm-announcements-guide/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "Improve Cost Visibility and Observability with AWS Cost Categories – Part 2: Hierarchical Structures and Programmatic Implementation",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/improve-cost-visibility-and-observability-with-aws-cost-categories-part-2-hierarchical-structures-and-programmatic-implementation/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "5 ways to use Kiro and Amazon Q to optimize your Infrastructure",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/5-ways-to-use-amazon-q-to-optimize-your-infrastructure/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "AWS Cloud Financial Management: Key 2025 re:Invent Launches to Transform Your FinOps Practices",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/aws-cloud-financial-management-key-reinvent-2025-launches-to-transform-your-finops-practice/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "Announcing Unused NAT Gateway Recommendations in AWS Compute Optimizer",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/announcing-unused-nat-gateway-recommendations-in-aws-compute-optimizer/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "Introducing Automated Amazon EBS Volume Optimization in AWS Compute Optimizer",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/introducing-automated-amazon-ebs-volume-optimization-in-aws-compute-optimizer/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "Extending AWS managed monitors in AWS Cost Anomaly Detection",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/extending-aws-managed-monitors-in-cost-anomaly-detection/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "Measuring Cloud Cost Efficiency with the New Cost efficiency metric by AWS",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/measuring-cloud-cost-efficiency-with-the-new-cost-efficiency-metric-by-aws/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "Introducing E-Invoice delivery for AWS customers using SAP Ariba and Coupa",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/introducing-e-invoice-delivery-for-aws-customers-using-sap-ariba-and-coupa/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "Control Your AWS Commitments with Reserved Instances and Savings Plans Group Sharing",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/control-your-aws-commitments-with-risp-group-sharing/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "Introducing 18-Month Forecasting and Explainable AI Insights in AWS Cost Explorer",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/introducing-18-month-forecasting-and-explainable-ai-insights-in-aws-cost-explorer/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "Data Exports for FOCUS 1.2 is now generally available",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/data-exports-for-focus-1-2-is-now-generally-available/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "Improve Cost Visibility and Observability with AWS Cost Categories – Part 1: Fundamentals and Basic Grouping Techniques",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/improve-cost-visibility-and-observability-with-aws-cost-categories-part-1-fundamentals-and-basic-grouping-techniques/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "Using Kubernetes Labels to Split and Track Application Costs on Amazon EKS",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/using-kubernetes-labels-to-split-and-track-application-costs-on-amazon-eks-2/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "Cost Analysis for Amazon CloudWatch Using Amazon Q CLI and MCP servers",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/cost-analysis-for-amazon-cloudwatch-using-amazon-q-cli-and-mcp-servers/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "Updated Cloud Financial Management Digital Training Courses with a New Course Added: “FinOps for GenAI”",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/updated-cloud-financial-management-digital-training-courses-with-a-new-course-added-finops-for-genai/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "A FinOps Guide to Comparing Containers and Serverless Functions for Compute",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/a-finops-guide-to-comparing-containers-and-serverless-functions-for-compute/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "AWS ranks #1 in Forecasting and Estimation Use Case in Gartner Critical Capabilities for Cloud Financial Management Tools report",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/aws-ranks-1-in-forecasting-and-estimation-use-case-in-gartner-critical-capabilities-for-cloud-financial-management-tools-report/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "Introducing AWS Pricing Capabilities in Amazon Q Developer: Ask Questions, Get Instant Cost Insights",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/introducing-aws-pricing-capabilities-in-amazon-q-developer-ask-questions-get-instant-cost-insights/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "Introducing multi-source custom billing views: unified cost management across multiple organizations on AWS",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/introducing-multi-source-custom-billing-views-unified-cost-management-across-multiple-organizations-on-aws/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "Leveraging AWS Cost Allocation Capabilities to Meet your Business Needs",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/cost-allocation-patterns-in-aws/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "Introducing Budget Controls for AWS: Automatically Manage Your Cloud Costs",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/introducing-budget-controls-for-aws-automatically-manage-your-cloud-costs/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "Improve cost visibility of Machine Learning workloads on Amazon EKS with AWS Split Cost Allocation Data",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/improve-cost-visibility-of-machine-learning-workloads-on-amazon-eks-with-aws-split-cost-allocation-data/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "AWS Announces Billing and Cost Management MCP Server",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/aws-announces-billing-and-cost-management-mcp-server/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "Streamline AWS cost analytics with new customized Billing and Cost Management Dashboards",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/streamline-aws-cost-analytics-with-new-customized-billing-and-cost-management-dashboards/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "Understanding AWS Savings Plan Recommendations: Payer vs. Linked Account Views",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/understanding-aws-savings-plan-recommendations-payer-vs-linked-account-views/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "Simplify Departmental Cost Allocation with AWS Organizations and Lambda",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/simplify-departmental-cost-allocation-with-aws-organizations-and-lambda/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "AWS Price List Gets a Natural Language Upgrade: Introducing the AWS Pricing MCP Server",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/aws-price-list-gets-a-natural-language-upgrade-introducing-the-aws-pricing-mcp-server/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "Automating Budget Management Across Multi-Account Environments",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/automating-budget-management-across-multi-account-environments/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "How to Set Up Automated Alerts for Newly Purchased AWS Savings Plans",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/how-to-set-up-automated-alerts-for-newly-purchased-aws-savings-plans/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "Navigating GPU Challenges: Cost Optimizing AI Workloads on AWS",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/navigating-gpu-challenges-cost-optimizing-ai-workloads-on-aws/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "Optimizing cost for deploying Amazon Q",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/optimizing-cost-for-deploying-amazon-q/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "Optimize Your AWS Spend with New Cost Savings Features in AWS Trusted Advisor",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/optimize-your-aws-spend-with-new-cost-savings-features-in-aws-trusted-advisor/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "Quick MoM Cost Analysis with Cost Comparison in AWS Cost Explorer",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/quick-mom-cost-analysis-with-aws-cost-explorers-new-cost-comparison-feature/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "The authenticated AWS Pricing Calculator is now generally available",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/the-authenticated-aws-pricing-calculator-is-now-generally-available/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "AWS Compute Optimizer now supports Aurora I/O-Optimized Recommendations",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/aurora-i-o-optimized-recommendations/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "From San Diego to Your Organization: Latest AWS Announcements for FinOps X 2025",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/from-san-diego-to-your-organization-latest-aws-announcements-for-finops-x-2025/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "Join us at FinOps X 2025: your guide to all things AWS",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/join-us-at-finops-x-2025-your-guide-to-all-things-aws/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "Export and visualize carbon emissions data from your AWS accounts",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/export-and-visualize-carbon-emissions-data-from-your-aws-accounts/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "Improving accuracy for your cloud budgeting with new features in AWS Budgets",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/improving-accuracy-for-your-cloud-budgeting-with-new-features-in-aws-budgets/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "Updated Carbon Methodology for the AWS Customer Carbon Footprint Tool",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/updated-carbon-methodology-for-the-aws-customer-carbon-footprint-tool/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "Optimizing cost for using foundational models with Amazon Bedrock",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/optimizing-cost-for-using-foundational-models-with-amazon-bedrock/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "Optimizing cost for building AI models with Amazon EC2 and SageMaker AI",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/optimizing-cost-for-developing-custom-ai-models-with-amazon-ec2-and-sagemaker-ai/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "Optimizing Cost for Generative AI with AWS",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/optimizing-cost-for-generative-ai-with-aws/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "AWS Savings Plans: How to Implement an Effective Chargeback Strategy",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/aws-savings-plans-how-to-implement-an-effective-chargeback-strategy/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "Automating custom rates at scale: an Amazon case study with AWS Billing Conductor",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/automating-custom-rates-at-scale-an-amazon-case-study-with-aws-billing-conductor/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "re:Invent 2024 Cost Optimization highlights that you were not expecting",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/reinvent-2024-cost-optimization-highlights-that-you-were-not-expecting/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "2024 re:Invent announcement recap for AWS Cloud Financial Management services",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/2024-reinvent-announcement-recap-for-cloud-financial-management-services/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "Introducing custom billing views: tailored cost and usage view for your stakeholders",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/introducing-custom-billing-views-tailored-cost-and-usage-view-relevant-for-your-stakeholders/",
+    "category": "Cloud Financial Management"
+  },
+  {
+    "title": "Configuring your AWS Invoices using Invoice Configuration",
+    "link": "https://aws.amazon.com/blogs/aws-cloud-financial-management/configuring-your-aws-invoices-using-invoice-configuration/",
+    "category": "Cloud Financial Management"
+  }
+]

@@ -1,1 +1,252 @@
-[]
+[
+  {
+    "title": "Optimize long-term video storage costs with Amazon Kinesis Video Streams warm storage tier",
+    "link": "https://aws.amazon.com/blogs/iot/optimize-long-term-video-storage-costs-with-amazon-kinesis-video-streams-warm-storage-tier/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "AWS IoT: A 10-year foundation for an intelligent, connected future",
+    "link": "https://aws.amazon.com/blogs/iot/aws-iot-a-10-year-foundation-for-an-intelligent-connected-future/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "AWS IoT Services Alignment with the European Union Cyber Resilience Act (EU CRA)",
+    "link": "https://aws.amazon.com/blogs/iot/eu-cra/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "Streamlining Amazon Sidewalk Device Fleet Management with AWS IoT Core’s New Bulk Operations",
+    "link": "https://aws.amazon.com/blogs/iot/streamlining-amazon-sidewalk-device-fleet-management-with-aws-iot-cores-new-bulk-operations/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "When data is all you need: An overview of IoT communication with the cloud",
+    "link": "https://aws.amazon.com/blogs/iot/when-data-is-all-you-need-an-overview-of-iot-communication-with-the-cloud/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "Deploying Small Language Models at Scale with AWS IoT Greengrass and Strands Agents",
+    "link": "https://aws.amazon.com/blogs/iot/deploying-small-language-models-at-scale-with-aws-iot-greengrass-and-strands-agents/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "High availability patterns for AWS IoT Greengrass using Pacemaker",
+    "link": "https://aws.amazon.com/blogs/iot/high-availability-patterns-for-aws-iot-greengrass-using-pacemaker/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "Harnessing the power of AWS IoT rules with substitution templates",
+    "link": "https://aws.amazon.com/blogs/iot/unleashing-the-power-of-aws-iot-rules-substitution-templates-in-actions/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "Securing Vehicle Identification Number (VIN) with Reference ID in connected vehicle platforms with AWS IoT",
+    "link": "https://aws.amazon.com/blogs/iot/securing-vehicle-identification-number-with-reference-id-in-connected-vehicle-platforms-with-aws-iot/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "Preventing Machine Breakdowns: How Physical AI Predicts Equipment Problems",
+    "link": "https://aws.amazon.com/blogs/iot/preventing-machine-breakdowns-how-physical-ai-predicts-equipment-problems/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "Using AWS IoT Device Management commands to simplify remote actions on IoT devices",
+    "link": "https://aws.amazon.com/blogs/iot/using-aws-iot-device-management-commands-to-simplify-remote-actions-on-iot-devices/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "Efficient video streaming and vision AI at the edge with Realtek, Plumerai, and Amazon Kinesis Video Streams",
+    "link": "https://aws.amazon.com/blogs/iot/efficient-video-streaming-and-vision-ai-at-the-edge-with-realtek-plumerai-and-amazon-kinesis-video-streams/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "Introducing the latest AWS Well-Architected Framework: IoT Lens",
+    "link": "https://aws.amazon.com/blogs/iot/introducing-the-latest-aws-well-architected-framework-iot-lens/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "Transfer data from Amazon S3 to IoT Edge device",
+    "link": "https://aws.amazon.com/blogs/iot/transfer-data-from-amazon-s3-to-iot-edge-device/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "Integrating ServiceNow OT Asset Workspaces with AWS IoT SiteWise Asset Models",
+    "link": "https://aws.amazon.com/blogs/iot/integrating-servicenow-ot-asset-workspaces-with-aws-iot-sitewise-asset-models/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "Seamless migration: Securely transitioning large IoT fleets to AWS",
+    "link": "https://aws.amazon.com/blogs/iot/seamless-migration-securely-transitioning-large-iot-fleets-to-aws/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "AWS IoT Greengrass nucleus lite – Revolutionizing edge computing on resource-constrained devices",
+    "link": "https://aws.amazon.com/blogs/iot/aws-iot-greengrass-nucleus-lite-revolutionizing-edge-computing-on-resource-constrained-devices/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "Managed integrations for AWS IoT Device Management is now generally available – Connect, unify, and elevate customer experiences",
+    "link": "https://aws.amazon.com/blogs/iot/introducing-managed-integrations-for-aws-iot-device-management/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "Transforming Kitchens: CHEF iQ’s AWS Powered IoT Journey",
+    "link": "https://aws.amazon.com/blogs/iot/transforming-kitchens-chef-iqs-aws-powered-iot-journey/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "Build a proof-of-concept IoT solution in under 3 hours with the AWS IoT Device Client",
+    "link": "https://aws.amazon.com/blogs/iot/build-a-proof-of-concept-iot-solution-in-under-3-hours-with-the-aws-iot-device-client/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "Building a scalable IoT system for connected air purifiers on AWS IoT: Blueair (a Unilever company)",
+    "link": "https://aws.amazon.com/blogs/iot/building-a-scalable-iot-system-for-connected-air-purifiers-on-aws-iot-blueair-a-unilever-company/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "Unlocking the Power of Edge Intelligence with AWS",
+    "link": "https://aws.amazon.com/blogs/iot/unlocking-real-time-intelligence-at-the-edge-with-awss-connected-edge-intelligence/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "AWS IoT Services alignment with US Cyber Trust Mark",
+    "link": "https://aws.amazon.com/blogs/iot/aws-iot-and-us-cyber-trust-mark/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "Amazon Kinesis Video Streams Privacy and E2E Security Overview",
+    "link": "https://aws.amazon.com/blogs/iot/amazon-kvs-privacy-and-security-overview/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "How Siemens Energy uses AWS for its IIoT platform and smart manufacturing",
+    "link": "https://aws.amazon.com/blogs/iot/how-siemens-energy-uses-aws-for-its-iiot-platform-and-smart-manufacturing/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "How to digitize and automate vehicle assembly inspection process with voice-enabled AWS services",
+    "link": "https://aws.amazon.com/blogs/iot/how-to-digitize-and-automate-vehicle-assembly-inspection-process-with-voice-enabled-aws-services/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "Announcing end-of-life for Fleet Hub feature of AWS IoT Device Management, effective October 18th, 2025",
+    "link": "https://aws.amazon.com/blogs/iot/announcing-end-of-life-for-aws-iot-device-management-fleet-hub-effective-october-18th-2025/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "Building Smart Industrial Machines with AWS: A Comprehensive Guide",
+    "link": "https://aws.amazon.com/blogs/iot/building-smart-industrial-machines-with-aws-iot-a-comprehensive-guide/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "Synthetic IoT Security Data using Amazon Bedrock",
+    "link": "https://aws.amazon.com/blogs/iot/synthetic-iot-security-data-using-amazon-bedrock/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "Building a connected car physical prototype with AWS IoT services",
+    "link": "https://aws.amazon.com/blogs/iot/building-a-connected-car-physical-prototype-with-aws-iot-services/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "Modeling your industrial assets at scale using AWS IoT SiteWise",
+    "link": "https://aws.amazon.com/blogs/iot/modeling-your-industrial-assets-at-scale-using-aws-iot-sitewise/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "Connected utility solutions for water and gas metering with AWS IoT",
+    "link": "https://aws.amazon.com/blogs/iot/connected-utility-solutions-for-water-and-gas-metering-with-aws-iot/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "Securing the future of mobility: UNECE WP.29 and AWS IoT for connected vehicle cybersecurity",
+    "link": "https://aws.amazon.com/blogs/iot/securing-the-future-of-mobility-unece-wp-29-and-aws-iot-for-connected-vehicle-cybersecurity/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "Emerging Architecture Patterns for Integrating IoT and generative AI on AWS",
+    "link": "https://aws.amazon.com/blogs/iot/emerging-architecture-patterns-for-integrating-iot-and-generative-ai-on-aws/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "Improved Utility Asset Management and Maintenance using AWS IoT and GenAI Technologies",
+    "link": "https://aws.amazon.com/blogs/iot/improved-utility-asset-management-and-maintenance-using-aws-iot-and-genai-technologies/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "Accelerate AWS IoT SiteWise insights with Edge2Web Power Tools",
+    "link": "https://aws.amazon.com/blogs/iot/accelerate-aws-iot-sitewise-insights-with-edge2web-power-tools/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "Optimize industrial operations through predictive maintenance using Amazon Monitron, AWS IoT TwinMaker, and Amazon Bedrock",
+    "link": "https://aws.amazon.com/blogs/iot/optimize-industrial-operations-through-predictive-maintenance-using-amazon-monitron-aws-iot-twinmaker-and-amazon-bedrock-part-2-3d-spatial-visualization/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "How to synchronize AWS IoT SiteWise assets and data across AWS accounts",
+    "link": "https://aws.amazon.com/blogs/iot/how-to-synchronize-aws-iot-sitewise-assets-and-data-across-aws-accounts/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "Delivering an integrated approach to safety: How AWS workforce safety solutions make work safer",
+    "link": "https://aws.amazon.com/blogs/iot/delivering-an-integrated-approach-to-safety-how-aws-workforce-safety-solutions-make-work-safer/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "How Volta Trucks built a connected vehicle platform using AWS IoT FleetWise",
+    "link": "https://aws.amazon.com/blogs/iot/how-volta-trucks-built-a-connected-vehicle-platform-using-aws-iot-fleetwise/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "Unlocking Scalable IoT Analytics on AWS",
+    "link": "https://aws.amazon.com/blogs/iot/unlocking-scalable-iot-analytics-on-aws/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "Building Track and Trace applications using AWS IoT Core for Amazon Sidewalk",
+    "link": "https://aws.amazon.com/blogs/iot/building-track-and-trace-applications-using-aws-iot-core-for-amazon-sidewalk/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "Optimizing Operational Efficiency for Project Kuiper’s Satellite Manufacturing with AWS IoT SiteWise",
+    "link": "https://aws.amazon.com/blogs/iot/optimizing-operational-efficiency-for-project-kuipers-satellite-manufacturing-with-aws-iot-sitewise/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "Querying industrial assets using natural language with AWS IoT SiteWise and Agents for Amazon Bedrock",
+    "link": "https://aws.amazon.com/blogs/iot/querying-industrial-assets-using-natural-language-with-aws-iot-sitewise-and-agents-for-amazon-bedrock/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "How MTData built a CVML vehicle telematics and driver monitoring solution with AWS IoT",
+    "link": "https://aws.amazon.com/blogs/iot/how-mtdata-built-a-cvml-vehicle-telematics-and-driver-monitoring-solution-with-aws-iot/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "How to implement Zero Trust IoT solutions with AWS IoT",
+    "link": "https://aws.amazon.com/blogs/iot/how-to-implement-zero-trust-iot-solutions-with-aws-iot/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "AWS recognized as a Leader in 2024 Gartner Magic Quadrant for Global Industrial IoT Platforms",
+    "link": "https://aws.amazon.com/blogs/iot/aws-recognized-as-a-leader-in-2024-gartner-magic-quadrant-for-global-industrial-iot-platforms/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "Migrating Your WebRTC Application from Twilio to AWS: A Developer’s Guide",
+    "link": "https://aws.amazon.com/blogs/iot/migrating-your-webrtc-application-from-twilio-to-aws-a-developers-guide/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "Building an IoT solution to securely transmit MQTT messages under private networks",
+    "link": "https://aws.amazon.com/blogs/iot/building-an-iot-solution-to-securely-transmit-mqtt-messages-under-private-networks/",
+    "category": "Internet of Things"
+  },
+  {
+    "title": "Streamline the process of developing IoT applications with Toolbox for AWS IoT",
+    "link": "https://aws.amazon.com/blogs/iot/streamline-the-process-of-developing-iot-applications-with-toolbox-for-aws-iot/",
+    "category": "Internet of Things"
+  }
+]

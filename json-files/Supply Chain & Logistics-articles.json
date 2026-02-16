@@ -1,1 +1,227 @@
-[]
+[
+  {
+    "title": "Introducing the AWS Well-Architected Supply Chain Lens: Accelerating Digital Supply Chain Transformation",
+    "link": "https://aws.amazon.com/blogs/supply-chain/introducing-the-aws-well-architected-supply-chain-lens-accelerating-digital-supply-chain-transformation/",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "title": "Navigating to net zero: How Cargill unlocks carbon-neutral transport on AWS",
+    "link": "https://aws.amazon.com/blogs/supply-chain/navigating-to-net-zero-how-cargill-unlocks-carbon-neutral-transport-on-aws/",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "title": "Maximize business value with the AWS Supply Chain demand planning process",
+    "link": "https://aws.amazon.com/blogs/supply-chain/maximize-business-value-with-the-aws-supply-chain-demand-planning-process/",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "title": "AWS Supply Chain Test Drive Simplifies Adoption to Explore Business Benefits",
+    "link": "https://aws.amazon.com/blogs/supply-chain/aws-supply-chain-test-drive-simplifies-adoption-to-explore-business-benefits/",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "title": "Delivery Hero reduces middle mile costs with AWS-powered route optimization",
+    "link": "https://aws.amazon.com/blogs/supply-chain/delivery-hero-reduces-middle-mile-costs-with-aws-powered-route-optimization/",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "title": "Enhancing supply chain agility with AWS Supply Chain Vendor Lead Time Insights",
+    "link": "https://aws.amazon.com/blogs/supply-chain/enhancing-supply-chain-agility-with-aws-supply-chain-lead-time-insights/",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "title": "A prescriptive approach for AWS Supply Chain proof of values (PoVs)",
+    "link": "https://aws.amazon.com/blogs/supply-chain/a-prescriptive-approach-to-scoping-aws-supply-chain-proof-of-values-povs/",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "title": "Mitigating operational risks with AWS Supply Chain Work Order Insights",
+    "link": "https://aws.amazon.com/blogs/supply-chain/mitigating-operational-risks-with-aws-supply-chain-work-order-insights/",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "title": "Addressing industry-specific supply chain challenges with AWS Supply Chain",
+    "link": "https://aws.amazon.com/blogs/supply-chain/addressing-industry-specific-supply-chain-challenges-with-aws-supply-chain/",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "title": "AWS Summit New York: Generative AI for supply chain",
+    "link": "https://aws.amazon.com/blogs/supply-chain/aws-summit-new-york-generative-ai-for-supply-chain/",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "title": "AWS Supply Chain simplifies ESG data compliance",
+    "link": "https://aws.amazon.com/blogs/supply-chain/aws-supply-chain-simplifies-esg-data-compliance/",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "title": "Research advisory report on achieving supply chain resilience",
+    "link": "https://aws.amazon.com/blogs/supply-chain/research-advisory-report-on-achieving-supply-chain-resilience/",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "title": "Digital and physical transformation for supply chains resiliency",
+    "link": "https://aws.amazon.com/blogs/supply-chain/digital-and-physical-transformation-for-supply-chains-resiliency/",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "title": "AWS Simulation and Digital Twin to increase warehouse productivity",
+    "link": "https://aws.amazon.com/blogs/supply-chain/aws-simulation-and-digital-twin-to-increase-warehouse-productivity/",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "title": "Join AWS Supply Chain at the Gartner Symposium/Xpo",
+    "link": "https://aws.amazon.com/blogs/supply-chain/join-aws-supply-chain-at-the-gartner-symposium-xpo/",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "title": "Sustainability Takes Center Stage at Hannover Messe 2024",
+    "link": "https://aws.amazon.com/blogs/supply-chain/sustainability-takes-center-stage-at-hannover-messe-2024/",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "title": "New generative AI-powered data on-boarding for AWS Supply Chain",
+    "link": "https://aws.amazon.com/blogs/supply-chain/new-generative-ai-powered-data-on-boarding-for-aws-supply-chain/",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "title": "Innovative Supply Chain Management with AWS at Hannover Messe 2024",
+    "link": "https://aws.amazon.com/blogs/supply-chain/innovative-supply-chain-management-with-aws-at-hannover-messe-2024/",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "title": "Accelerating data ingestion and on-boarding with new AWS Supply Chain capabilities",
+    "link": "https://aws.amazon.com/blogs/supply-chain/accelerating-data-ingestion-and-on-boarding-with-new-aws-supply-chain-capabilities/",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "title": "Unlock supply chain value with data and AI",
+    "link": "https://aws.amazon.com/blogs/supply-chain/unlock-supply-chain-value-with-data-and-ai/",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "title": "NRF 2024: Strengthening digital commerce with AWS Supply Chain",
+    "link": "https://aws.amazon.com/blogs/supply-chain/nrf-2024-strengthening-digital-commerce-with-aws-supply-chain/",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "title": "2024 supply chain management predictions: Navigating the future with advanced technologies",
+    "link": "https://aws.amazon.com/blogs/supply-chain/2024-supply-chain-management-predictions-navigating-the-future-with-advanced-technologies/",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "title": "AWS Supply Chain announces new upstream capabilities",
+    "link": "https://aws.amazon.com/blogs/supply-chain/aws-supply-chain-announces-new-upstream-capabilities/",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "title": "Improving demand planning for products with varying lifecycles with AWS Supply Chain",
+    "link": "https://aws.amazon.com/blogs/supply-chain/improving-demand-planning-for-products-with-varying-lifecycles-with-aws-supply-chain/",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "title": "Podcast recap: The past, present, and future of AWS Supply Chain",
+    "link": "https://aws.amazon.com/blogs/supply-chain/podcast-recap-the-past-present-and-future-of-aws-supply-chain/",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "title": "Accelerating the transformation of supply chain data from legacy systems into AWS Supply Chain",
+    "link": "https://aws.amazon.com/blogs/supply-chain/accelerating-the-transformation-of-supply-chain-data-from-legacy-systems-into-aws-supply-chain/",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "title": "Squiirrel connects the tree seed supply chain to regrow a sustainable world",
+    "link": "https://aws.amazon.com/blogs/supply-chain/squiirrel-connects-the-tree-seed-supply-chain-to-regrow-a-sustainable-world/",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "title": "Recent AWS Supply Chain Releases and Commitment to Customers",
+    "link": "https://aws.amazon.com/blogs/supply-chain/recent-aws-supply-chain-releases-and-commitment-to-customers/",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "title": "Forrester recognizes AWS Supply Chain for retail",
+    "link": "https://aws.amazon.com/blogs/supply-chain/forrester-recognizes-aws-supply-chain-for-retail/",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "title": "How to use Demand Planning on AWS Supply Chain for better forecast accuracy",
+    "link": "https://aws.amazon.com/blogs/supply-chain/how-to-use-demand-planning-on-aws-supply-chain-for-better-forecast-accuracy/",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "title": "Improve supply planning accuracy with machine learning-based lead time insights",
+    "link": "https://aws.amazon.com/blogs/supply-chain/improve-supply-planning-accuracy-with-machine-learning-based-lead-time-insights/",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "title": "Learn how AWS Supply Chain improves supply chain resiliency at the AWS Summit New York",
+    "link": "https://aws.amazon.com/blogs/supply-chain/learn-how-aws-supply-chain-improves-supply-chain-resiliency-at-the-aws-summit-new-york/",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "title": "Bosch cloud platform unlocks operational efficiencies for logistics industry",
+    "link": "https://aws.amazon.com/blogs/supply-chain/bosch-cloud-platform-unlocks-operational-efficiencies-for-logistics-industry/",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "title": "AWS Supply Chain Command Center for resiliency, visibility, and work orchestration",
+    "link": "https://aws.amazon.com/blogs/supply-chain/aws-supply-chain-command-center-for-resiliency-visibility-and-work-orchestration/",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "title": "AWS offerings for visibility and on-time arrival of maintenance spares for mining and energy",
+    "link": "https://aws.amazon.com/blogs/supply-chain/aws-offerings-for-visibility-and-on-time-arrival-of-maintenance-spares-for-mining-and-energy/",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "title": "Improving visibility to increase supply chain resiliency with AWS Supply Chain",
+    "link": "https://aws.amazon.com/blogs/supply-chain/improving-visibility-to-increase-supply-chain-resiliency-with-aws-supply-chain/",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "title": "AWS last mile solution for faster delivery, lower costs, and a better customer experience",
+    "link": "https://aws.amazon.com/blogs/supply-chain/aws-last-mile-solution-for-faster-delivery-lower-costs-and-a-better-customer-experience/",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "title": "Dynamic pricing for logistics service providers to maximize profitability",
+    "link": "https://aws.amazon.com/blogs/supply-chain/dynamic-pricing-for-logistics-service-providers-to-maximize-profitability/",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "title": "Deploy a serverless application to optimize vehicle routing with Amazon Location Service",
+    "link": "https://aws.amazon.com/blogs/supply-chain/deploy-a-serverless-application-to-optimize-vehicle-routing-with-amazon-location-service/",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "title": "Supply chain modernization – what to consider in planning for the future",
+    "link": "https://aws.amazon.com/blogs/supply-chain/supply-chain-modernization-what-to-consider-in-planning-for-the-future/",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "title": "Maximize efficiency for replenishable deliveries with AWS Last Mile Replenishment Scheduler",
+    "link": "https://aws.amazon.com/blogs/supply-chain/maximize-efficiency-for-replenishable-deliveries-with-aws-last-mile-replenishment-scheduler/",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "title": "AWS Stock Depletion Engine to prevent waste of perishable products",
+    "link": "https://aws.amazon.com/blogs/supply-chain/aws-stock-depletion-engine-to-prevent-waste-of-perishable-products/",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "title": "Supply chain network optimization – cutting through complexity to maximize efficiency",
+    "link": "https://aws.amazon.com/blogs/supply-chain/supply-chain-network-optimization-cutting-through-complexity-to-maximize-efficiency/",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "title": "Improving the Telecommunications customer experience with data-driven supply chains",
+    "link": "https://aws.amazon.com/blogs/supply-chain/improving-the-telecommunications-customer-experience-with-data-driven-supply-chains/",
+    "category": "Supply Chain & Logistics"
+  },
+  {
+    "title": "Piercing supply chain visibility fog for the next efficiency frontier",
+    "link": "https://aws.amazon.com/blogs/supply-chain/piercing-supply-chain-visibility-fog-for-the-next-efficiency-frontier/",
+    "category": "Supply Chain & Logistics"
+  }
+]

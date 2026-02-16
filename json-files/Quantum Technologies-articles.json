@@ -1,1 +1,252 @@
-[]
+[
+  {
+    "title": "Quantum-Guided Cluster Algorithms for Combinatorial Optimization",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/quantum-guided-cluster-algorithms-for-combinatorial-optimization/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "AWS re:Invent 2025: Your Complete Guide to Quantum Computing Sessions",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/aws-reinvent-2025-your-complete-guide-to-quantum-computing-sessions/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "Amazon Braket Introduces Spending Limits for Quantum Processing Units",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/amazon-braket-introduces-spending-limits-for-quantum-processing-units/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "Amazon Braket launches trapped-ion quantum computer from Alpine Quantum Technologies",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/amazon-braket-launches-trapped-ion-quantum-computer-from-alpine-quantum-technologies/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "Exact simulation of Quantum Enhanced Signature Kernels for financial data streams prediction using Amazon Braket",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/exact-simulation-of-quantum-enhanced-signature-kernels-for-financial-data-streams-prediction-using-amazon-braket/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "Amazon Braket Notebook Environments Now Support CUDA-Q Natively",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/amazon-braket-notebooks-now-include-pre-configured-cuda-q-support/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "Leveraging near-term quantum hardware for simulating high-dimensional dynamics",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/leveraging-near-term-quantum-hardware-for-simulating-high-dimensional-dynamics/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "AWS Collaborates with Chugai Pharmaceutical Co. on Quantum-Inspired and Constraint Programming Methods for Cyclic Peptide-Protein Docking",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/aws-collaborates-with-chugai-pharmaceutical-co-on-quantum-inspired-and-constraint-programming-methods-for-cyclic-peptide-protein-docking/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "Exploring Quantum Measurements, Observables and Operators: Practical insights with Amazon Braket",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/exploring-quantum-measurements-observables-and-operators-practical-insights-with-amazon-braket/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "Implementing BB84 Quantum Key Distribution on Amazon Braket: A practical guide",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/implementing-bb84-quantum-key-distribution-on-amazon-braket-a-practical-guide/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "How Strangeworks is using Amazon Braket to explore the aircraft cargo loading problem",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/how-strangeworks-is-using-amazon-braket-to-explore-the-aircraft-cargo-loading-problem/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "Accelerating the Quantum Toolkit for Python (QuTiP) with cuQuantum on AWS",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/accelerating-the-quantum-toolkit-for-python-qutip-with-cuquantum-on-aws/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "Introducing Local Device Emulator for Verbatim Circuits on Amazon Braket",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/introducing-local-device-emulator-for-verbatim-circuits-on-amazon-braket/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "Amazon Braket introduces program sets enabling customers to run quantum programs up to 24x faster",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/amazon-braket-introduces-program-sets-enabling-customers-to-run-quantum-programs-up-to-24x-faster/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "Introducing the Amazon Braket Learning Plan and Digital Badge",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/introducing-the-amazon-braket-learning-plan-and-digital-badge/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "Amazon Braket launches new 54-qubit superconducting quantum processor from IQM",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/amazon-braket-launches-new-54-qubit-superconducting-quantum-processor-from-iqm/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "Simulating Fluid Mechanics using Quantum Computing on Amazon Braket with Haiqu and Quanscient",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/simulating-fluid-mechanics-using-quantum-computing-on-amazon-braket-with-haiqu-and-quanscient/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "Design quantum integrated circuits with open-source software DeviceLayout.jl from AWS",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/design-quantum-integrated-circuits-with-open-source-software-devicelayout-jl-from-aws/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "Experiment with dynamic circuits on IQM Garnet with Amazon Braket",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/experiment-with-dynamic-circuits-on-iqm-garnet-with-amazon-braket/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "Modeling a nitrogen-vacancy center with NVIDIA CUDA-Q Dynamics: University of Washington Capstone Project",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/modeling-a-nitrogen-vacancy-center-with-nvidia-cuda-q-dynamics-university-of-washington-capstone-project/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "Fundamental Physics Simulations with Amazon Braket",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/fundamental-physics-simulations-with-amazon-braket/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "Improve quantum workload performance with Q-CTRL’s Fire Opal error suppression for IonQ processors on Amazon Braket",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/improve-quantum-workload-performance-with-fire-opal-error-suppression-for-ionq-processors-on-amazon-braket/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "How to run CUDA-Q programs on Amazon Braket notebook instances",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/how-to-run-cuda-q-programs-on-amazon-braket-notebook-instances/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "Winners announced in the Airbus-BMW Group Quantum Computing Challenge",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/winners-announced-in-the-airbus-bmw-group-quantum-computing-challenge/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "Quantum-amenable pruning of large language models and large vision models using block coordinate descent",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/quantum-amenable-pruning-of-large-language-models-and-large-vision-models-using-block-coordinate-descent/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "Advancing hybrid quantum computing research with Amazon Braket and NVIDIA CUDA-Q",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/advancing-hybrid-quantum-computing-research-with-amazon-braket-and-nvidia-cuda-q/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "AWS announces the Quantum Embark Program to help customers get ready for quantum computing",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/aws-announces-the-quantum-embark-program-to-help-customers-get-ready-for-quantum-computing/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "Assessing performance of a variational algorithm in presence of noise and quantum error mitigation",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/assessing-performance-of-a-variational-algorithm-in-presence-of-noise-and-quantum-error-mitigation/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "Accelerate quantum software development on Amazon Braket with Claude-3",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/accelerate-quantum-software-development-on-amazon-braket-with-claude-3/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "Take quantum computing from theory to practice with Amazon Braket",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/take-quantum-computing-from-theory-to-practice-with-amazon-braket/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "Amazon Braket as an educational tool for quantum computing: the Capstone project at the University of Washington",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/amazon-braket-as-an-educational-tool-for-quantum-computing-the-capstone-project-at-the-university-of-washington/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "Monitoring a quantum network on AWS",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/monitoring-a-quantum-network-on-aws/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "Amazon Braket launches the Rigetti Ankaa-2 superconducting device",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/amazon-braket-launches-the-rigetti-ankaa-2-superconducting-device-2/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "Australian Red Cross Lifeblood collaborates with AWS to optimize rostering",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/australian-red-cross-lifeblood-collaborates-with-aws-to-optimize-rostering/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "Amazon Braket launches new superconducting quantum processor from IQM",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/amazon-braket-launches-new-superconducting-quantum-processor-from-iqm/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "Delivering quantum information – a field-deployed quantum network",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/delivering-quantum-information-a-field-deployed-quantum-network/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "JPMorgan Chase and AWS study the prospects for quantum speedups with near-term Rydberg atom arrays",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/jpmorgan-chase-and-aws-study-the-prospects-for-quantum-speedups-with-near-term-rydberg-atom-arrays/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "Local detuning now available on QuEra’s Aquila device with Braket Direct",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/local-detuning-now-available-on-queras-aquila-device-with-braket-direct/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "Hyperparameter optimization for quantum machine learning with Amazon Braket",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/hyperparameter-optimization-for-quantum-machine-learning-with-amazon-braket/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "Accelerating simulated quantum annealing on AWS Graviton processors",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/accelerating-simulated-quantum-annealing-on-aws-graviton-processors/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "Exploring quantum-informed recursive optimization algorithms on Amazon Braket",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/exploring-quantum-informed-recursive-optimization-algorithms-on-amazon-braket/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "A new building block for error-corrected quantum computers",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/a-new-building-block-for-error-corrected-quantum-computers/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "Enabling state-of-the-art quantum algorithms with Qedma’s error mitigation and IonQ, using Braket Direct",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/enabling-state-of-the-art-quantum-algorithms-with-qedmas-error-mitigation-and-ionq-using-braket-direct/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "Explainable AI using expressive Boolean formulas",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/explainable-ai-using-expressive-boolean-formulas/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "Citi and Classiq advance quantum solutions for portfolio optimization using Amazon Braket",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/citi-and-classiq-advance-quantum-solutions-for-portfolio-optimization/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "Exploring industrial use cases in the Airbus-BMW Group Quantum Computing Challenge",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/exploring-industrial-use-cases-in-the-airbus-bmw-group-quantum-computing-challenge/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "A detailed, end-to-end assessment of a quantum algorithm for portfolio optimization, released by Goldman Sachs and AWS",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/a-detailed-end-to-end-assessment-of-a-quantum-algorithm-for-portfolio-optimization-released-by-goldman-sachs-and-aws/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "Towards practical molecular electronic structure simulations on NISQ devices with Amazon Braket and Kvantify’s FAST-VQE algorithm",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/towards-practical-molecular-electronic-structure-simulations-on-nisq-devices-with-amazon-braket-and-kvantifys-fast-vqe-algorithm/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "Analog Hamiltonian simulation with PennyLane",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/analog-hamiltonian-simulation-with-pennylane/",
+    "category": "Quantum Technologies"
+  },
+  {
+    "title": "Explore quantum algorithms faster by running your local Python code as an Amazon Braket Hybrid Job with minimal code changes",
+    "link": "https://aws.amazon.com/blogs/quantum-computing/explore-quantum-algorithms-faster-by-running-your-local-python-code-as-an-amazon-braket-hybrid-job-with-minimal-code-changes/",
+    "category": "Quantum Technologies"
+  }
+]

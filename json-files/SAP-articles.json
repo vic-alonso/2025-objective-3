@@ -1,1 +1,252 @@
-[]
+[
+  {
+    "title": "Introducing ABAP Accelerator for AI- Assisted Development",
+    "link": "https://aws.amazon.com/blogs/awsforsap/introducing-abap-accelerator-for-ai-assisted-development/",
+    "category": "SAP"
+  },
+  {
+    "title": "Accelerating SAP consulting projects with SAP Joule using Anthropic Claude models on Amazon Bedrock",
+    "link": "https://aws.amazon.com/blogs/awsforsap/accelerating-sap-consulting-projects-with-sap-joule-using-anthropic-claude-models-on-amazon-bedrock/",
+    "category": "SAP"
+  },
+  {
+    "title": "Amazon Multi-Channel Fulfillment and Buy with Prime Accelerators for SAP S/4HANA now available",
+    "link": "https://aws.amazon.com/blogs/awsforsap/amazon-multi-channel-fulfillment-and-buy-with-prime-accelerators-for-sap-s-4hana-now-available/",
+    "category": "SAP"
+  },
+  {
+    "title": "Maximize the value of your SAP data using with Amazon Q Business and Amazon Bedrock Generative AI – Part 2",
+    "link": "https://aws.amazon.com/blogs/awsforsap/maximize-the-value-of-your-sap-data-using-with-amazon-q-business-and-amazon-bedrock-generative-ai-part-2/",
+    "category": "SAP"
+  },
+  {
+    "title": "Enhance SAP Operations with New AWS Systems Manager for SAP Features: Extended Configuration Management, AI-Assisted Operations, and Scheduling",
+    "link": "https://aws.amazon.com/blogs/awsforsap/enhance-sap-operations-with-new-aws-systems-manager-for-sap-features-extended-configuration-management-ai-assisted-operations-and-scheduling/",
+    "category": "SAP"
+  },
+  {
+    "title": "SAP ASE high availability design with SAP Fault Manager and AWS Network Load Balancer",
+    "link": "https://aws.amazon.com/blogs/awsforsap/sap-ase-high-availability-design-with-sap-fault-manager-and-aws-network-load-balancer/",
+    "category": "SAP"
+  },
+  {
+    "title": "Achieving Robust SAP Landscape Segregation with Amazon VPC Lattice",
+    "link": "https://aws.amazon.com/blogs/awsforsap/achieving-robust-sap-landscape-segregation-with-amazon-vpc-lattice/",
+    "category": "SAP"
+  },
+  {
+    "title": "Reducing SAP Certificate Management Overhead with AWS Certificate Manager",
+    "link": "https://aws.amazon.com/blogs/awsforsap/reducing-sap-certificate-management-overhead-with-aws-certificate-manager/",
+    "category": "SAP"
+  },
+  {
+    "title": "Sustainable and durable SAP document and data archiving with Amazon S3 with HA – Part2",
+    "link": "https://aws.amazon.com/blogs/awsforsap/sustainable-and-durable-sap-document-and-data-archiving-with-amazon-s3-with-ha-part2/",
+    "category": "SAP"
+  },
+  {
+    "title": "End-to-End Observability for SAP on AWS: Part-3 Amazon CloudWatch Internet Monitor for SAP",
+    "link": "https://aws.amazon.com/blogs/awsforsap/end-to-end-observability-for-sap-on-aws-part-3-amazon-cloudwatch-internet-monitor-for-sap-2/",
+    "category": "SAP"
+  },
+  {
+    "title": "Uncover New Possibilities from your SAP and Enterprise Data with Amazon Bedrock Knowledge Bases",
+    "link": "https://aws.amazon.com/blogs/awsforsap/uncover-new-possibilities-from-your-sap-and-enterprise-data-with-amazon-bedrock-knowledge-bases/",
+    "category": "SAP"
+  },
+  {
+    "title": "Build AI-Powered SAP automations seamlessly with Amazon Quick Automate",
+    "link": "https://aws.amazon.com/blogs/awsforsap/sap-automations-with-amazon-quick-automate/",
+    "category": "SAP"
+  },
+  {
+    "title": "Towards a plug ‘n’ play experience for the AWS SDK for SAP ABAP",
+    "link": "https://aws.amazon.com/blogs/awsforsap/towards-a-plug-n-play-experience-for-the-aws-sdk-for-sap-abap/",
+    "category": "SAP"
+  },
+  {
+    "title": "CHS reflects on four years of SAP DevOps on AWS: benefits, lessons learned, and best practices",
+    "link": "https://aws.amazon.com/blogs/awsforsap/chs-reflects-on-four-years-of-sap-devops-on-aws-benefits-lessons-learned-and-best-practices/",
+    "category": "SAP"
+  },
+  {
+    "title": "Why SAP customers are modernizing their IBM Power and mainframe workloads on AWS",
+    "link": "https://aws.amazon.com/blogs/awsforsap/why-sap-customers-are-modernizing-their-ibm-power-and-mainframe-workloads-on-aws/",
+    "category": "SAP"
+  },
+  {
+    "title": "Accelerating SAP Cloud Application Programming with Amazon Q Developer",
+    "link": "https://aws.amazon.com/blogs/awsforsap/accelerating-sap-cloud-application-programming-with-amazon-q-developer/",
+    "category": "SAP"
+  },
+  {
+    "title": "Transforming SAP Technical Documentation with GenAI: Accelerating knowledge generation for SAP Notes with Amazon Bedrock",
+    "link": "https://aws.amazon.com/blogs/awsforsap/transforming-sap-technical-documentation-with-genai-accelerating-knowledge-generation-for-sap-notes-with-amazon-bedrock/",
+    "category": "SAP"
+  },
+  {
+    "title": "Modern observability frameworks for SAP: A solution to monitoring challenges with PowerConnect and Dynatrace",
+    "link": "https://aws.amazon.com/blogs/awsforsap/modern-observability-frameworks-for-sap-a-solution-to-monitoring-challenges-with-powerconnect-and-dynatrace/",
+    "category": "SAP"
+  },
+  {
+    "title": "AWS Blog: Simplify Deployment of SAP BTP with AWS Marketplace",
+    "link": "https://aws.amazon.com/blogs/awsforsap/aws-blog-simplify-deployment-of-sap-btp-with-aws-marketplace/",
+    "category": "SAP"
+  },
+  {
+    "title": "New – AWS Systems Manager for SAP Configuration Management: Automated Best Practice Validation for SAP HANA",
+    "link": "https://aws.amazon.com/blogs/awsforsap/new-aws-systems-manager-for-sap-configuration-management-automated-best-practice-validation-for-sap-hana/",
+    "category": "SAP"
+  },
+  {
+    "title": "Automating SAP HANA DB HA Patch using SSM and nZDT",
+    "link": "https://aws.amazon.com/blogs/awsforsap/automating-sap-hana-db-ha-patch-using-ssm-and-nzdt/",
+    "category": "SAP"
+  },
+  {
+    "title": "SAP Cloud ERP and SAP BTP Now Available on AWS Marketplace",
+    "link": "https://aws.amazon.com/blogs/awsforsap/sap-cloud-erp-and-sap-btp-now-available-on-aws-marketplace/",
+    "category": "SAP"
+  },
+  {
+    "title": "Streamline SAP Operation with CloudWatch MCP server and Amazon Q CLI – Part 4",
+    "link": "https://aws.amazon.com/blogs/awsforsap/streamline-sap-operation-with-cloudwatch-mcp-server-and-amazon-q-cli-part-4/",
+    "category": "SAP"
+  },
+  {
+    "title": "Streamline SAP Operation with CloudWatch MCP server and Amazon Q CLI – Part 3",
+    "link": "https://aws.amazon.com/blogs/awsforsap/streamline-sap-operation-with-cloudwatch-mcp-server-and-amazon-q-cli-part-3/",
+    "category": "SAP"
+  },
+  {
+    "title": "SAP Load Testing: a serverless approach with AWS",
+    "link": "https://aws.amazon.com/blogs/awsforsap/sap-load-testing-a-serverless-approach-with-aws/",
+    "category": "SAP"
+  },
+  {
+    "title": "Maximize the value of your SAP data using Amazon Q Business and Amazon Bedrock Generative AI – Part 1",
+    "link": "https://aws.amazon.com/blogs/awsforsap/maximize-the-value-of-your-sap-data-using-amazon-q-business-and-amazon-bedrock-generative-ai-part-1/",
+    "category": "SAP"
+  },
+  {
+    "title": "Extending SAP Field Service Management with AWS: A Clean Core Approach for Attachment Storage",
+    "link": "https://aws.amazon.com/blogs/awsforsap/extending-sap-field-service-management-with-aws-a-clean-core-approach-for-attachment-storage/",
+    "category": "SAP"
+  },
+  {
+    "title": "Build SAP applications faster with Amazon Q Developer",
+    "link": "https://aws.amazon.com/blogs/awsforsap/build-sap-applications-faster-with-amazon-q-developer/",
+    "category": "SAP"
+  },
+  {
+    "title": "Elevate User Experience and Security of Application Load Balancer for SAP workloads on AWS",
+    "link": "https://aws.amazon.com/blogs/awsforsap/elevate-user-experience-and-security-of-application-load-balancer-for-sap-workloads-on-aws/",
+    "category": "SAP"
+  },
+  {
+    "title": "Building Enterprise-Ready Hybrid Network Connectivity on AWS for SAP Cloud ERP Private (formerly known as RISE with SAP)",
+    "link": "https://aws.amazon.com/blogs/awsforsap/building-enterprise-ready-hybrid-network-connectivity-on-aws-for-sap-cloud-erp-private-formerly-known-as-rise-with-sap/",
+    "category": "SAP"
+  },
+  {
+    "title": "SAP Server Auto Scaling: Optimize Infrastructure Costs While Meeting Workload Demands",
+    "link": "https://aws.amazon.com/blogs/awsforsap/sap-server-auto-scaling-optimize-infrastructure-costs-while-meeting-workload-demands/",
+    "category": "SAP"
+  },
+  {
+    "title": "Modernizing SAP Procurement Processes with Amazon Appflow, SAP BTP Integration Suite, and Amazon Bedrock",
+    "link": "https://aws.amazon.com/blogs/awsforsap/modernizing-sap-procurement-processes-with-aws-appflow-sap-btp-integration-suite-and-amazon-bedrock/",
+    "category": "SAP"
+  },
+  {
+    "title": "Optimizing Unicode Conversion Downtime for SAP Systems on Oracle to AWS",
+    "link": "https://aws.amazon.com/blogs/awsforsap/optimizing-unicode-conversion-downtime-for-sap-systems-on-oracle-to-aws/",
+    "category": "SAP"
+  },
+  {
+    "title": "SAP and AWS Introduce AI Co-Innovation Program to create generative AI solutions that help customers navigate market volatility and supply chain complexity",
+    "link": "https://aws.amazon.com/blogs/awsforsap/sap-and-aws-introduce-ai-co-innovation-program-to-create-generative-ai-solutions-that-help-customers-navigate-market-volatility-and-supply-chain-complexity-2/",
+    "category": "SAP"
+  },
+  {
+    "title": "Revolutionizing SAP Application Access Security Beyond Traditional VPNs",
+    "link": "https://aws.amazon.com/blogs/awsforsap/revolutionizing-sap-application-access-security-beyond-traditional-vpns/",
+    "category": "SAP"
+  },
+  {
+    "title": "Enhance resiliency and data protection for SAP HANA high-availability deployments with Amazon Backup for SAP HANA",
+    "link": "https://aws.amazon.com/blogs/awsforsap/enhance-resiliency-and-data-protection-for-sap-hana-high-availability-deployments-with-amazon-backup-for-sap-hana/",
+    "category": "SAP"
+  },
+  {
+    "title": "Terraform your SAP Infrastructure on AWS",
+    "link": "https://aws.amazon.com/blogs/awsforsap/terraform-your-sap-infrastructure-on-aws-2/",
+    "category": "SAP"
+  },
+  {
+    "title": "Calling all SAP ABAP developers — You are invited to the Amazon Bedrock Party!",
+    "link": "https://aws.amazon.com/blogs/awsforsap/calling-all-sap-abap-developers-you-are-invited-to-the-amazon-bedrock-party-2/",
+    "category": "SAP"
+  },
+  {
+    "title": "Automate Start/Stop of SAP NetWeaver ABAP applications based on HANA database using AWS Systems Manager for SAP",
+    "link": "https://aws.amazon.com/blogs/awsforsap/automate-start-stop-of-sap-netweaver-abap-applications-based-on-hana-database-using-aws-systems-manager-for-sap/",
+    "category": "SAP"
+  },
+  {
+    "title": "Harness Amazon Bedrock Agents to Manage SAP Instances",
+    "link": "https://aws.amazon.com/blogs/awsforsap/harness-amazon-bedrock-agents-to-manage-sap-instances/",
+    "category": "SAP"
+  },
+  {
+    "title": "AI-Powered Football Match Analysis: SAP Sports One on AWS",
+    "link": "https://aws.amazon.com/blogs/awsforsap/ai-powered-football-match-analysis-sap-sports-one-on-aws/",
+    "category": "SAP"
+  },
+  {
+    "title": "Automated Security Monitoring for RISE with SAP and SAP BTP on AWS",
+    "link": "https://aws.amazon.com/blogs/awsforsap/automated-security-monitoring-for-rise-with-sap-and-sap-btp-on-aws/",
+    "category": "SAP"
+  },
+  {
+    "title": "Jumpstart Your AWS for SAP Journey: Automated SAP S/4HANA Fully-Activated Appliance deployment for quick evaluation and fit-gap analysis",
+    "link": "https://aws.amazon.com/blogs/awsforsap/automated-sap-s4hana-fully-activated-appliance-deployment/",
+    "category": "SAP"
+  },
+  {
+    "title": "Amazon SES configuration for SAP ABAP Systems – Part II",
+    "link": "https://aws.amazon.com/blogs/awsforsap/amazon-ses-configuration-for-sap-abap-systems-part-ii/",
+    "category": "SAP"
+  },
+  {
+    "title": "migration support service for RISE with SAP on AWS",
+    "link": "https://aws.amazon.com/blogs/awsforsap/migration-support-service-for-rise-with-sap-on-aws/",
+    "category": "SAP"
+  },
+  {
+    "title": "Introducing the migration readiness accelerator for RISE with SAP on AWS",
+    "link": "https://aws.amazon.com/blogs/awsforsap/migration-readiness-accelerator-for-rise-with-sap-on-aws/",
+    "category": "SAP"
+  },
+  {
+    "title": "Enhance your business process resilience with Amazon CloudWatch Application Insights Observability for SAP High Availability – Part 2",
+    "link": "https://aws.amazon.com/blogs/awsforsap/enhance-your-business-process-resilience-with-amazon-cloudwatch-application-insights-observability-for-sap-high-availability-part-2/",
+    "category": "SAP"
+  },
+  {
+    "title": "Supercharge your SAP Composable Storefront with Amazon CloudFront",
+    "link": "https://aws.amazon.com/blogs/awsforsap/supercharge-your-sap-composable-storefront-with-amazon-cloudfront/",
+    "category": "SAP"
+  },
+  {
+    "title": "Accelerate your RISE with SAP transformation with SAP Signavio on AWS Marketplace",
+    "link": "https://aws.amazon.com/blogs/awsforsap/accelerate-your-rise-with-sap-transformation-with-sap-signavio-on-aws-marketplace/",
+    "category": "SAP"
+  },
+  {
+    "title": "Sustainable and durable SAP document and data archiving with Amazon S3",
+    "link": "https://aws.amazon.com/blogs/awsforsap/sustainable-and-durable-sap-document-and-data-archiving-with-amazon-s3/",
+    "category": "SAP"
+  }
+]

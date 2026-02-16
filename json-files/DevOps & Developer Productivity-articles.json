@@ -1,1 +1,252 @@
-[]
+[
+  {
+    "title": "Best Practices for Deploying AWS DevOps Agent in Production",
+    "link": "https://aws.amazon.com/blogs/devops/best-practices-for-deploying-aws-devops-agent-in-production/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "AWS CloudFormation 2025 Year In Review",
+    "link": "https://aws.amazon.com/blogs/devops/aws-cloudformation-2025-year-in-review/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "From AI agent prototype to product: Lessons from building AWS DevOps Agent",
+    "link": "https://aws.amazon.com/blogs/devops/from-ai-agent-prototype-to-product-lessons-from-building-aws-devops-agent/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "Automating AWS SDK for Java v1 to v2 Upgrades with AWS Transform",
+    "link": "https://aws.amazon.com/blogs/devops/automating-aws-sdk-for-java-v1-to-v2-upgrades-with-aws-transform/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "How Kaltura Accelerates CI/CD Using AWS CodeBuild-hosted Runners",
+    "link": "https://aws.amazon.com/blogs/devops/how-kaltura-accelerates-ci-cd-using-aws-codebuild-hosted-runners/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "Resolve and prevent operational incidents with AWS DevOps Agent and New Relic",
+    "link": "https://aws.amazon.com/blogs/devops/resolve-and-prevent-operational-incidents-with-aws-devops-agent-and-new-relic/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "Accelerate autonomous incident resolutions using the Datadog MCP server and AWS DevOps agent (in preview)",
+    "link": "https://aws.amazon.com/blogs/devops/accelerate-autonomous-incident-resolutions-using-the-datadog-mcp-server-and-aws-devops-agent-in-preview/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "Building with AI-DLC using Amazon Q Developer",
+    "link": "https://aws.amazon.com/blogs/devops/building-with-ai-dlc-using-amazon-q-developer/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "Open-Sourcing Adaptive Workflows for AI-Driven Development Life Cycle (AI-DLC)",
+    "link": "https://aws.amazon.com/blogs/devops/open-sourcing-adaptive-workflows-for-ai-driven-development-life-cycle-ai-dlc/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "Introducing the AWS Infrastructure as Code MCP Server: AI-Powered CDK and CloudFormation Assistance",
+    "link": "https://aws.amazon.com/blogs/devops/introducing-the-aws-infrastructure-as-code-mcp-server-ai-powered-cdk-and-cloudformation-assistance/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "The Future of AWS CodeCommit",
+    "link": "https://aws.amazon.com/blogs/devops/aws-codecommit-returns-to-general-availability/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "Your Guide to the Developer Tools Track at AWS re:Invent 2025",
+    "link": "https://aws.amazon.com/blogs/devops/your-guide-to-the-developer-tools-track-at-aws-reinvent-2025/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "Introducing AWS CloudFormation Stack Refactoring Console Experience: Reorganize Your Infrastructure Without Disruption",
+    "link": "https://aws.amazon.com/blogs/devops/introducing-aws-cloudformation-stack-refactoring-reorganize-your-infrastructure-without-disruption/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "Take fine-grained control of your AWS CloudFormation StackSets Deployment with StackSet Dependencies",
+    "link": "https://aws.amazon.com/blogs/devops/take-fine-grained-control-of-your-aws-cloudformation-stacksets-deployment-with-stackset-dependencies/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "Announcing CloudFormation IDE Experience: End-to-End Development in Your IDE",
+    "link": "https://aws.amazon.com/blogs/devops/announcing-cloudformation-ide-experience-end-to-end-development-in-your-ide/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "Amazon introduces two benchmark datasets for evaluating AI agents’ ability on code migration",
+    "link": "https://aws.amazon.com/blogs/devops/amazon-introduces-two-benchmark-datasets-for-evaluating-ai-agents-ability-on-code-migration/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "Safely Handle Configuration Drift with CloudFormation Drift-Aware Change Sets",
+    "link": "https://aws.amazon.com/blogs/devops/safely-handle-configuration-drift-with-cloudformation-drift-aware-change-sets/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "Accelerate infrastructure development with CloudFormation pre-deployment validation and simplified troubleshooting",
+    "link": "https://aws.amazon.com/blogs/devops/accelerate-infrastructure-development-with-cloudformation-pre-deployment-validation-and-simplified-troubleshooting/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "Streamlining Multi-Account Infrastructure with AWS CloudFormation StackSets and AWS CDK",
+    "link": "https://aws.amazon.com/blogs/devops/streamlining-multi-account-infrastructure-with-aws-cloudformation-stacksets-and-aws-cdk/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "How to Simplify Multi-Account Deployments Monitoring: Centralized Logs for AWS CloudFormation StackSets",
+    "link": "https://aws.amazon.com/blogs/devops/how-to-simplify-multi-account-deployments-monitoring-centralized-logs-for-aws-cloudformation-stacksets/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "Infrastructure as Code at Thomson Reuters with AWS CDK",
+    "link": "https://aws.amazon.com/blogs/devops/infrastructure-as-code-at-thomson-reuters-with-aws-cdk/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "Boosting Unit Test Automation at Audible with Amazon Q Developer",
+    "link": "https://aws.amazon.com/blogs/devops/boosting-unit-test-automation-at-audible-with-amazon-q-developer/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "StackSets Deployment Strategies: Balancing Speed, Safety, and Scale to Optimize Deployments for Different Organizational Needs",
+    "link": "https://aws.amazon.com/blogs/devops/stacksets-deployment-strategies-balancing-speed-safety-and-scale-to-optimize-deployments-for-different-organizational-needs/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "Moeve: Controlling resource deployment at scale with AWS CloudFormation Guard Hooks",
+    "link": "https://aws.amazon.com/blogs/devops/moeve-controlling-resource-deployment-at-scale-with-aws-cloudformation-guard-hooks/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "Beyond Bootstrap: Bootstrapless CDK Deployments at GoDaddy",
+    "link": "https://aws.amazon.com/blogs/devops/beyond-bootstrap-bootstrapless-cdk-deployments-at-godaddy/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "Reduce Docker image build time on AWS CodeBuild using Amazon ECR as a remote cache",
+    "link": "https://aws.amazon.com/blogs/devops/reduce-docker-image-build-time-on-aws-codebuild-using-amazon-ecr-as-a-remote-cache/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "Multi-Cloud Code Deployments using Amazon Q Developer with Echo3D",
+    "link": "https://aws.amazon.com/blogs/devops/multi-cloud-code-deployments-using-amazon-q-developer-with-echo3d/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "Accelerating AWS Infrastructure Deployment: A Practical Guide to Console-to-Code",
+    "link": "https://aws.amazon.com/blogs/devops/accelerating-aws-infrastructure-deployment-a-practical-guide-to-console-to-code/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "Multi Agent Collaboration with Strands",
+    "link": "https://aws.amazon.com/blogs/devops/multi-agent-collaboration-with-strands/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "AWS named as a Leader in the 2025 Gartner Magic Quadrant for AI Code Assistants",
+    "link": "https://aws.amazon.com/blogs/devops/aws-named-as-a-leader-in-the-2025-gartner-magic-quadrant-for-ai-code-assistants/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "Introducing universal installers for AWS CLI v2 on macOS",
+    "link": "https://aws.amazon.com/blogs/devops/introducing-universal-installers-for-aws-cli-v2-on-macos/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "AWS Cloud Development Kit (CDK) Launches Refactor",
+    "link": "https://aws.amazon.com/blogs/devops/aws-cloud-development-kit-cdk-launches-refactor/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "Introducing an Interactive Code Review Experience with Amazon Q Developer in GitHub",
+    "link": "https://aws.amazon.com/blogs/devops/introducing-an-interactive-code-review-experience-with-amazon-q-developer-in-github/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "Measuring Developer Productivity with Amazon Q Developer and Jellyfish",
+    "link": "https://aws.amazon.com/blogs/devops/measuring-developer-productivity-with-amazon-q-developer-and-jellyfish/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "Mastering Amazon Q Developer with Rules",
+    "link": "https://aws.amazon.com/blogs/devops/mastering-amazon-q-developer-with-rules/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "Announcing the end-of-support for the AWS SDK for .NET v3",
+    "link": "https://aws.amazon.com/blogs/devops/announcing-the-end-of-support-for-the-aws-sdk-for-net-v3/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "Announcing the end-of-support for AWS Tools for PowerShell v4",
+    "link": "https://aws.amazon.com/blogs/devops/announcing-the-end-of-support-for-aws-tools-for-powershell-v4/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "Introducing AWS Cloud Control API MCP Server: Natural Language Infrastructure Management on AWS",
+    "link": "https://aws.amazon.com/blogs/devops/introducing-aws-cloud-control-api-mcp-server-natural-language-infrastructure-management-on-aws/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "Flexibility to Framework: Building MCP Servers with Controlled Tool Orchestration",
+    "link": "https://aws.amazon.com/blogs/devops/flexibility-to-framework-building-mcp-servers-with-controlled-tool-orchestration/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "Overcome development disarray with Amazon Q Developer CLI custom agents",
+    "link": "https://aws.amazon.com/blogs/devops/overcome-development-disarray-with-amazon-q-developer-cli-custom-agents/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "AI-Driven Development Life Cycle: Reimagining Software Engineering",
+    "link": "https://aws.amazon.com/blogs/devops/ai-driven-development-life-cycle/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "Troubleshooting Elastic Beanstalk Environments with Amazon Q Developer CLI",
+    "link": "https://aws.amazon.com/blogs/devops/troubleshooting-elastic-beanstalk-environments-with-amazon-q-developer-cli/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "Streamline DevOps troubleshooting: Integrate CloudWatch investigations with Slack",
+    "link": "https://aws.amazon.com/blogs/devops/streamline-devops-troubleshooting-integrate-cloudwatch-investigations-with-slack/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "GitOps continuous delivery with ArgoCD and EKS using natural language",
+    "link": "https://aws.amazon.com/blogs/devops/gitops-continuous-delivery-with-argocd-and-eks-using-natural-language/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "Announcing the end of support for Node.js 18.x in AWS CDK",
+    "link": "https://aws.amazon.com/blogs/devops/announcing-the-end-of-support-for-node-js-18-x-in-aws-cdk/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "Managing Amazon Q Developer Profiles and Customizations in Large Organizations",
+    "link": "https://aws.amazon.com/blogs/devops/managing-amazon-q-developer-profiles-and-customizations-in-large-organizations/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "Streamline Operational Troubleshooting with Amazon Q Developer CLI",
+    "link": "https://aws.amazon.com/blogs/devops/streamline-operational-troubleshooting-with-amazon-q-developer-cli/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "Announcing the new AWS CDK EKS v2 L2 Constructs",
+    "link": "https://aws.amazon.com/blogs/devops/announcing-the-new-aws-cdk-eks-v2-l2-constructs/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "Accelerate development with secure access to Amazon Q Developer using PingIdentity",
+    "link": "https://aws.amazon.com/blogs/devops/accelerate-development-with-secure-access-to-amazon-q-developer-using-pingidentity/",
+    "category": "DevOps & Developer Productivity"
+  },
+  {
+    "title": "Use Model Context Protocol with Amazon Q Developer for context-aware IDE workflows",
+    "link": "https://aws.amazon.com/blogs/devops/use-model-context-protocol-with-amazon-q-developer-for-context-aware-ide-workflows/",
+    "category": "DevOps & Developer Productivity"
+  }
+]

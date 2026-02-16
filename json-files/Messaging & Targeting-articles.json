@@ -1,1 +1,252 @@
-[]
+[
+  {
+    "title": "How to improve email sender reputation with Amazon SES Email Validation",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-to-improve-email-sender-reputation-with-amazon-ses-email-validation/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "Establishing finops management: Integrating AWS Budgets with WhatsApp using AWS End User Messaging",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/establishing-finops-management-integrating-aws-budgets-with-whatsapp-using-aws-end-user-messaging/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "Automate sender ID registration in AWS End User Messaging",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/automate-sender-id-registration-in-aws-end-user-messaging/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "Enhance email security using VPC endpoints with Amazon SES Manager",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/enhance-email-security-using-vpc-endpoints-with-amazon-ses-manager/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "Implement Tenants in your Amazon SES environment, Part 3: Implementation guide",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/implement-tenants-in-your-amazon-ses-environment-part-3-implementation-guide/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "Implement Tenants in your Amazon SES environment, Part 2: Assessment and planning",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/implement-tenants-in-your-amazon-ses-environment-part-2-assessment-and-planning/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "Learning email deliverability with Amazon SES",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/learning-email-deliverability-with-amazon-ses/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "How to register for a US toll-free number with AWS End User Messaging",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-to-register-for-a-us-toll-free-number-with-aws-end-user-messaging/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "Cómo Enviar SMS Internacionales con Números Gratuitos de EE.UU. Usando AWS End User Messaging",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/como-enviar-sms-internacionales-con-numeros-gratuitos-de-ee-uu-usando-aws-end-user-messaging/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "A Guide to Sending International SMS with US Toll-Free Numbers and AWS End User Messaging",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/a-guide-to-sending-international-sms-with-us-toll-free-numbers-and-aws-end-user-messaging/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "Best practices for building high-performance WhatsApp AI assistant using AWS",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/best-practices-for-building-high-performance-whatsapp-ai-assistant-using-aws/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "Enhance email security using VPC endpoints with Amazon SES",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/enhance-email-security-using-vpc-endpoints-with-amazon-ses/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "Track OTP success with AWS End User Messaging SMS feedback",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/track-otp-success-with-aws-end-user-messaging-sms-feedback/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "Integrate Amazon CloudWatch alarms with WhatsApp using AWS End User Messaging",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/integrate-amazon-cloudwatch-alarms-with-whatsapp-using-aws-end-user-messaging/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "Set up custom domains in Amazon Connect hosted with M365 Exchange Online or Google Workspace",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/set-up-custom-domains-in-amazon-connect-hosted-with-m365-exchange-online-or-google-workspace/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "Enhance event experiences with a generative AI-powered WhatsApp assistant using AWS End User Messaging",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/enhance-event-experiences-with-a-generative-ai-powered-whatsapp-assistant-using-aws-end-user-messaging/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "How to build resilient SMS delivery with AWS End User Messaging",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-to-build-resilient-sms-delivery-with-aws-end-user-messaging/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "A Complete Guide to Resource Sharing for AWS End User Messaging",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/a-complete-guide-to-resource-sharing-for-aws-end-user-messaging/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "Improve email deliverability with tenant management in Amazon SES",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/improve-email-deliverability-with-tenant-management-in-amazon-ses/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "Streamlining outbound emails with Amazon SES Mail Manager",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/streamlining-outbound-emails-with-amazon-ses-mail-manager/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "AT&T email-to-text service migration: AWS solution implementation",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/att-email-to-text-service-migration-aws-solution-implementation/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "Creando experiencias de cliente con IA mediante un hub de comunicaciones moderno",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/creando-experiencias-de-cliente-con-ia-mediante-un-hub-de-comunicaciones-moderno/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "Guide to IP and domain warming and migrating to Amazon SES",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/guide-to-ip-and-domain-warming-and-migrating-to-amazon-ses/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "Secure collaboration and file sharing with AWS Wickr",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/secure-collaboration-and-file-sharing-with-aws-wickr/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "Enhance email authentication and deliverability with Amazon SES and Valimail",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/enhance-email-authentication-and-deliverability-with-amazon-ses-and-valimail/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "Monitoring AWS End User Messaging SMS Registrations with Lambda",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/monitoring-aws-end-user-messaging-sms-registrations-with-lambda/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "AWS End User Messaging SMS & Voice v2 API: A Migration Guide from v1",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/aws-end-user-messaging-sms-and-voice-v2-api-a-migration-guide-from-v1/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "Use AI agents and the Model Context Protocol with Amazon SES",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/use-ai-agents-and-the-model-context-protocol-with-amazon-ses/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "Navigate Bulk Sender Requirements with Amazon SES",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/navigate-bulk-sender-requirements-with-amazon-ses/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "SMS Onboarding for SaaS, ISV, and Multi-Tenant Applications with AWS End User Messaging",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/sms-onboarding-for-saas-isv-and-multi-tenant-applications-with-aws-end-user-messaging/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "Defending Against SMS Pumping: New AWS Features to Help Combat Artificially Inflated Traffic",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/defending-against-sms-pumping-new-aws-features-to-help-combat-artificially-inflated-traffic/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "A Guide to the New Resource Policies for SMS Origination Identities",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/a-guide-to-the-new-resource-policies-for-sms-origination-identities-in-aws/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "Automating Sender ID Configuration for SMS with AWS End User Messaging APIs",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/automating-sender-id-configuration-for-sms-with-aws-end-user-messaging-apis/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "Building a voice interface for generative AI assistants",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/building-voice-interface-for-genai-assistant/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "Improving email security with Amazon SES Mail Manager and Hornetsecurity’s Vade Advanced Email Security Add On",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/improving-email-security-with-amazon-ses-mail-manager-and-hornetsecuritys-vade-advanced-email-security-add-on/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "Enable single-sign-on for Amazon WorkMail with IAM Identity Center and Okta Universal Directory",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/enable-single-sign-on-for-amazon-workmail-with-iam-identity-center-and-okta-universal-directory/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "Visually build telephony applications with AWS Step Functions",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/visually-build-telephony-applications-with-aws-step-functions/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "How to Register a Sender ID Using APIs with AWS End User Messaging",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-to-register-a-sender-id-using-apis-with-aws-end-user-messaging/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "How to Register for a United States (US) SMS Short Code with AWS End User Messaging",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-to-register-for-a-united-states-us-sms-short-code-with-aws-end-user-messaging/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "Automate the Creation & Rotation of Amazon Simple Email Service SMTP Credentials",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/automate-the-creation-rotation-of-amazon-simple-email-service-smtp-credentials/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "A Guide to SMS Short Codes with AWS End User Messaging",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/guide-to-sms-short-codes-with-aws-end-user-messaging/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "A Guide to Optimizing SMS Delivery and Best Practices",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/a-guide-to-optimizing-sms-delivery-and-best-practices/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "Update on Support for Amazon Chime",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/update-on-support-for-amazon-chime/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "Improving Security in Amazon WorkMail with MFA",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/improving-security-in-amazon-workmail-with-mfa/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "Building AI-powered customer experiences using a modern communications hub",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/building-ai-powered-customer-experiences-using-a-modern-communications-hub/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "Automatización de flujos de trabajo con WhatsApp usando AWS End User Messaging Social",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/automatizacion-de-flujos-de-trabajo-con-whatsapp-usando-aws-end-user-messaging-social/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "Automate workflows with WhatsApp using AWS End User Messaging Social",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/whatsapp-aws-end-user-messaging-social/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "Cyber Security Cloud, Inc. accelerates sales with CloudSmart Insights and Amazon SES",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/cyber-security-cloud-inc-accelerates-sales-with-cloudsmart-insights-and-amazon-ses/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "How to Manage Global Sending of SMS with AWS End User Messaging",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-to-manage-global-sending-of-sms-with-amazon-pinpoint/",
+    "category": "Messaging & Targeting"
+  },
+  {
+    "title": "Amazon SES celebrates 14 years of email sending and deliverability",
+    "link": "https://aws.amazon.com/blogs/messaging-and-targeting/amazon-ses-celebrates-14-years-of-email-sending-and-deliverability/",
+    "category": "Messaging & Targeting"
+  }
+]

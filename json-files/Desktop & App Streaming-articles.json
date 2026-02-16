@@ -1,1 +1,252 @@
-[]
+[
+  {
+    "title": "Level Up Your End User Computing Skills: AWS Digital Course to Badge Success",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/level-up-your-end-user-computing-skills-aws-digital-course-to-badge-success/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "Enabling remote macOS development with Amazon EC2 Mac and Amazon DCV",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/enabling-remote-macos-development-with-amazon-ec2-mac-and-amazon-dcv/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "AWS re:Invent 2025: Transform your digital workplace with Amazon WorkSpaces",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/aws-reinvent-2025-transform-your-digital-workplace-with-amazon-workspaces/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "Optimize Amazon WorkSpaces applications fleet capacity with the Scaling Optimizer Tool",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/optimize-amazon-workspaces-applications-fleet-capacity-with-the-scaling-optimizer-tool/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "Amazon WorkSpaces applications simple pricing tool",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/amazon-workspaces-applications-simple-pricing-tool/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "Enhancing security with WebAuthn redirection in Amazon WorkSpaces",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/enhancing-security-with-webauthn-redirection-in-amazon-workspaces/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "A modern approach for secure End User access with Amazon WorkSpaces and AWS Verified Access",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/a-modern-approach-for-secure-end-user-access-with-amazon-workspaces-and-aws-verified-access/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "Announcing the End User Computing Lens for the Well-Architected Framework",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/announcing-the-end-user-computing-lens-for-the-well-architected-framework/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "Microsoft Teams optimization for Amazon WorkSpaces is now in Public Preview",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/microsoft-teams-optimization-for-amazon-workspaces-is-now-in-public-preview/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "Introducing an Improved BYOL Image Import Process for Amazon WorkSpaces",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/introducing-an-improved-byol-image-import-process-for-amazon-workspaces/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "AWS recognized as a Leader in 2025 Gartner Magic Quadrant for Desktop as a Service",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/aws-recognized-as-a-leader-in-2025-gartner-magic-quadrant-for-desktop-as-a-service/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "Citrix announces general availability of Citrix DaaS Machine Creation Services on Amazon WorkSpaces Core",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/citrix-announces-general-availability-of-citrix-daas-machine-creation-services-on-amazon-workspaces-core/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "Simplify Device Redirection in Amazon WorkSpaces Personal and Amazon AppStream 2.0 Using FabulaTech Software",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/simplify-device-redirection-on-amazon-workspaces-personal-and-amazon-appstream-using-fabulatech/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "Windows 10 end of support is almost here – Run Windows 11 on Amazon WorkSpaces",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/windows-10-end-of-support-is-almost-here-run-windows-11-on-amazon-workspaces/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "Workspot Announces General Availability on Amazon WorkSpaces Core",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/workspot-announces-general-availability-on-amazon-workspaces-core/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "AWS EUC New York Summit: EUC201: The AI Advantage: Unlocking the full potential of your EUC Services",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/aws-euc-new-york-summit-euc201-the-ai-advantage-unlocking-the-full-potential-of-your-euc-services/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "Connecting Amazon WorkSpaces Personal with AWS PrivateLink",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/connecting-amazon-workspaces-personal-with-aws-privatelink/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "Healthcare Company Launches Rapid Self-Service Deployment and Improves Management of Thousands of Cloud Desktops Using Amazon WorkSpaces",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/healthcare-company-launches-rapid-self-service-deployment-and-improves-management-of-thousands-of-cloud-desktops-using-amazon-workspaces/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "Unlock Deeper Insights for your Amazon WorkSpaces with ControlUp",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/unlock-deeper-insights-for-your-amazon-workspaces-with-controlup/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "Use Agentic AI to Simplify Amazon WorkSpaces Support with Amazon Bedrock Agents",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/use-agentic-ai-to-simplify-amazon-workspaces-support-with-amazon-bedrock-agents/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "Use Agentic AI to Simplify Amazon WorkSpaces Support with Amazon Bedrock Agents",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/use-agentic-ai-to-simplify-amazon-workspaces-support-with-amazon-bedrock-agents/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "Announcing the Amazon DCV Access Console as Open Source",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/announcing-the-amazon-dcv-access-console-as-open-source/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "Dynamically delivering applications with Omnissa App Volumes to Amazon WorkSpaces Family",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/dynamically-delivering-applications-with-omnissa-app-volumes-to-amazon-workspaces-family-and-amazon-appstream-2-0/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "Designing and Deploying Secure Environments Using Amazon WorkSpaces",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/designing-deploying-secure-environments-using-amazon-workspaces/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "Securing the Edge: AWS and IGEL Unite at Now and Next 2025",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/securing-the-edge-aws-and-igel-unite-at-now-and-next-2025/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "Amazon WorkSpaces is now Chrome Enterprise Recommended",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/amazon-workspaces-and-amazon-appstream-2-0-are-now-chrome-enterprise-recommended/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "Enterprise Connect 2025 – AWS End User Computing services for contact center agents",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/enterprise-connect-2025-aws-end-user-computing-services-for-contact-center-agents/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "Navigating the Windows 10 to 11 Migration for Amazon WorkSpaces Personal",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/navigating-the-windows-10-to-11-migration-for-amazon-workspaces-personal/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "Identifying Amazon WorkSpaces clients in your environment that are approaching end of life (EOL)",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/identifying-amazon-workspaces-clients-in-your-environment-that-are-approaching-end-of-life-eol/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "Visualize Amazon WorkSpaces Utilization With Amazon QuickSight",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/visualize-amazon-workspaces-utilization-with-amazon-quicksight/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "Announcing support for Amazon WorkSpaces Personal with AWS Global Accelerator",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/announcing-support-for-amazon-workspaces-personal-with-aws-global-accelerator/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "Deploy the Cost Optimizer for Amazon WorkSpaces in a highly-regulated environment.",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/deploy-the-cost-optimizer-for-amazon-workspaces-in-a-highly-regulated-environment/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "Optimize costs and security with Amazon WorkSpaces Family services",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/optimize-costs-and-security-with-amazon-workspaces-family-services/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "Accelerate your data center exit with Amazon WorkSpaces Core",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/accelerate-your-data-center-exit-with-amazon-workspaces-core/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "Streamline automation and management of the Amazon WorkSpaces Family",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/streamline-automation-and-management-of-the-amazon-workspaces-family/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "When updates can’t wait, look to the cloud",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/when-updates-cant-wait-look-to-the-cloud/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "Optimize Amazon WorkSpaces Personal Performance with Amazon CloudWatch",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/optimize-amazon-workspaces-personal-performance-with-amazon-cloudwatch/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "Ferrari and Bloomberg choose AWS for EUC",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/ferrari-and-bloomberg-choose-aws-for-euc/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "Boost contact center efficiency with Amazon WorkSpaces and Thin Client",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/boost-contact-center-efficiency-with-amazon-workspaces-and-thin-client/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "Learn more about managing Ubuntu Amazon WorkSpaces with Landscape",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/learn-more-about-managing-ubuntu-amazon-workspaces-with-landscape/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "Simplify and secure your SAP GUI deployments with M365 integration on Amazon WorkSpaces Pools",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/simplify-and-secure-your-sap-gui-deployments-with-m365-integration-on-amazon-workspaces-pools/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "AWS recognized as a Leader in 2024 Gartner Magic Quadrant for Desktop as a Service",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/aws-recognized-as-a-leader-in-2024-gartner-magic-quadrant-for-desktop-as-a-service/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "Simplify certificate-based authentication for WorkSpaces with AWS Private CA Connector for Active Directory",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/simplify-certificate-based-authentication-for-appstream-2-0-and-workspaces-with-aws-private-ca-connector-for-active-directory/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "Analyze web browsing activities for Amazon WorkSpaces Secure Browser",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/analyze-web-browsing-activities-for-amazon-workspaces-secure-browser/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "Utilizing CloudWatch Internet Monitor with Amazon WorkSpaces Personal",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/utilizing-cloudwatch-internet-monitor-with-amazon-workspaces-personal/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "Enhanced management for Amazon WorkSpaces Personal with ControlUp",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/enhanced-management-for-amazon-workspaces-personal-with-controlup/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "Announcing native Entra ID and Intune support for Amazon WorkSpaces",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/announcing-native-entra-id-and-intune-support-for-amazon-workspaces/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "New Omnissa Horizon 8 features supported by Amazon WorkSpaces Core",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/new-omnissa-horizon-8-features-supported-by-amazon-workspaces-core/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "Citrix announces general availability of Citrix DaaS on Amazon WorkSpaces Core",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/citrix-announces-general-availability-of-citrix-daas-on-amazon-workspaces-core/",
+    "category": "Desktop & App Streaming"
+  },
+  {
+    "title": "Accessing AWS resources using AWS IAM Roles Anywhere from Amazon WorkSpaces",
+    "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/accessing-aws-resources-from-amazon-workspaces-using-aws-iam-roles-anywhere/",
+    "category": "Desktop & App Streaming"
+  }
+]

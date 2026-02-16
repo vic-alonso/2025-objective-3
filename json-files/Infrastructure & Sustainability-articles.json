@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "title": "How AWS estimates embodied emissions of IT hardware: The science and technology behind the latest customer carbon footprint methodology",
+    "link": "https://aws.amazon.com/blogs/infrastructure-sustainability/how-aws-estimates-embodied-emissions-of-it-hardware-the-science-and-technology-behind-the-latest-customer-carbon-footprint-methodology/",
+    "category": "Infrastructure & Sustainability"
+  },
+  {
+    "title": "How to use Sustainability Insights Framework on AWS",
+    "link": "https://aws.amazon.com/blogs/infrastructure-sustainability/sif-112026/",
+    "category": "Infrastructure & Sustainability"
+  },
+  {
+    "title": "How a new AWS optical network solution delivers unmatched scale and efficiency across its global infrastructure",
+    "link": "https://aws.amazon.com/blogs/infrastructure-sustainability/how-a-new-aws-optical-network-solution-delivers-unmatched-scale-and-efficiency-across-its-global-infrastructure/",
+    "category": "Infrastructure & Sustainability"
+  },
+  {
+    "title": "AWS re:Invent 2025: Complete Guide to Global Infrastructure and Sustainability",
+    "link": "https://aws.amazon.com/blogs/infrastructure-sustainability/aws-reinvent-2025-complete-guide-to-global-infrastructure-and-sustainability/",
+    "category": "Infrastructure & Sustainability"
+  },
+  {
+    "title": "An attendee’s guide to AWS Global Infrastructure and Sustainability at AWS re:Invent 2024",
+    "link": "https://aws.amazon.com/blogs/infrastructure-sustainability/an-attendees-guide-to-aws-global-infrastructure-and-sustainability-at-aws-reinvent-2024/",
+    "category": "Infrastructure & Sustainability"
+  },
+  {
+    "title": "How AWS helped Climate Pledge Arena with its sustainability goals",
+    "link": "https://aws.amazon.com/blogs/infrastructure-sustainability/how-aws-helped-climate-pledge-arena-with-its-sustainability-goals/",
+    "category": "Infrastructure & Sustainability"
+  },
+  {
+    "title": "Streamline your ESG Reporting with AWS Sustainability Data Fabric and Accenture",
+    "link": "https://aws.amazon.com/blogs/infrastructure-sustainability/streamline-your-esg-reporting-with-aws-sustainability-data-fabric-and-accenture/",
+    "category": "Infrastructure & Sustainability"
+  },
+  {
+    "title": "Tips from IDC to improve the environmental sustainability of your IT workloads",
+    "link": "https://aws.amazon.com/blogs/infrastructure-sustainability/tips-from-idc-to-improve-the-environmental-sustainability-of-your-it-workloads/",
+    "category": "Infrastructure & Sustainability"
+  },
+  {
+    "title": "15 billion litres restored: How Amazon Web Services is helping secure Cape Town’s water future",
+    "link": "https://aws.amazon.com/blogs/infrastructure-sustainability/15-billion-litres-restored-how-amazon-web-services-is-helping-secure-cape-towns-water-future/",
+    "category": "Infrastructure & Sustainability"
+  },
+  {
+    "title": "WeTransfer cuts server emissions and grows core business on AWS",
+    "link": "https://aws.amazon.com/blogs/infrastructure-sustainability/wetransfer-cuts-server-emissions-and-grows-core-business-on-aws/",
+    "category": "Infrastructure & Sustainability"
+  }
+]

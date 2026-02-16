@@ -1,1 +1,252 @@
-[]
+[
+  {
+    "title": "GPU-Accelerated Robotic Simulation Training with NVIDIA Isaac Lab in VAMS",
+    "link": "https://aws.amazon.com/blogs/spatial/gpu-accelerated-robotic-simulation-training-with-nvidia-isaac-lab-in-vams/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "Physical AI: Building the Next Foundation in Autonomous Intelligence",
+    "link": "https://aws.amazon.com/blogs/spatial/physical-ai-building-the-next-foundation-in-autonomous-intelligence/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "Embodied AI Blog Series, Part 1: Getting Started with Robot Learning on AWS Batch",
+    "link": "https://aws.amazon.com/blogs/spatial/embodied-ai-blog-series-part-1/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "Meet up with Spatial Computing and Physical AI Specialists at AWS re:Invent 2025!",
+    "link": "https://aws.amazon.com/blogs/spatial/meet-up-with-spatial-computing-physical-ai-at-aws-reinvent-2025/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "Empowering Sustainable Agriculture with AI-Powered Leaf Nutrient Sensing on AWS",
+    "link": "https://aws.amazon.com/blogs/spatial/empowering-sustainable-agriculture-with-ai-powered-leaf-nutrient-sensing-on-aws/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "From 2D to 3D: Building a Scalable Human Mesh Recovery Pipeline with Amazon SageMaker AI",
+    "link": "https://aws.amazon.com/blogs/spatial/from-2d-to-3d-building-a-scalable-human-mesh-recovery-pipeline-with-amazon-sagemaker-ai/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "Building Production-Ready 3D Pipelines with AWS Visual Asset Management System (VAMS) and 4D Pipeline",
+    "link": "https://aws.amazon.com/blogs/spatial/building-production-ready-3d-pipelines-with-aws-visual-asset-management-system-vams-and-4d-pipeline/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "A Maturity Level Framework for Industrial Inspection Report Automation",
+    "link": "https://aws.amazon.com/blogs/spatial/a-maturity-level-framework-for-industrial-inspection-report-automation/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "Partner Spotlight: How Treedis Powers the Connected Worker with a Spatially Aware Digital Twin on AWS",
+    "link": "https://aws.amazon.com/blogs/spatial/partner-spotlight-how-treedis-powers-the-connected-worker-with-a-spatially-aware-digital-twin-on-aws/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "Spatial Computing Podcast Launch Announcement",
+    "link": "https://aws.amazon.com/blogs/spatial/spatial-computing-podcast-launch-announcement/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "From Local to Global: Scaling 3D Pipelines with AWS and RapidPipeline",
+    "link": "https://aws.amazon.com/blogs/spatial/from-local-to-global-scaling-3d-pipelines-with-aws-and-rapidpipeline/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "Build a Spatial Object Tracking Pipeline with Create ML using Amazon EC2 Mac Instances",
+    "link": "https://aws.amazon.com/blogs/spatial/build-a-spatial-object-tracking-pipeline-with-create-ml-on-amazon-ec2-mac/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "Build an Immersive Virtual Reality Experience of Amazon Fulfillment Center Tour",
+    "link": "https://aws.amazon.com/blogs/spatial/build-an-immersive-virtual-reality-experience-of-amazon-fulfillment-center-tour/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "Partner Spotlight: Multiplayer Spatial Connection Engine for Non-Games Using a Scalable P2P Service with Topia",
+    "link": "https://aws.amazon.com/blogs/spatial/partner-spotlight-multiplayer-spatial-connection-engine-for-non-games-using-a-scalable-p2p-service-with-topia/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "AI-Powered Construction Document Analysis by Leveraging Computer Vision and Large Language Models",
+    "link": "https://aws.amazon.com/blogs/spatial/ai-powered-construction-document-analysis-by-leveraging-computer-vision-and-large-language-models/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "Meet up with Spatial Computing at AWS re:Invent 2024!",
+    "link": "https://aws.amazon.com/blogs/spatial/meet-up-with-spatial-computing-at-aws-reinvent-2024/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "Delivering Immersive Experiences that Move the Mind: How Liminal VR Leverages Neuroscience and Psychology on AWS",
+    "link": "https://aws.amazon.com/blogs/spatial/delivering-immersive-experiences-that-move-the-mind-how-liminal-vr-leverages-neuroscience-and-psychology-on-aws/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "The Transformative Power of Spatial Computing",
+    "link": "https://aws.amazon.com/blogs/spatial/the-transformative-power-of-spatial-computing/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "AWS and Meta’s GenAI with XR Hackathon: Shaping the Future",
+    "link": "https://aws.amazon.com/blogs/spatial/aws-and-metas-genai-with-xr-hackathon-shaping-the-future/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "3D Gaussian Splatting: Performant 3D Scene Reconstruction at Scale",
+    "link": "https://aws.amazon.com/blogs/spatial/3d-gaussian-splatting-performant-3d-scene-reconstruction-at-scale/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "Modeling Infectious Disease Propagation in Airports Using Spatial Simulations on AWS",
+    "link": "https://aws.amazon.com/blogs/spatial/modeling-infectious-disease-propagation-in-airports-using-spatial-simulations-on-aws/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "3D Design Reviews On-demand with Autodesk VRED and AWS",
+    "link": "https://aws.amazon.com/blogs/spatial/3d-design-reviews-on-demand-with-autodesk-vred-and-aws/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "Creating Extended Reality (XR) Applications on AWS",
+    "link": "https://aws.amazon.com/blogs/spatial/creating-extended-reality-xr-applications-on-aws/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "Text-to-Hologram: Unleashing Creativity with AWS Gen AI and Proto Hologram",
+    "link": "https://aws.amazon.com/blogs/spatial/text-to-hologram-unleashing-creativity-with-aws-gen-ai-and-proto-hologram/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "Spatial Computing on AWS Developer’s Podcast",
+    "link": "https://aws.amazon.com/blogs/spatial/spatial-computing-on-aws-developers-podcast/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "Visual Asset Management System 2.0 Release",
+    "link": "https://aws.amazon.com/blogs/spatial/visual-asset-management-system-2-0-release/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "AWS at the 15th Annual Augmented World Expo (AWE) June 18-20, 2024",
+    "link": "https://aws.amazon.com/blogs/spatial/aws-at-the-15th-annual-augmented-world-expo-awe-june-18-20-2024/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "Empower Your WebXR App Using AWS Serverless Architecture",
+    "link": "https://aws.amazon.com/blogs/spatial/empower-your-webxr-app-using-aws-serverless-architecture/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "Apple Vision Pro and AWS Amplify Part 3 – Database",
+    "link": "https://aws.amazon.com/blogs/spatial/apple-vision-pro-and-aws-amplify-part-3-database/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "Apple Vision Pro and AWS Amplify Part 2 – Storage",
+    "link": "https://aws.amazon.com/blogs/spatial/apple-vision-pro-and-aws-amplify-part-2-storage/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "The AWS Builder Studio: Out of the Cloud and Down onto the Street",
+    "link": "https://aws.amazon.com/blogs/spatial/the-aws-builder-studio-out-of-the-cloud-and-down-onto-the-street/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "WebSocket APIs: Showcasing a Practical Networking Solution",
+    "link": "https://aws.amazon.com/blogs/spatial/websocket-apis-showcasing-a-practical-networking-solution-with-sample-aws-and-unity-code/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "Save the Date: Spatial Computing at AWS re:Invent 2023",
+    "link": "https://aws.amazon.com/blogs/spatial/save-the-date-spatial-computing-at-aws-reinvent-2023/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "Getting Started with Vision Pro and AWS",
+    "link": "https://aws.amazon.com/blogs/spatial/getting-started-with-vision-pro-and-aws/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "Modeling Spread of Infectious Disease Using Spatial Simulations on AWS",
+    "link": "https://aws.amazon.com/blogs/spatial/modeling-spread-of-infectious-disease-using-spatial-simulations-on-aws/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "Save the Date: Join AWS at the Reality Capture Network Conference, Oct 17 – Oct 19, 2023",
+    "link": "https://aws.amazon.com/blogs/spatial/save-the-date-join-aws-at-reality-capture-network-conference-oct-17-oct-19-2023/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "How to: Create a VR application with user insights using AWS Amplify and WebXR",
+    "link": "https://aws.amazon.com/blogs/spatial/how-to-create-a-vr-application-with-user-insights-using-aws-amplify-and-webxr/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "Exploring the Spatial Computing Spectrum: Digitization to Digital Twin",
+    "link": "https://aws.amazon.com/blogs/spatial/exploring-the-spatial-computing-spectrum-digitization-to-digital-twin/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "Building Efficient Digital Twins in the Construction Industry",
+    "link": "https://aws.amazon.com/blogs/spatial/building-efficient-digital-twins-in-the-construction-industry/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "VR Virtual Desktop Prototype on the Meta Quest",
+    "link": "https://aws.amazon.com/blogs/spatial/vr-virtual-desktop-prototype-on-the-meta-quest/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "How to Host Cross-Platform XR Experiences on AWS",
+    "link": "https://aws.amazon.com/blogs/spatial/how-to-host-cross-platform-xr-experiences-on-aws/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "Partner Spotlight: Building Cloud-First Enterprise XR Applications",
+    "link": "https://aws.amazon.com/blogs/spatial/building-cloud-first-enterprise-xr-applications/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "Exploring the Spatial Computing Spectrum: The Next Frontier of Immersive Technologies",
+    "link": "https://aws.amazon.com/blogs/spatial/exploring-the-spatial-computing-spectrum-the-next-frontier-of-immersive-technologies/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "Save the Date: Join AWS at Augmented World Expo, May 31 – June 2, 2023",
+    "link": "https://aws.amazon.com/blogs/spatial/save-the-date-join-aws-at-augmented-world-expo-may-31-june-2-2023/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "Orthophotography with OpenDroneMap on AWS",
+    "link": "https://aws.amazon.com/blogs/spatial/orthophotography-with-opendronemap-on-aws/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "Improve simulation resiliency with AWS SimSpace Weaver Snapshots",
+    "link": "https://aws.amazon.com/blogs/spatial/improve-simulation-resiliency-with-aws-simspace-weaver-snapshots/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "Availability and Disaster Recovery for NVIDIA Omniverse Enterprise Nucleus",
+    "link": "https://aws.amazon.com/blogs/spatial/availability-disaster-recovery-for-nvidia-omniverse-enterprise-nucleus/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "AWS re:Invent 2022 wrap up: How Epic Games, Toyota, and Volkswagen create boundary-pushing simulations on AWS",
+    "link": "https://aws.amazon.com/blogs/spatial/aws-reinvent-2022-wrap-up-how-epic-games-toyota-and-volkswagen-create-boundary-pushing-simulations-on-aws/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "Exploring the Spatial Computing Spectrum: From 3D to Simulation",
+    "link": "https://aws.amazon.com/blogs/spatial/exploring-the-spatial-computing-spectrum-from-3d-to-simulation/",
+    "category": "Spatial Computing"
+  },
+  {
+    "title": "Metaverse Building Blocks: Spatial Data Planes",
+    "link": "https://aws.amazon.com/blogs/spatial/metaverse-building-blocks-spatial-data-planes/",
+    "category": "Spatial Computing"
+  }
+]

@@ -1,1 +1,252 @@
-[]
+[
+  {
+    "title": "Using generative AI for proactive IaC code generation that’s compliant with service control policies using Amazon Bedrock",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/using-generative-ai-for-proactive-iac-code-generation-thats-compliant-with-service-control-policies-using-amazon-bedrock/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "Automate external system updates for AWS Control Tower account creation",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/automate-external-system-updates-for-aws-control-tower-account-creation/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "Accelerate Region expansion with the AWS Knowledge MCP server",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/accelerate-region-expansion-with-the-aws-knowledge-mcp-server/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "Real-time patient monitoring architecture on AWS for smart inhalers",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/real-time-patient-monitoring-architecture-on-aws-for-smart-inhalers/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "Automating server creation with EC2 Image Builder and AWS Systems Manager: A collaboration between AWS and Ziff Davis",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/automating-server-creation-with-ec2-image-builder-and-aws-systems-manager-a-collaboration-between-aws-and-ziff-davis/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "Optimize message delivery to third-party services using AWS Lambda and AWS Step Functions",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/optimize-message-delivery-to-third-party-services-using-aws-lambda-and-aws-step-functions/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "Monitor AWS Backup Vault Lock compliance across your organization",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/monitor-aws-backup-vault-lock-compliance-across-your-organization/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "Automate security compliance and remediation across organizations",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/automate-security-compliance-and-remediation-across-organizations/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "Enhance customer experience with an integrated AI assistant",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/enhance-customer-experience-with-an-integrated-ai-assistant/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "Updating your AWS Elastic Disaster Recovery settings at scale with the DRS Settings Tool",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/updating-your-aws-elastic-disaster-recovery-settings-at-scale-with-the-drs-settings-tool/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "A practical guide to getting started with policy as code",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/a-practical-guide-to-getting-started-with-policy-as-code/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "Automate security scans on Amazon EKS with Kubescape, AWS CodeBuild, and AWS CodePipeline",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/automate-security-scans-on-amazon-eks-with-kubescape-aws-codebuild-and-aws-codepipeline/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "Build an automated deployment of generative AI with agent lifecycle changes using Terraform",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/build-an-automated-deployment-of-generative-ai-with-agent-lifecycle-changes-using-terraform/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "Build workflows-as-code automations for AWS services using Flowpipe",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/build-workflows-as-code-automations-for-aws-services-using-flowpipe/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "Manage security events in Slack, Teams, or Amazon Chime using AWS Chatbot and Amazon Q",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/manage-security-events-in-slack-teams-or-amazon-chime-using-aws-chatbot-and-amazon-q/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "Restart Amazon ECS tasks with AWS Lambda and AWS CloudFormation custom resources",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/restart-amazon-ecs-tasks-with-aws-lambda-and-aws-cloudformation-custom-resources/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "Simplify SQL queries to your AWS API operations using Steampipe and AWS plugin",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/simplify-sql-queries-to-aws-api-operations-using-steampipe-and-aws-plugin/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "Best practices for creating IaC for AWS GovCloud (US)",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/best-practices-for-creating-iac-for-aws-govcloud-us/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "Automate monitoring for your Amazon EKS cluster using CloudWatch Container Insights",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/automate-monitoring-for-your-amazon-eks-cluster-using-cloudwatch-container-insights/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "IAM Roles Anywhere integration guide for installing AWS Partner CRM Connector",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/iam-roles-anywhere-integration-guide-for-installing-aws-partner-crm-connector/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "Best practices for accelerating development with serverless blueprints",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/best-practices-for-accelerating-development-with-serverless-blueprints/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "Optimize AWS event and log collection using common design patterns",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/optimize-aws-event-log-collection-using-common-design-patterns/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "ACE mapping guide for AWS Partner CRM Connector Version 2.0",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/ace-mapping-guide-for-aws-partner-crm-connector-version-2-0/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "Automate comprehensive data protection using AWS CloudFormation StackSets",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/automate-comprehensive-data-protection-using-aws-cloudformation-stacksets/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "Save time converting Terraform templates to AWS using Amazon Bedrock",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/save-time-converting-terraform-templates-to-aws-using-amazon-bedrock/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "Reduce project delays with a docs-as-code solution",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/reduce-project-delays-with-docs-as-code-solution/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "Simplify integration of your Amazon EKS cluster with Amazon EKS Blueprints for CDK",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/simplify-integration-of-your-amazon-eks-cluster-with-amazon-eks-blueprints-for-cdk/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "Create AMIs with AWS CodePipeline",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/create-amis-with-aws-codepipeline/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "Automate IAM credential reports for large AWS Organizations",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/automate-iam-credential-reports-for-large-aws-organizations/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "Automate prework to save time deploying an Amazon EKS Kubernetes cluster",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/automate-prework-to-save-time-deploying-amazon-eks-kubernetes-cluster/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "Manage multiaccount and multi-Region infrastructure in Terraform using AWS Cloud9",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/manage-multiaccount-multi-region-infrastructure-terraform-aws-cloud9/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "Save time with automated security checks of your Terraform scripts",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/save-time-with-automated-security-checks-of-terraform-scripts/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "Read parameters across AWS Regions with AWS CloudFormation custom resources",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/read-parameters-across-aws-regions-with-aws-cloudformation-custom-resources/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "Reduce costs with an ephemeral Amazon FSx for Lustre file system",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/reduce-costs-with-ephemeral-amazon-fsx-for-lustre-file-system/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "Manage permission sets and account assignments in AWS IAM Identity Center with a CI/CD pipeline",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/manage-permission-sets-and-account-assignments-in-aws-iam-identity-center-with-a-ci-cd-pipeline/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "Reduce security risks from IaC drift in multi-Region AWS deployments with Terraform",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/reduce-security-risks-from-iac-drift-in-multi-region-aws-deployments-with-terraform/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "Automate sports data polling with AWS Step Functions",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/automate-sports-data-polling-with-aws-step-functions/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "Keep your AWS resources when you rename an AWS CloudFormation stack",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/keep-your-aws-resources-when-you-rename-an-aws-cloudformation-stack/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "Save time and reduce errors by automating AWS Lambda code updates",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/save-time-reduce-errors-automating-lambda-code-updates/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "Create a more secure LAMP stack with AWS WAF (web application firewall)",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/secure-lamp-stack-aws-waf-web-application-firewall/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "Reduce log-storage costs by automating retention settings in Amazon CloudWatch",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/reduce-log-storage-costs-by-automating-retention-settings-in-amazon-cloudwatch/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "Disaster recovery: 3 failover scenarios for your Amazon Aurora global database with Terraform (Part 2)",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/disaster-recovery-failover-scenarios-aurora-global-database-terraform/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "Collect custom metrics with Amazon CloudWatch strategic tagging",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/collect-custom-metrics-with-amazon-cloudwatch-strategic-tagging/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "Deploy bastion hosts into private subnets with AWS CDK",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/deploy-bastion-hosts-into-private-subnets-with-aws-cdk/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "Prepare for faster disaster recovery: Deploy an Amazon Aurora global database with Terraform (Part 1)",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/disaster-recovery-deploy-amazon-aurora-global-database-with-terraform/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "Emulate your test environment using a service virtualization on AWS",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/emulate-test-environment-using-service-virtualization/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "Top 5 posts published in 2021 on the AWS Infrastructure & Automation Blog",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/top-5-posts-2021-aws-ia-blog/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "Automate VPC tagging with AWS Control Tower lifecycle events",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/automate-vpc-tagging-with-aws-control-tower-lifecycle-events/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "Use AWS CDK to initialize Amazon RDS instances",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/use-aws-cdk-to-initialize-amazon-rds-instances/",
+    "category": "Integration & Automation"
+  },
+  {
+    "title": "Use AWS Control Tower to deploy AWS Quick Starts to multiple accounts",
+    "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/deploy-aws-quick-start-to-multiple-accounts-using-aws-control-tower/",
+    "category": "Integration & Automation"
+  }
+]

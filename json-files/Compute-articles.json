@@ -1,1 +1,252 @@
-[]
+[
+  {
+    "title": "Serverless ICYMI Q4 2025",
+    "link": "https://aws.amazon.com/blogs/compute/serverless-icymi-q4-2025/",
+    "category": "Compute"
+  },
+  {
+    "title": "More room to build: serverless services now support payloads up to 1 MB",
+    "link": "https://aws.amazon.com/blogs/compute/more-room-to-build-serverless-services-now-support-payloads-up-to-1-mb/",
+    "category": "Compute"
+  },
+  {
+    "title": "Simplify network segmentation for AWS Outposts racks with multiple local gateway routing domains",
+    "link": "https://aws.amazon.com/blogs/compute/simplify-network-segmentation-for-aws-outposts-racks-with-multiple-local-gateway-routing-domains/",
+    "category": "Compute"
+  },
+  {
+    "title": "Optimizing storage performance for Amazon EKS on AWS Outposts",
+    "link": "https://aws.amazon.com/blogs/compute/optimizing-storage-performance-for-amazon-eks-on-aws-outposts/",
+    "category": "Compute"
+  },
+  {
+    "title": ".NET 10 runtime now available in AWS Lambda",
+    "link": "https://aws.amazon.com/blogs/compute/net-10-runtime-now-available-in-aws-lambda/",
+    "category": "Compute"
+  },
+  {
+    "title": "Building zero trust generative AI applications in healthcare with AWS Nitro Enclaves",
+    "link": "https://aws.amazon.com/blogs/compute/building-zero-trust-generative-ai-applications-in-healthcare-with-aws-nitro-enclaves/",
+    "category": "Compute"
+  },
+  {
+    "title": "Orchestrating large-scale document processing with AWS Step Functions and Amazon Bedrock batch inference",
+    "link": "https://aws.amazon.com/blogs/compute/orchestrating-large-scale-document-processing-with-aws-step-functions-and-amazon-bedrock-batch-inference/",
+    "category": "Compute"
+  },
+  {
+    "title": "Node.js 24 runtime now available in AWS Lambda",
+    "link": "https://aws.amazon.com/blogs/compute/node-js-24-runtime-now-available-in-aws-lambda/",
+    "category": "Compute"
+  },
+  {
+    "title": "Performance benefits of new Amazon EC2 R8a memory-optimized instances",
+    "link": "https://aws.amazon.com/blogs/compute/performance-benefits-of-new-amazon-ec2-r8a-memory-optimized-instances/",
+    "category": "Compute"
+  },
+  {
+    "title": "The attendee’s guide to hybrid cloud and edge computing at AWS re:Invent 2025",
+    "link": "https://aws.amazon.com/blogs/compute/the-attendees-guide-to-hybrid-cloud-and-edge-computing-at-aws-reinvent-2025/",
+    "category": "Compute"
+  },
+  {
+    "title": "Optimize unused capacity with Amazon EC2 interruptible capacity reservations",
+    "link": "https://aws.amazon.com/blogs/compute/optimize-unused-capacity-with-amazon-ec2-interruptible-capacity-reservations/",
+    "category": "Compute"
+  },
+  {
+    "title": "How potential performance upside with AWS Graviton helps reduce your costs further",
+    "link": "https://aws.amazon.com/blogs/compute/how-potential-performance-upside-with-aws-graviton-helps-reduce-your-costs-further/",
+    "category": "Compute"
+  },
+  {
+    "title": "Enhancing API security with Amazon API Gateway TLS security policies",
+    "link": "https://aws.amazon.com/blogs/compute/enhancing-api-security-with-amazon-api-gateway-tls-security-policies/",
+    "category": "Compute"
+  },
+  {
+    "title": "Improving throughput of serverless streaming workloads for Kafka",
+    "link": "https://aws.amazon.com/blogs/compute/improving-throughput-of-serverless-streaming-workloads-for-kafka/",
+    "category": "Compute"
+  },
+  {
+    "title": "Build scalable REST APIs using Amazon API Gateway private integration with Application Load Balancer",
+    "link": "https://aws.amazon.com/blogs/compute/build-scalable-rest-apis-using-amazon-api-gateway-private-integration-with-application-load-balancer/",
+    "category": "Compute"
+  },
+  {
+    "title": "Serverless strategies for streaming LLM responses",
+    "link": "https://aws.amazon.com/blogs/compute/serverless-strategies-for-streaming-llm-responses/",
+    "category": "Compute"
+  },
+  {
+    "title": "Building multi-tenant SaaS applications with AWS Lambda’s new tenant isolation mode",
+    "link": "https://aws.amazon.com/blogs/compute/building-multi-tenant-saas-applications-with-aws-lambdas-new-tenant-isolation-mode/",
+    "category": "Compute"
+  },
+  {
+    "title": "Improve API discoverability with the new Amazon API Gateway Portal",
+    "link": "https://aws.amazon.com/blogs/compute/improve-api-discoverability-with-the-new-amazon-api-gateway-portal/",
+    "category": "Compute"
+  },
+  {
+    "title": "Building responsive APIs with Amazon API Gateway response streaming",
+    "link": "https://aws.amazon.com/blogs/compute/building-responsive-apis-with-amazon-api-gateway-response-streaming/",
+    "category": "Compute"
+  },
+  {
+    "title": "Optimize latency-sensitive workloads with Amazon EC2 detailed NVMe statistics",
+    "link": "https://aws.amazon.com/blogs/compute/optimize-latency-sensitive-workloads-with-amazon-ec2-detailed-nvme-statistics/",
+    "category": "Compute"
+  },
+  {
+    "title": "Python 3.14 runtime now available in AWS Lambda",
+    "link": "https://aws.amazon.com/blogs/compute/python-3-14-runtime-now-available-in-aws-lambda/",
+    "category": "Compute"
+  },
+  {
+    "title": "Building serverless applications with Rust on AWS Lambda",
+    "link": "https://aws.amazon.com/blogs/compute/building-serverless-applications-with-rust-on-aws-lambda/",
+    "category": "Compute"
+  },
+  {
+    "title": "Handle unpredictable processing times with operational consistency when integrating asynchronous AWS services with an AWS Step Functions state machine",
+    "link": "https://aws.amazon.com/blogs/compute/handle-unpredictable-processing-times-with-operational-consistency-when-integrating-asynchronous-aws-services-with-an-aws-step-functions-state-machine/",
+    "category": "Compute"
+  },
+  {
+    "title": "AWS Lambda now supports Java 25",
+    "link": "https://aws.amazon.com/blogs/compute/aws-lambda-now-supports-java-25/",
+    "category": "Compute"
+  },
+  {
+    "title": "The attendee’s guide to the AWS re:Invent 2025 Compute track",
+    "link": "https://aws.amazon.com/blogs/compute/the-attendees-guide-to-the-aws-reinvent-2025-compute-track/",
+    "category": "Compute"
+  },
+  {
+    "title": "AWS Lambda networking over IPv6",
+    "link": "https://aws.amazon.com/blogs/compute/aws-lambda-networking-over-ipv6/",
+    "category": "Compute"
+  },
+  {
+    "title": "Orchestrating big data processing with AWS Step Functions Distributed Map",
+    "link": "https://aws.amazon.com/blogs/compute/orchestrating-big-data-processing-with-aws-step-functions-distributed-map/",
+    "category": "Compute"
+  },
+  {
+    "title": "Optimizing nested JSON array processing using AWS Step Functions Distributed Map",
+    "link": "https://aws.amazon.com/blogs/compute/optimizing-nested-json-array-processing-using-aws-step-functions-distributed-map/",
+    "category": "Compute"
+  },
+  {
+    "title": "Introducing AWS Lambda event source mapping tools in the AWS Serverless MCP Server",
+    "link": "https://aws.amazon.com/blogs/compute/introducing-aws-lambda-event-source-mapping-tools-in-the-aws-serverless-mcp-server/",
+    "category": "Compute"
+  },
+  {
+    "title": "Processing Amazon S3 objects at scale with AWS Step Functions Distributed Map S3 prefix",
+    "link": "https://aws.amazon.com/blogs/compute/processing-amazon-s3-objects-at-scale-with-aws-step-functions-distributed-map-s3-prefix/",
+    "category": "Compute"
+  },
+  {
+    "title": "Zero downtime blue/green deployments with Amazon API Gateway",
+    "link": "https://aws.amazon.com/blogs/compute/zero-downtime-blue-green-deployments-with-amazon-api-gateway/",
+    "category": "Compute"
+  },
+  {
+    "title": "Migrate encrypted Amazon EC2 instances across AWS Regions without sharing AWS KMS keys",
+    "link": "https://aws.amazon.com/blogs/compute/migrate-encrypted-amazon-ec2-instances-across-aws-regions-without-sharing-aws-kms-keys/",
+    "category": "Compute"
+  },
+  {
+    "title": "Securing applications with AWS Nitro Enclaves: TLS termination, TAP networking, and IMDSv2",
+    "link": "https://aws.amazon.com/blogs/compute/securing-applications-with-aws-nitro-enclaves-tls-termination-tap-networking-and-imdsv2/",
+    "category": "Compute"
+  },
+  {
+    "title": "Serverless ICYMI Q3 2025",
+    "link": "https://aws.amazon.com/blogs/compute/serverless-icymi-q3-2025/",
+    "category": "Compute"
+  },
+  {
+    "title": "Deploying AI models for inference with AWS Lambda using zip packaging",
+    "link": "https://aws.amazon.com/blogs/compute/deploying-ai-models-for-inference-with-aws-lambda-using-zip-packaging/",
+    "category": "Compute"
+  },
+  {
+    "title": "How to export to Amazon S3 Tables by using AWS Step Functions Distributed Map",
+    "link": "https://aws.amazon.com/blogs/compute/how-to-export-to-amazon-s3-tables-by-using-aws-step-functions-distributed-map/",
+    "category": "Compute"
+  },
+  {
+    "title": "Enhance the local testing experience for serverless applications with LocalStack",
+    "link": "https://aws.amazon.com/blogs/compute/enhance-the-local-testing-experience-for-serverless-applications-with-localstack/",
+    "category": "Compute"
+  },
+  {
+    "title": "Tuning guide for AMD Amazon EC2 instances",
+    "link": "https://aws.amazon.com/blogs/compute/tuning-guide-for-amd-amazon-ec2-instances/",
+    "category": "Compute"
+  },
+  {
+    "title": "DISA STIG for Amazon Linux 2023 is now available",
+    "link": "https://aws.amazon.com/blogs/compute/disa-stig-for-amazon-linux-2023-is-now-available/",
+    "category": "Compute"
+  },
+  {
+    "title": "Accelerating local serverless development with console to IDE and remote debugging for AWS Lambda",
+    "link": "https://aws.amazon.com/blogs/compute/accelerating-local-serverless-development-with-console-to-ide-and-remote-debugging-for-aws-lambda/",
+    "category": "Compute"
+  },
+  {
+    "title": "Accessing private Amazon API Gateway endpoints through custom Amazon CloudFront distribution using VPC Origins",
+    "link": "https://aws.amazon.com/blogs/compute/accessing-private-amazon-api-gateway-endpoints-through-custom-amazon-cloudfront-distribution-using-vpc-origins/",
+    "category": "Compute"
+  },
+  {
+    "title": "Building resilient multi-Region Serverless applications on AWS",
+    "link": "https://aws.amazon.com/blogs/compute/building-resilient-multi-region-serverless-applications-on-aws/",
+    "category": "Compute"
+  },
+  {
+    "title": "Serverless generative AI architectural patterns – Part 2",
+    "link": "https://aws.amazon.com/blogs/compute/part-2-serverless-generative-ai-architectural-patterns/",
+    "category": "Compute"
+  },
+  {
+    "title": "Serverless generative AI architectural patterns – Part 1",
+    "link": "https://aws.amazon.com/blogs/compute/serverless-generative-ai-architectural-patterns/",
+    "category": "Compute"
+  },
+  {
+    "title": "Implementing advanced AWS Graviton adoption strategies across AWS Regions",
+    "link": "https://aws.amazon.com/blogs/compute/implementing-advanced-aws-graviton-adoption-strategies-across-aws-regions/",
+    "category": "Compute"
+  },
+  {
+    "title": "Multi-rack and multiple logical AWS Outposts architecture considerations for resiliency",
+    "link": "https://aws.amazon.com/blogs/compute/multi-rack-and-multiple-logical-aws-outposts-architecture-considerations-for-resiliency/",
+    "category": "Compute"
+  },
+  {
+    "title": "Under the hood: how AWS Lambda SnapStart optimizes function startup latency",
+    "link": "https://aws.amazon.com/blogs/compute/under-the-hood-how-aws-lambda-snapstart-optimizes-function-startup-latency/",
+    "category": "Compute"
+  },
+  {
+    "title": "Effectively building AI agents on AWS Serverless",
+    "link": "https://aws.amazon.com/blogs/compute/effectively-building-ai-agents-on-aws-serverless/",
+    "category": "Compute"
+  },
+  {
+    "title": "Understanding and Remediating Cold Starts: An AWS Lambda Perspective",
+    "link": "https://aws.amazon.com/blogs/compute/understanding-and-remediating-cold-starts-an-aws-lambda-perspective/",
+    "category": "Compute"
+  },
+  {
+    "title": "Improving network observability with new AWS Outposts racks network metrics",
+    "link": "https://aws.amazon.com/blogs/compute/improving-network-observability-with-new-aws-outposts-racks-network-metrics/",
+    "category": "Compute"
+  }
+]

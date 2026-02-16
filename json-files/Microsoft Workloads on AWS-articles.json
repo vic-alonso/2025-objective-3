@@ -1,1 +1,252 @@
-[]
+[
+  {
+    "title": "Introducing the AWS Well-Architected Microsoft Workloads Lens",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/introducing-the-aws-well-architected-microsoft-workloads-lens/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": "Introducing Kiro and MCP Tools for SQL Server professionals",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/introducing-kiro-and-mcp-tools-for-sql-server-professionals/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": "What’s new in Microsoft SQL Server 2025 on AWS",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/whats-new-in-microsoft-sql-server-2025-on-aws/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": "Reduce Microsoft SQL Server High Availability costs running on Amazon EC2",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/amazon-ec2-reduces-costs-for-microsoft-sql-server-high-availability-deployments/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": "Mastering SQL Server Backups with T-SQL Snapshots and Amazon FSx for NetApp ONTAP",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/mastering-sql-server-backups-with-t-sql-snapshots-and-amazon-fsx-for-netapp-ontap/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": "Simplify SQL Server Developer edition deployments with AWS Launch Wizard",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/simplify-sql-server-developer-edition-deployments-with-aws-launch-wizard/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": "How to deploy a SQL Server Failover Cluster Instance across three Availability Zones using Storage Spaces Direct",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-deploy-a-sql-server-failover-cluster-instance-across-three-availability-zones-using-storage-spaces-direct/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": "Simplify AWS License Manager user subscription management by sharing AWS Managed Microsoft Active Directory",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/simplify-aws-license-manager-user-subscription-management-by-sharing-aws-managed-microsoft-active-directory/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": "Optimize CPUs best practices for SQL Server workloads – continued",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/optimize-cpus-best-practices-for-sql-server-workloads-continued/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": "Microsoft workloads on AWS: Your complete re:Invent 2025 guide",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/microsoft-workloads-on-aws-your-complete-reinvent-2025-guide/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": "Testing AWS Managed Microsoft AD Resilience using AWS Fault Injection Service",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/testing-aws-managed-microsoft-ad-resilience-using-aws-fault-injection-service/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": "Mastering Windows Server migration to Amazon EC2: Key tactics for success – Part 2",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/mastering-windows-server-migration-to-amazon-ec2-key-tactics-for-success-part-2/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": "Extending on-premises MS SQL Server Always On Availability groups to Amazon EC2 for Disaster Recovery",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/extending-on-premises-ms-sql-server-always-on-availability-groups-to-amazon-ec2-for-disaster-recovery/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": "Extend your Active Directory domain to AWS with AWS Managed Microsoft AD (Hybrid Edition)",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/extend-your-active-directory-domain-to-aws-with-aws-managed-microsoft-ad-hybrid-edition/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": "How TEKsystems Modernized a University’s Microsoft Workloads on AWS",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-teksystems-modernized-a-universitys-microsoft-workloads-on-aws/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": "Operating BYOL Windows Server Workloads Effectively on AWS",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/operating-byol-windows-server-workloads-effectively-on-aws/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": "Deploy SQL Server Container Clusters using Amazon EKS and Amazon FSx for Windows",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/deploy-sql-server-container-clusters-using-amazon-eks-and-amazon-fsx-for-windows/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": "Modernize .NET applications at scale with AWS Transform for .NET",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/modernize-net-applications-at-scale-with-aws-transform-for-net/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": "Port your .NET Framework applications to Linux with AWS Transform for .NET",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/port-your-net-framework-applications-to-linux-with-aws-transform-for-net/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": "Containerize your legacy ASP.NET application in a few clicks using AWS Migration Hub Orchestrator",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/containerize-asp-net-application-using-aws-migration-hub-orchestrator/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": "Testing 3-tier Windows app resilience on AWS with Resilience Testing",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/testing-3-tier-windows-app-resilience-on-aws-with-resilience-testing/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": "Accelerating .NET modernization with AWS Transform for .NET and CAST",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/accelerating-net-modernization-with-aws-transform-for-net-and-cast/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": "How to use persistent storage with AWS Elastic Beanstalk Windows deployment.",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-use-persistent-storage-with-aws-elastic-beanstalk-windows-deployment/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": "Automating SQL Server Point-in-Time Recovery Using EBS Snapshots",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/automating-sql-server-point-in-time-recovery-using-ebs-snapshots/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": "How to use ACM PCA Connector for AD to enable LDAPS for your Active Directory",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-use-acm-pca-connector-for-ad-to-enable-ldaps-for-your-self-managed-ad/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": "Harness Amazon Q Business power with Amazon FSx file server for enterprise search.",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/harness-amazon-q-business-power-with-amazon-fsx-file-server-for-enterprise-search/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": "Running SQL Server Stretch Failover Cluster Instance on Amazon EC2",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/running-sql-server-stretch-failover-cluster-instance-on-amazon-ec2/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": "Why organizations around the world are choosing AWS Transform for .NET",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/why-organizations-around-the-world-are-choosing-aws-transform-for-net/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": "How The Hartford jumpstarted .NET modernization with AWS Transform",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-the-hartford-jumpstarted-net-modernization-with-aws-transform/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": "Compliant and Cost-Effective Microsoft Dynamics 365 CE Implementation on AWS",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/compliant-and-cost-effective-microsoft-dynamics-365-ce-implementation-on-aws/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": "Integrate multiple identity providers with AWS IAM Identity Center using Okta",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/integrate-multiple-identity-providers-with-aws-iam-identity-center-using-okta/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": "Mastering Windows Server migration to Amazon EC2: Key tactics for success – Part 1",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/mastering-windows-server-migration-to-amazon-ec2-key-tactics-for-success-part-1/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": "Harness Amazon Q Business power with Microsoft SharePoint for enterprise search",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/harness-amazon-q-business-power-with-microsoft-sharepoint-for-enterprise-search/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": "Ola Hallengren’s SQL Server Maintenance Solution in AWS",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/ola-hallengrens-sql-server-maintenance-solution-in-aws/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": "How to configure Microsoft Remote Desktop Services using user-based subscription licenses with AWS License Manager",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-configure-microsoft-remote-desktop-services-using-user-based-subscription-licenses-with-aws-license-manager/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": "Continuous Replication to Amazon RDS for SQL Server from Azure SQL",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/continuous-replication-to-amazon-rds-for-sql-server-from-azure-sql/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": "License enforcement and tracking for multiple accounts with AWS organizations based on AMI",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/license-enforcement-and-tracking-for-multiple-accounts-with-aws-organizations-based-on-ami/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": "How to federate into AWS from Azure DevOps using OpenID Connect",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-federate-into-aws-from-azure-devops-using-openid-connect/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": "Automate SCIM provisioning from Active Directory to IAM Identity Center",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/automate-scim-provisioning-from-active-directory-to-iam-identity-center/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": ".NET observability with Amazon CloudWatch Application Signals",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/dotnet-observability-cloudwatch-application-signals/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": "Setting up Windows Server Failover Cluster shared storage on AWS Outposts rack",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/windows-server-failover-cluster-shared-storage-aws-outposts-rack/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": "Event-driven Active Directory domain join with Amazon EventBridge",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/event-driven-active-directory-domain-join-with-amazon-eventbridge/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": "MultiCloud cost visibility with Amazon QuickSight and FOCUS",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/multicloud-cost-visibility-with-amazon-quicksight-and-focus/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": "Reserve your seat: Microsoft workloads on AWS sessions at re:Invent 2024",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/reserve-your-seat-microsoft-workloads-on-aws-sessions-at-reinvent-2024/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": "Accelerate VMware to AWS Migration with Trianz’s Rapid Migration Offer and Concierto platform",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/accelerate-vmware-to-aws-migration-with-trianzs-rapid-migration-offer-and-concierto-platform/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": "Join AWS at PASS Data Community Summit 2024",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/join-aws-at-pass-data-community-summit-2024/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": "How to optimize costs for Microsoft workloads on AWS",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-optimize-costs-for-microsoft-workloads-on-aws/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": "Enhance security of your AWS app integration with AWS Managed Microsoft AD",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/enhance-security-of-your-aws-app-integration-with-aws-managed-microsoft-ad/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": "Accelerate Remote Desktop Gateway deployments with AWS Launch Wizard",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/accelerate-remote-desktop-gateway-deployments-with-aws-launch-wizard/",
+    "category": "Microsoft Workloads on AWS"
+  },
+  {
+    "title": "Streamline Identity Management with AWS Directory Service and One Identity Active Roles",
+    "link": "https://aws.amazon.com/blogs/modernizing-with-aws/streamline-identity-management-with-aws-directory-service-and-one-identity-active-roles/",
+    "category": "Microsoft Workloads on AWS"
+  }
+]

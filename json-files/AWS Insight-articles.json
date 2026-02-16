@@ -1,1 +1,77 @@
-[]
+[
+  {
+    "title": "AWS: Why agentic AI marks an inflection point for enterprise modernization",
+    "link": "https://aws.amazon.com/blogs/aws-insights/aws-why-agentic-ai-marks-an-inflection-point-for-enterprise-modernization/",
+    "category": "AWS Insight"
+  },
+  {
+    "title": "Powering the world’s largest events: How Amazon CloudFront delivers at scale",
+    "link": "https://aws.amazon.com/blogs/aws-insights/powering-the-worlds-largest-events-how-amazon-cloudfront-delivers-at-scale/",
+    "category": "AWS Insight"
+  },
+  {
+    "title": "Vendor Insight Report: AWS recognized for AI investment, operational expertise, and customer commitment",
+    "link": "https://aws.amazon.com/blogs/aws-insights/vendor-insight-report-aws-recognized-for-ai-investment-operational-expertise-and-customer-commitment/",
+    "category": "AWS Insight"
+  },
+  {
+    "title": "Building resilience: Inside AWS’s nine million kilometers of fiber-optic cabling",
+    "link": "https://aws.amazon.com/blogs/aws-insights/building-resilience-inside-awss-nine-million-kilometers-of-fiber-optic-cabling/",
+    "category": "AWS Insight"
+  },
+  {
+    "title": "The rise of autonomous agents: What enterprise leaders need to know about the next wave of AI",
+    "link": "https://aws.amazon.com/blogs/aws-insights/the-rise-of-autonomous-agents-what-enterprise-leaders-need-to-know-about-the-next-wave-of-ai/",
+    "category": "AWS Insight"
+  },
+  {
+    "title": "Why model choice matters: Flexible AI unlocks freedom to innovate",
+    "link": "https://aws.amazon.com/blogs/aws-insights/why-model-choice-matters-flexible-ai-unlocks-freedom-to-innovate/",
+    "category": "AWS Insight"
+  },
+  {
+    "title": "2025 AWS Summit London: Top 5 recommended sessions for business leaders",
+    "link": "https://aws.amazon.com/blogs/aws-insights/2025-aws-summit-london-top-5-recommended-sessions-for-business-leaders/",
+    "category": "AWS Insight"
+  },
+  {
+    "title": "AWS Documentation update — progress, challenges, and what’s next for 2025",
+    "link": "https://aws.amazon.com/blogs/aws-insights/aws-documentation-update-progress-challenges-and-whats-next-for-2025/",
+    "category": "AWS Insight"
+  },
+  {
+    "title": "BrainBox AI makes buildings greener and smarter with AWS Generative AI",
+    "link": "https://aws.amazon.com/blogs/aws-insights/brainbox-ai-makes-buildings-greener-and-smarter-with-aws-generative-ai/",
+    "category": "AWS Insight"
+  },
+  {
+    "title": "NinjaTech AI is powering the next generation of productivity agents with AWS",
+    "link": "https://aws.amazon.com/blogs/aws-insights/ninjatech-ai-is-powering-the-next-generation-of-productivity-agents-with-aws/",
+    "category": "AWS Insight"
+  },
+  {
+    "title": "Let us manage your relational database!",
+    "link": "https://aws.amazon.com/blogs/aws-insights/let-us-manage-your-relational-database/",
+    "category": "AWS Insight"
+  },
+  {
+    "title": "Moving from on premises to the cloud with AWS delivers significant cost savings, report finds",
+    "link": "https://aws.amazon.com/blogs/aws-insights/moving-from-on-premises-to-the-cloud-with-aws-delivers-significant-cost-savings-report-finds/",
+    "category": "AWS Insight"
+  },
+  {
+    "title": "Five things to consider when choosing your cloud provider",
+    "link": "https://aws.amazon.com/blogs/aws-insights/five-things-to-consider-when-choosing-your-cloud-provider/",
+    "category": "AWS Insight"
+  },
+  {
+    "title": "Two billion downloads of Terraform AWS Provider shows value of IaC for infrastructure management",
+    "link": "https://aws.amazon.com/blogs/aws-insights/two-billion-downloads-of-the-terraform-aws-provider-shows-value-of-iac-for-infrastructure-management/",
+    "category": "AWS Insight"
+  },
+  {
+    "title": "Why purpose-built artificial intelligence chips may be key to your generative AI strategy",
+    "link": "https://aws.amazon.com/blogs/aws-insights/why-purpose-built-artificial-intelligence-chips-may-be-key-to-your-generative-ai-strategy/",
+    "category": "AWS Insight"
+  }
+]

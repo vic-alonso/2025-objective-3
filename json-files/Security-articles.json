@@ -1,1 +1,252 @@
-[]
+[
+  {
+    "title": "Explore scaling options for AWS Directory Service for Microsoft Active Directory",
+    "link": "https://aws.amazon.com/blogs/security/explore-scaling-options-for-aws-directory-service-for-microsoft-active-directory/",
+    "category": "Security"
+  },
+  {
+    "title": "How to get started with security response automation on AWS",
+    "link": "https://aws.amazon.com/blogs/security/how-get-started-security-response-automation-aws/",
+    "category": "Security"
+  },
+  {
+    "title": "File integrity monitoring with AWS Systems Manager and Amazon Security Lake",
+    "link": "https://aws.amazon.com/blogs/security/file-integrity-monitoring-with-aws-systems-manager-and-amazon-security-lake/",
+    "category": "Security"
+  },
+  {
+    "title": "IAM Identity Center now supports IPv6",
+    "link": "https://aws.amazon.com/blogs/security/iam-identity-center-now-supports-ipv6/",
+    "category": "Security"
+  },
+  {
+    "title": "Updated PCI PIN compliance package for AWS CloudHSM now available",
+    "link": "https://aws.amazon.com/blogs/security/updated-pci-pin-compliance-package-for-aws-cloudhsm-now-available/",
+    "category": "Security"
+  },
+  {
+    "title": "Updated PCI PIN compliance package for AWS Payment Cryptography now available",
+    "link": "https://aws.amazon.com/blogs/security/updated-pci-pin-compliance-package-for-aws-payment-cryptography-now-available/",
+    "category": "Security"
+  },
+  {
+    "title": "AWS achieves 2025 C5 Type 2 attestation report with 183 services in scope",
+    "link": "https://aws.amazon.com/blogs/security/aws-achieves-2025-c5-type-2-attestation-report-with-183-services-in-scope/",
+    "category": "Security"
+  },
+  {
+    "title": "AWS renews the GSMA SAS-SM certification for two AWS Regions and expands to cover four new Regions",
+    "link": "https://aws.amazon.com/blogs/security/aws-renews-the-gsma-sas-sm-certification-for-two-aws-regions-and-expands-to-cover-four-new-regions/",
+    "category": "Security"
+  },
+  {
+    "title": "Exploring common centralized and decentralized approaches to secrets management",
+    "link": "https://aws.amazon.com/blogs/security/exploring-common-centralized-and-decentralized-approaches-to-secrets-management/",
+    "category": "Security"
+  },
+  {
+    "title": "Fall 2025 SOC 1, 2, and 3 reports are now available with 185 services in scope",
+    "link": "https://aws.amazon.com/blogs/security/fall-2025-soc-1-2-and-3-reports-are-now-available-with-185-services-in-scope/",
+    "category": "Security"
+  },
+  {
+    "title": "Implementing data governance on AWS: Automation, tagging, and lifecycle strategy – Part 2",
+    "link": "https://aws.amazon.com/blogs/security/implementing-data-governance-on-aws-automation-tagging-and-lifecycle-strategy-part-2/",
+    "category": "Security"
+  },
+  {
+    "title": "Implementing data governance on AWS: Automation, tagging, and lifecycle strategy – Part 1",
+    "link": "https://aws.amazon.com/blogs/security/implementing-data-governance-on-aws-automation-tagging-and-lifecycle-strategy-part-1/",
+    "category": "Security"
+  },
+  {
+    "title": "Streamline security response at scale with AWS Security Hub automation",
+    "link": "https://aws.amazon.com/blogs/security/streamline-security-response-at-scale-with-aws-security-hub-automation/",
+    "category": "Security"
+  },
+  {
+    "title": "Fall 2025 PCI DSS compliance package available now",
+    "link": "https://aws.amazon.com/blogs/security/fall-2025-pci-dss-compliance-package-available-now/",
+    "category": "Security"
+  },
+  {
+    "title": "AWS named Leader in the 2025 ISG report for Sovereign Cloud Infrastructure Services (EU)",
+    "link": "https://aws.amazon.com/blogs/security/aws-named-leader-in-the-2025-isg-report-for-sovereign-cloud-infrastructure-services-eu/",
+    "category": "Security"
+  },
+  {
+    "title": "Real-time malware defense: Leveraging AWS Network Firewall active threat defense",
+    "link": "https://aws.amazon.com/blogs/security/real-time-malware-defense-leveraging-aws-network-firewall-active-threat-defense/",
+    "category": "Security"
+  },
+  {
+    "title": "Security Hub CSPM automation rule migration to Security Hub",
+    "link": "https://aws.amazon.com/blogs/security/security-hub-cspm-automation-rule-migration-to-security-hub/",
+    "category": "Security"
+  },
+  {
+    "title": "GuardDuty Extended Threat Detection uncovers cryptomining campaign on Amazon EC2 and Amazon ECS",
+    "link": "https://aws.amazon.com/blogs/security/cryptomining-campaign-targeting-amazon-ec2-and-amazon-ecs/",
+    "category": "Security"
+  },
+  {
+    "title": "What AWS Security learned from responding to recent npm supply chain threat campaigns",
+    "link": "https://aws.amazon.com/blogs/security/what-aws-security-learned-from-responding-to-recent-npm-supply-chain-threat-campaigns/",
+    "category": "Security"
+  },
+  {
+    "title": "Amazon Threat Intelligence identifies Russian cyber threat group targeting Western critical infrastructure",
+    "link": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-russian-cyber-threat-group-targeting-western-critical-infrastructure/",
+    "category": "Security"
+  },
+  {
+    "title": "Implementing HTTP Strict Transport Security (HSTS) across AWS services",
+    "link": "https://aws.amazon.com/blogs/security/implementing-http-strict-transport-security-hsts-across-aws-services/",
+    "category": "Security"
+  },
+  {
+    "title": "Meet digital sovereignty needs with AWS Dedicated Local Zones expanded services",
+    "link": "https://aws.amazon.com/blogs/security/meet-digital-sovereignty-needs-with-aws-dedicated-local-zones-expanded-services/",
+    "category": "Security"
+  },
+  {
+    "title": "Exploring the new AWS European Sovereign Cloud: Sovereign Reference Framework",
+    "link": "https://aws.amazon.com/blogs/security/exploring-the-new-aws-european-sovereign-cloud-sovereign-reference-framework/",
+    "category": "Security"
+  },
+  {
+    "title": "Embracing our broad responsibility for securing digital infrastructure in the European Union",
+    "link": "https://aws.amazon.com/blogs/security/embracing-our-broad-responsibility-for-securing-digital-infrastructure-in-the-european-union/",
+    "category": "Security"
+  },
+  {
+    "title": "How to customize your response to layer 7 DDoS attacks using AWS WAF Anti-DDoS AMR",
+    "link": "https://aws.amazon.com/blogs/security/how-to-customize-your-response-to-layer-7-ddos-attacks-using-aws-waf-anti-ddos-amr/",
+    "category": "Security"
+  },
+  {
+    "title": "IAM Policy Autopilot: An open-source tool that brings IAM policy expertise to builders and AI coding assistants",
+    "link": "https://aws.amazon.com/blogs/security/iam-policy-autopilot-an-open-source-tool-that-brings-iam-policy-expertise-to-builders-and-ai-coding-assistants/",
+    "category": "Security"
+  },
+  {
+    "title": "AWS launches AI-enhanced security innovations at re:Invent 2025",
+    "link": "https://aws.amazon.com/blogs/security/aws-launches-ai-enhanced-security-innovations-at-reinvent-2025/",
+    "category": "Security"
+  },
+  {
+    "title": "China-nexus cyber threat groups rapidly exploit React2Shell vulnerability (CVE-2025-55182)",
+    "link": "https://aws.amazon.com/blogs/security/china-nexus-cyber-threat-groups-rapidly-exploit-react2shell-vulnerability-cve-2025-55182/",
+    "category": "Security"
+  },
+  {
+    "title": "AWS Private Certificate Authority now supports partitioned CRLs",
+    "link": "https://aws.amazon.com/blogs/security/aws-private-certificate-authority-now-supports-partitioned-crls/",
+    "category": "Security"
+  },
+  {
+    "title": "How to use the Secrets Store CSI Driver provider Amazon EKS add-on with Secrets Manager",
+    "link": "https://aws.amazon.com/blogs/security/how-to-use-the-secrets-store-csi-driver-provider-amazon-eks-add-on-with-secrets-manager/",
+    "category": "Security"
+  },
+  {
+    "title": "AWS Secrets Manager launches Managed External Secrets for Third-Party Credentials",
+    "link": "https://aws.amazon.com/blogs/security/aws-secrets-manager-launches-managed-external-secrets-for-third-party-credentials/",
+    "category": "Security"
+  },
+  {
+    "title": "Introducing guidelines for network scanning",
+    "link": "https://aws.amazon.com/blogs/security/introducing-guidelines-for-network-scanning/",
+    "category": "Security"
+  },
+  {
+    "title": "Practical steps to minimize key exposure using AWS Security Services",
+    "link": "https://aws.amazon.com/blogs/security/practical-steps-to-minimize-key-exposure-using-aws-security-services/",
+    "category": "Security"
+  },
+  {
+    "title": "Accelerate investigations with AWS Security Incident Response AI-powered capabilities",
+    "link": "https://aws.amazon.com/blogs/security/accelerate-investigations-with-aws-security-incident-response-ai-powered-capabilities/",
+    "category": "Security"
+  },
+  {
+    "title": "The Agentic AI Security Scoping Matrix: A framework for securing autonomous AI systems",
+    "link": "https://aws.amazon.com/blogs/security/the-agentic-ai-security-scoping-matrix-a-framework-for-securing-autonomous-ai-systems/",
+    "category": "Security"
+  },
+  {
+    "title": "Introducing the Landing Zone Accelerator on AWS Universal Configuration and LZA Compliance Workbook",
+    "link": "https://aws.amazon.com/blogs/security/introducing-the-landing-zone-accelerator-on-aws-universal-configuration-and-lza-compliance-workbook/",
+    "category": "Security"
+  },
+  {
+    "title": "Transfer data across AWS partitions with IAM Roles Anywhere",
+    "link": "https://aws.amazon.com/blogs/security/transfer-data-across-aws-partitions-with-iam-roles-anywhere/",
+    "category": "Security"
+  },
+  {
+    "title": "How to update CRLs without public access using AWS Private CA",
+    "link": "https://aws.amazon.com/blogs/security/how-to-update-crls-without-public-access-using-aws-private-ca/",
+    "category": "Security"
+  },
+  {
+    "title": "Simplified developer access to AWS with ‘aws login’",
+    "link": "https://aws.amazon.com/blogs/security/simplified-developer-access-to-aws-with-aws-login/",
+    "category": "Security"
+  },
+  {
+    "title": "AWS designated as a critical third-party provider under EU’s DORA regulation",
+    "link": "https://aws.amazon.com/blogs/security/aws-designated-as-a-critical-third-party-provider-under-eus-dora-regulation/",
+    "category": "Security"
+  },
+  {
+    "title": "Simplify cloud security with managed rules from AWS Marketplace for AWS Network Firewall",
+    "link": "https://aws.amazon.com/blogs/security/simplify-cloud-security-with-managed-rules-from-aws-marketplace-for-aws-network-firewall/",
+    "category": "Security"
+  },
+  {
+    "title": "New Amazon Threat Intelligence findings: Nation-state actors bridging cyber and kinetic warfare",
+    "link": "https://aws.amazon.com/blogs/security/new-amazon-threat-intelligence-findings-nation-state-actors-bridging-cyber-and-kinetic-warfare/",
+    "category": "Security"
+  },
+  {
+    "title": "Analyze AWS Network Firewall logs using Amazon OpenSearch dashboard",
+    "link": "https://aws.amazon.com/blogs/security/analyze-aws-network-firewall-logs-using-amazon-opensearch-dashboard/",
+    "category": "Security"
+  },
+  {
+    "title": "How to automate Session Manager preferences across your organization",
+    "link": "https://aws.amazon.com/blogs/security/how-to-automate-session-manager-preferences-across-your-organization/",
+    "category": "Security"
+  },
+  {
+    "title": "Post-quantum (ML-DSA) code signing with AWS Private CA and AWS KMS",
+    "link": "https://aws.amazon.com/blogs/security/post-quantum-ml-dsa-code-signing-with-aws-private-ca-and-aws-kms/",
+    "category": "Security"
+  },
+  {
+    "title": "AWS re:Invent 2025: Your guide to security sessions across four transformative themes",
+    "link": "https://aws.amazon.com/blogs/security/aws-reinvent-2025-your-guide-to-security-sessions-across-four-transformative-themes/",
+    "category": "Security"
+  },
+  {
+    "title": "Amazon Inspector detects over 150,000 malicious packages linked to token farming campaign",
+    "link": "https://aws.amazon.com/blogs/security/amazon-inspector-detects-over-150000-malicious-packages-linked-to-token-farming-campaign/",
+    "category": "Security"
+  },
+  {
+    "title": "Amazon Elastic Kubernetes Service gets independent affirmation of its zero operator access design",
+    "link": "https://aws.amazon.com/blogs/security/amazon-elastic-kubernetes-service-gets-independent-affirmation-of-its-zero-operator-access-design/",
+    "category": "Security"
+  },
+  {
+    "title": "Amazon discovers APT exploiting Cisco and Citrix zero-days",
+    "link": "https://aws.amazon.com/blogs/security/amazon-discovers-apt-exploiting-cisco-and-citrix-zero-days/",
+    "category": "Security"
+  },
+  {
+    "title": "2025 H1 IRAP report is now available on AWS Artifact for Australian customers",
+    "link": "https://aws.amazon.com/blogs/security/2025-h1-irap-report-is-now-available-on-aws-artifact-for-australian-customers/",
+    "category": "Security"
+  }
+]

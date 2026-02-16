@@ -1,1 +1,252 @@
-[]
+[
+  {
+    "title": "Building Personalized Web3 Experiences with ❜embed’s AI Recommendation Platform on AWS",
+    "link": "https://aws.amazon.com/blogs/web3/building-personalized-web3-experiences-with-%E2%9D%9Cembeds-ai-recommendation-platform-on-aws/",
+    "category": "Web3"
+  },
+  {
+    "title": "Building a blockchain indexer on AWS",
+    "link": "https://aws.amazon.com/blogs/web3/building-a-blockchain-indexer-on-aws/",
+    "category": "Web3"
+  },
+  {
+    "title": "Migrate centralized crypto exchange workloads to AWS – Part 2",
+    "link": "https://aws.amazon.com/blogs/web3/migrate-centralized-crypto-exchange-workloads-to-aws-part-2/",
+    "category": "Web3"
+  },
+  {
+    "title": "Migrate centralized crypto exchange workloads to AWS – Part 1",
+    "link": "https://aws.amazon.com/blogs/web3/migrate-centralized-crypto-exchange-workloads-to-aws-part-1/",
+    "category": "Web3"
+  },
+  {
+    "title": "EKS marks the spot: scaling Circle’s blockchain nodes with a modern Kubernetes stack",
+    "link": "https://aws.amazon.com/blogs/web3/eks-marks-the-spot-scaling-circles-blockchain-nodes-with-a-modern-kubernetes-stack/",
+    "category": "Web3"
+  },
+  {
+    "title": "Verify enclave counterparties with reproducible builds and cryptographic attestation using AWS Nitro Enclaves",
+    "link": "https://aws.amazon.com/blogs/web3/verify-enclave-counterparties-with-reproducible-builds-and-cryptographic-attestation-using-aws-nitro-enclaves/",
+    "category": "Web3"
+  },
+  {
+    "title": "Processing digital asset payments on AWS",
+    "link": "https://aws.amazon.com/blogs/web3/processing-digital-asset-payments-on-aws/",
+    "category": "Web3"
+  },
+  {
+    "title": "Improve Solana node performance and reduce costs on AWS",
+    "link": "https://aws.amazon.com/blogs/web3/improve-solana-node-performance-and-reduce-costs-on-aws/",
+    "category": "Web3"
+  },
+  {
+    "title": "Accelerate Ethereum synchronization time with storage-optimized Amazon EC2 instances",
+    "link": "https://aws.amazon.com/blogs/web3/accelerate-ethereum-synchronization-time-with-storage-optimized-amazon-ec2-instances/",
+    "category": "Web3"
+  },
+  {
+    "title": "Powering programmable crypto wallets at Coinbase with AWS Nitro Enclaves",
+    "link": "https://aws.amazon.com/blogs/web3/powering-programmable-crypto-wallets-at-coinbase-with-aws-nitro-enclaves/",
+    "category": "Web3"
+  },
+  {
+    "title": "Establishing verifiable security: Reproducible builds and AWS Nitro Enclaves",
+    "link": "https://aws.amazon.com/blogs/web3/establishing-verifiable-security-reproducible-builds-and-aws-nitro-enclaves/",
+    "category": "Web3"
+  },
+  {
+    "title": "Optimize tick-to-trade latency for digital assets exchanges and trading platforms on AWS",
+    "link": "https://aws.amazon.com/blogs/web3/optimize-tick-to-trade-latency-for-digital-assets-exchanges-and-trading-platforms-on-aws/",
+    "category": "Web3"
+  },
+  {
+    "title": "Implement a USDC bridge on AWS",
+    "link": "https://aws.amazon.com/blogs/web3/implement-a-usdc-bridge-on-aws/",
+    "category": "Web3"
+  },
+  {
+    "title": "How Derive scaled their low-latency, decentralized trading platform using AWS Graviton, Amazon EKS, and Amazon Aurora",
+    "link": "https://aws.amazon.com/blogs/web3/how-derive-scaled-their-low-latency-decentralized-trading-platform-using-aws-graviton-amazon-eks-and-amazon-aurora/",
+    "category": "Web3"
+  },
+  {
+    "title": "Build a real-world asset tokenization solution on AWS with Fireblocks",
+    "link": "https://aws.amazon.com/blogs/web3/build-a-real-world-asset-tokenization-solution-on-aws-with-fireblocks/",
+    "category": "Web3"
+  },
+  {
+    "title": "Build crypto AI agents on Amazon Bedrock",
+    "link": "https://aws.amazon.com/blogs/web3/build-crypto-ai-agents-on-amazon-bedrock/",
+    "category": "Web3"
+  },
+  {
+    "title": "Use a DAO to govern LLM training data, Part 4: MetaMask authentication",
+    "link": "https://aws.amazon.com/blogs/web3/use-a-dao-to-govern-llm-training-data-part-4-metamask-authentication/",
+    "category": "Web3"
+  },
+  {
+    "title": "Use a DAO to govern LLM training data, Part 3: From IPFS to the knowledge base",
+    "link": "https://aws.amazon.com/blogs/web3/use-a-dao-to-govern-llm-training-data-part-3-from-ipfs-to-the-knowledge-base/",
+    "category": "Web3"
+  },
+  {
+    "title": "Use a DAO to govern LLM training data, Part 2: The smart contract",
+    "link": "https://aws.amazon.com/blogs/web3/use-a-dao-to-govern-llm-training-data-part-2-the-smart-contract/",
+    "category": "Web3"
+  },
+  {
+    "title": "Use a DAO to govern LLM training data, Part 1: Retrieval Augmented Generation",
+    "link": "https://aws.amazon.com/blogs/web3/use-a-dao-to-govern-llm-training-data-part-1-retrieval-augmented-generation/",
+    "category": "Web3"
+  },
+  {
+    "title": "An introduction to real estate tokenization on AWS",
+    "link": "https://aws.amazon.com/blogs/web3/an-introduction-to-real-estate-tokenization-on-aws/",
+    "category": "Web3"
+  },
+  {
+    "title": "How to deploy Stacks blockchain nodes on AWS with the AWS Blockchain Node Runners Stacks blueprint",
+    "link": "https://aws.amazon.com/blogs/web3/how-to-deploy-stacks-blockchain-nodes-on-aws-with-the-aws-blockchain-node-runners-stacks-blueprint/",
+    "category": "Web3"
+  },
+  {
+    "title": "Analyze blockchain data with natural language using Amazon Bedrock",
+    "link": "https://aws.amazon.com/blogs/web3/analyze-blockchain-data-with-natural-language-using-amazon-bedrock/",
+    "category": "Web3"
+  },
+  {
+    "title": "Run an Ethereum staking service on Amazon EKS",
+    "link": "https://aws.amazon.com/blogs/web3/run-an-ethereum-staking-service-on-amazon-eks/",
+    "category": "Web3"
+  },
+  {
+    "title": "Build secure multi-party computation (MPC) wallets using AWS Nitro Enclaves",
+    "link": "https://aws.amazon.com/blogs/web3/build-secure-multi-party-computation-mpc-wallets-using-aws-nitro-enclaves/",
+    "category": "Web3"
+  },
+  {
+    "title": "How Agnostic Engineering improved storage latency for running Polygon nodes on AWS",
+    "link": "https://aws.amazon.com/blogs/web3/how-agnostic-engineering-improved-storage-latency-for-running-polygon-nodes-on-aws/",
+    "category": "Web3"
+  },
+  {
+    "title": "Build with blockchain data using Amazon Managed Blockchain and ZettaBlock",
+    "link": "https://aws.amazon.com/blogs/web3/build-with-blockchain-data-using-amazon-managed-blockchain-and-zettablock/",
+    "category": "Web3"
+  },
+  {
+    "title": "List unspent transaction outputs by address on Bitcoin with Amazon Managed Blockchain Query",
+    "link": "https://aws.amazon.com/blogs/web3/list-unspent-transaction-outputs-by-address-on-bitcoin-with-amazon-managed-blockchain-query/",
+    "category": "Web3"
+  },
+  {
+    "title": "Blockchain node deployment on AWS: A comprehensive guide",
+    "link": "https://aws.amazon.com/blogs/web3/blockchain-node-deployment-on-aws-a-comprehensive-guide/",
+    "category": "Web3"
+  },
+  {
+    "title": "How to build a crypto wallet application using Amazon Managed Blockchain Access and Query",
+    "link": "https://aws.amazon.com/blogs/web3/how-to-build-a-crypto-wallet-application-using-amazon-managed-blockchain-access-and-query/",
+    "category": "Web3"
+  },
+  {
+    "title": "Run Polygon nodes on AWS",
+    "link": "https://aws.amazon.com/blogs/web3/run-polygon-nodes-on-aws/",
+    "category": "Web3"
+  },
+  {
+    "title": "Run a WAX Blockchain node using AWS CDK",
+    "link": "https://aws.amazon.com/blogs/web3/run-a-wax-blockchain-node-using-aws-cdk/",
+    "category": "Web3"
+  },
+  {
+    "title": "Run a serverless Arbitrum full node on AWS",
+    "link": "https://aws.amazon.com/blogs/web3/run-a-serverless-arbitrum-full-node-on-aws/",
+    "category": "Web3"
+  },
+  {
+    "title": "Use AWS Nitro Enclaves to build Cubist CubeSigner, a secure and highly reliable key management platform for Ethereum validators and beyond",
+    "link": "https://aws.amazon.com/blogs/web3/use-aws-nitro-enclaves-to-build-cubist-cubesigner-a-secure-and-highly-reliable-key-management-platform-for-ethereum-validators-and-beyond/",
+    "category": "Web3"
+  },
+  {
+    "title": "Build Account Abstraction Wallets with Alchemy and AWS: Part 2",
+    "link": "https://aws.amazon.com/blogs/web3/build-account-abstraction-wallets-with-alchemy-and-aws-part-2/",
+    "category": "Web3"
+  },
+  {
+    "title": "How Blocksee built a Web3 CRM with blockchain data from Amazon Managed Blockchain Query",
+    "link": "https://aws.amazon.com/blogs/web3/how-blocksee-built-a-web3-crm-with-blockchain-data-from-amazon-managed-blockchain-query/",
+    "category": "Web3"
+  },
+  {
+    "title": "How Itaú Bank simplified cryptocurrency custody with Amazon Managed Blockchain Access and Query",
+    "link": "https://aws.amazon.com/blogs/web3/how-itau-bank-simplified-cryptocurrency-custody-with-amazon-managed-blockchain-access-and-query/",
+    "category": "Web3"
+  },
+  {
+    "title": "Make EOA private keys compatible with AWS KMS",
+    "link": "https://aws.amazon.com/blogs/web3/make-eoa-private-keys-compatible-with-aws-kms/",
+    "category": "Web3"
+  },
+  {
+    "title": "Query transaction finality information from public blockchains using Amazon Managed Blockchain Query",
+    "link": "https://aws.amazon.com/blogs/web3/query-transaction-finality-information-from-public-blockchains-using-amazon-managed-blockchain-query/",
+    "category": "Web3"
+  },
+  {
+    "title": "Run Solana nodes on AWS",
+    "link": "https://aws.amazon.com/blogs/web3/run-solana-nodes-on-aws/",
+    "category": "Web3"
+  },
+  {
+    "title": "Build Account Abstraction wallets with AWS and Alchemy",
+    "link": "https://aws.amazon.com/blogs/web3/build-account-abstraction-wallets-with-aws-and-alchemy/",
+    "category": "Web3"
+  },
+  {
+    "title": "Build on the Polygon network with Amazon Managed Blockchain Access",
+    "link": "https://aws.amazon.com/blogs/web3/build-on-the-polygon-network-with-amazon-managed-blockchain-access/",
+    "category": "Web3"
+  },
+  {
+    "title": "Build a web-based cryptocurrency wallet tracker with Amazon Managed Blockchain Access and Query",
+    "link": "https://aws.amazon.com/blogs/web3/build-a-web-based-cryptocurrency-wallet-tracker-with-amazon-managed-blockchain-access-and-query/",
+    "category": "Web3"
+  },
+  {
+    "title": "The convergence of AI and digital assets: A new dawn for financial infrastructure",
+    "link": "https://aws.amazon.com/blogs/web3/the-convergence-of-ai-and-digital-assets-a-new-dawn-for-financial-infrastructure/",
+    "category": "Web3"
+  },
+  {
+    "title": "Visualize Ethereum ERC20 token data using Amazon Managed Blockchain Query and Amazon QuickSight",
+    "link": "https://aws.amazon.com/blogs/web3/visualize-ethereum-erc20-token-data-using-amazon-managed-blockchain-query-and-amazon-quicksight/",
+    "category": "Web3"
+  },
+  {
+    "title": "Import Ethereum private keys to AWS KMS",
+    "link": "https://aws.amazon.com/blogs/web3/import-ethereum-private-keys-to-aws-kms/",
+    "category": "Web3"
+  },
+  {
+    "title": "Run Ethereum nodes on AWS",
+    "link": "https://aws.amazon.com/blogs/web3/run-ethereum-nodes-on-aws/",
+    "category": "Web3"
+  },
+  {
+    "title": "The Future of Personal Digital Records: Unlocking Security and Efficiency through Blockchain and Smart Contracts",
+    "link": "https://aws.amazon.com/blogs/web3/the-future-of-personal-digital-records-unlocking-security-and-efficiency-through-blockchain-and-smart-contracts/",
+    "category": "Web3"
+  },
+  {
+    "title": "Gain insights from Web3 data with The Graph and Amazon Managed Blockchain",
+    "link": "https://aws.amazon.com/blogs/web3/gain-insights-from-web3-data-with-the-graph-and-amazon-managed-blockchain/",
+    "category": "Web3"
+  },
+  {
+    "title": "Implement a CI/CD pipeline for Ethereum smart contract development on AWS – Part 2",
+    "link": "https://aws.amazon.com/blogs/web3/implement-a-ci-cd-pipeline-for-ethereum-smart-contract-development-on-aws-part-2/",
+    "category": "Web3"
+  }
+]

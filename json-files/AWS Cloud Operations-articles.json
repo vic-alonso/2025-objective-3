@@ -1,1 +1,252 @@
-[]
+[
+  {
+    "title": "Innovation sandbox on AWS with real-time analytics dashboard",
+    "link": "https://aws.amazon.com/blogs/mt/innovation-sandbox-on-aws-with-real-time-analytics-dashboard/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "Investigating Service Issues with Amazon CloudWatch Application Signals Custom Metrics",
+    "link": "https://aws.amazon.com/blogs/mt/investigating-service-issues-with-amazon-cloudwatch-application-signals-custom-metrics/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "Cross-Region AWS PrivateLink monitoring with Amazon CloudWatch Network Synthetic Monitor",
+    "link": "https://aws.amazon.com/blogs/mt/cross-region-aws-privatelink-monitoring-with-amazon-cloudwatch-network-synthetic-monitor/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "Alerting Best Practices with Amazon Managed Service for Prometheus",
+    "link": "https://aws.amazon.com/blogs/mt/alerting-best-practices-with-amazon-managed-service-for-prometheus/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "Search and discover governance controls with Control Catalog in AWS Control Tower",
+    "link": "https://aws.amazon.com/blogs/mt/search-and-discover-governance-controls-with-control-catalog-in-aws-control-tower/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "Resolve application issues autonomously with AWS DevOps Agent (Preview) and Dynatrace",
+    "link": "https://aws.amazon.com/blogs/mt/resolve-application-issues-autonomously-with-aws-devops-agent-and-dynatrace/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "Troubleshoot AWS Tagging Compliance with AWS Resource Explorer",
+    "link": "https://aws.amazon.com/blogs/mt/troubleshoot-aws-tagging-compliance-with-aws-resource-explorer/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "Amazon CloudWatch RUM now supports mobile application monitoring",
+    "link": "https://aws.amazon.com/blogs/mt/amazon-cloudwatch-rum-supports-mobile-application-monitoring/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "Prometheus MCP Server: AI-Driven Monitoring Intelligence for AWS Users",
+    "link": "https://aws.amazon.com/blogs/mt/prometheus-mcp-server-ai-driven-monitoring-intelligence-for-aws-users/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "2025 Top 10 Announcements for AWS Cloud Operations",
+    "link": "https://aws.amazon.com/blogs/mt/2025-top-10-announcements-for-aws-cloud-operations/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "Announcing AWS CloudTrail Event Aggregation and Insights for Data Events",
+    "link": "https://aws.amazon.com/blogs/mt/announcing-aws-cloudtrail-event-aggregation-and-insights-for-data-events/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "Enforce consistent tagging across IaC deployments with AWS Organizations Tag Policies",
+    "link": "https://aws.amazon.com/blogs/mt/enforce-consistent-tagging-across-iac-deployments-with-aws-organizations-tag-policies/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "New AWS Organizations Skill Builder courses to level up your multi-account strategy",
+    "link": "https://aws.amazon.com/blogs/mt/new-aws-organizations-skill-builder-courses-to-level-up-your-multi-account-strategy/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "AWS X-Ray SDKs/Daemon migration to OpenTelemetry",
+    "link": "https://aws.amazon.com/blogs/mt/aws-x-ray-sdks-daemon-migration-to-opentelemetry/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "How Indeed scaled Governance across 1,000+ AWS accounts with AWS Trusted Advisor",
+    "link": "https://aws.amazon.com/blogs/mt/how-indeed-scaled-governance-across-1000-aws-accounts-with-aws-trusted-advisor/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "Improve the resiliency with AWS Fault Injection service and Amazon ARC Region switch",
+    "link": "https://aws.amazon.com/blogs/mt/improve-the-resiliency-with-aws-fault-injection-service-and-amazon-arc-region-switch/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "Handling sensitive log data using Amazon CloudWatch",
+    "link": "https://aws.amazon.com/blogs/mt/handling-sensitive-log-data-using-amazon-cloudwatch/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "AWS Resource Explorer launches immediate resource discovery within a Region",
+    "link": "https://aws.amazon.com/blogs/mt/aws-resource-explorer-launches-immediate-resource-discovery-within-a-region/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "Guide to AWS Cloud Resilience sessions at re:Invent 2025",
+    "link": "https://aws.amazon.com/blogs/mt/guide-to-aws-cloud-resilience-sessions-at-reinvent-2025/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "Encrypt AWS Control Tower notifications with customer-managed keys",
+    "link": "https://aws.amazon.com/blogs/mt/encrypt-aws-control-tower-sns-topics-with-customer-managed-keys/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "Building enterprise patching and inventory dashboards using Amazon Quick Suite",
+    "link": "https://aws.amazon.com/blogs/mt/building-enterprise-patching-and-inventory-dashboards-using-amazon-q-in-amazon-quicksuite/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "Salesforce Commerce Cloud migrates from Self-hosted Prometheus to Amazon Managed Service for Prometheus",
+    "link": "https://aws.amazon.com/blogs/mt/salesforce-commerce-cloud-migrates-from-self-hosted-prometheus-to-amazon-managed-service-for-prometheus/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "How Mendix optimizes sandbox governance, balancing control and productivity",
+    "link": "https://aws.amazon.com/blogs/mt/how-mendix-optimizes-sandbox-governance-balancing-control-and-productivity/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "Assess compliance and configuration of Kubernetes resources with AWS Config",
+    "link": "https://aws.amazon.com/blogs/mt/assess-compliance-and-configuration-of-kubernetes-resources-with-aws-config/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "Analyze logs usage with Amazon CloudWatch enhanced automatic dashboard",
+    "link": "https://aws.amazon.com/blogs/mt/analyze-logs-usage-with-amazon-cloudwatch-enhanced-automatic-dashboard/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "Amazon CloudWatch Application Signals new enhancements for application monitoring",
+    "link": "https://aws.amazon.com/blogs/mt/amazon-cloudwatch-application-signals-new-enhancements-for-application-monitoring/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "Your Essential Guide to Cloud Governance at AWS re:Invent 2025",
+    "link": "https://aws.amazon.com/blogs/mt/your-essential-guide-to-cloud-governance-at-aws-reinvent-2025/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "Embracing AI- driven operations and observability at re:Invent 2025",
+    "link": "https://aws.amazon.com/blogs/mt/embracing-ai-driven-operations-and-observability-at-reinvent-2025/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "Reimagine AIOps with Amazon CloudWatch Investigations and Amazon Nova Sonic",
+    "link": "https://aws.amazon.com/blogs/mt/reimagine-aiops-with-amazon-cloudwatch-investigations-and-amazon-nova-sonic/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "Building your operations management with AI-Powered Operations at re:Invent 2025",
+    "link": "https://aws.amazon.com/blogs/mt/building-your-operations-management-with-ai-powered-operations-at-reinvent-2025/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "Simplifying Log Management using Amazon CloudWatch Logs Centralization",
+    "link": "https://aws.amazon.com/blogs/mt/simplifying-log-management-using-amazon-cloudwatch-logs-centralization/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "Optimizing metrics ingestion with Amazon Managed Service for Prometheus",
+    "link": "https://aws.amazon.com/blogs/mt/optimizing-metrics-ingestion-with-amazon-managed-service-for-prometheus/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "AWS Organizations launches account state information for granular account lifecycle management",
+    "link": "https://aws.amazon.com/blogs/mt/updates-to-account-status-information-in-aws-organizations/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "AWS Systems Manager Run Command now supports interpolating parameters into environment variables",
+    "link": "https://aws.amazon.com/blogs/mt/aws-systems-manager-run-command-now-supports-interpolating-parameters-into-environment-variables/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "Advanced analytics using Amazon CloudWatch Logs Insights",
+    "link": "https://aws.amazon.com/blogs/mt/advanced-analytics-using-amazon-cloudwatch-logs-insights/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "Enhance your AIOps: Introducing Amazon CloudWatch and Application Signals MCP servers",
+    "link": "https://aws.amazon.com/blogs/mt/enhance-your-aiops-introducing-amazon-cloudwatch-and-application-signals-mcp-servers/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "Gain visibility of AWS backup activities using Amazon Managed Grafana",
+    "link": "https://aws.amazon.com/blogs/mt/gain-visibility-of-aws-backup-activities-using-amazon-managed-grafana/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "Best practices for analyzing AWS Config recording frequencies",
+    "link": "https://aws.amazon.com/blogs/mt/best-practices-for-analyzing-aws-config-recording-frequencies/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "Centralized Multi-Account Application Resilience Assessment Using AWS Resilience Hub",
+    "link": "https://aws.amazon.com/blogs/mt/centralized-multi-account-application-resilience-assessment-using-aws/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "Optimize querying AWS CloudTrail logs with partitioning in Amazon Athena",
+    "link": "https://aws.amazon.com/blogs/mt/optimize-querying-aws-cloudtrail-logs-with-partitioning-in-amazon-athena/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "Learn from AWS Fault Injection Service team’s approach to Game Days",
+    "link": "https://aws.amazon.com/blogs/mt/learn-from-aws-fault-injection-service-team-approach-to-game-days/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "Alarming on SLOs in Amazon Search with CloudWatch Application Signals – Part 2",
+    "link": "https://aws.amazon.com/blogs/mt/alarming-on-slos-in-amazon-search-with-cloudwatch-application-signals-part-2/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "Alarming on SLOs in Amazon Search with CloudWatch Application Signals – Part 1",
+    "link": "https://aws.amazon.com/blogs/mt/alarming-on-slos-in-amazon-search-with-cloudwatch-application-signals-part-1/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "Using Amazon Bedrock and Amazon Nova for AI-Powered Incident Response",
+    "link": "https://aws.amazon.com/blogs/mt/using-amazon-bedrock-and-amazon-nova-for-ai-powered-incident-response/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "Launching Amazon CloudWatch generative AI observability  (Preview)",
+    "link": "https://aws.amazon.com/blogs/mt/launching-amazon-cloudwatch-generative-ai-observability-preview/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "SAP on AWS – Streamlined Operations and Monitoring",
+    "link": "https://aws.amazon.com/blogs/mt/sap-on-aws-streamlined-operations-and-monitoring/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "Automate installing AWS Systems Manager agent on unmanaged Amazon EC2 nodes",
+    "link": "https://aws.amazon.com/blogs/mt/automate-installing-ssm-agent-on-unmanaged-ec2-instances-in-an-aws-organization/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "Simulating partial failures with AWS Fault Injection Service",
+    "link": "https://aws.amazon.com/blogs/mt/simulating-partial-failures-with-aws-fault-injection-service/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "Observing Agentic AI workloads using Amazon CloudWatch agent",
+    "link": "https://aws.amazon.com/blogs/mt/observing-agentic-ai-workloads-using-amazon-cloudwatch/",
+    "category": "AWS Cloud Operations"
+  },
+  {
+    "title": "Best practices for utilizing AWS Systems Manager with AWS Fault Injection Service",
+    "link": "https://aws.amazon.com/blogs/mt/best-practices-for-utilizing-aws-systems-manager-with-aws-fault-injection-service/",
+    "category": "AWS Cloud Operations"
+  }
+]

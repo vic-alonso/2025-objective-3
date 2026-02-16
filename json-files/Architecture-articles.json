@@ -1,1 +1,252 @@
-[]
+[
+  {
+    "title": "Sovereign failover – Design for digital sovereignty using the AWS European Sovereign Cloud",
+    "link": "https://aws.amazon.com/blogs/architecture/sovereign-failover-design-for-digital-sovereignty-using-the-aws-european-sovereign-cloud/",
+    "category": "Architecture"
+  },
+  {
+    "title": "Announcing the AWS Digital Sovereignty Well-Architected Lens",
+    "link": "https://aws.amazon.com/blogs/architecture/announcing-the-aws-digital-sovereignty-well-architected-lens/",
+    "category": "Architecture"
+  },
+  {
+    "title": "How Artera enhances prostate cancer diagnostics using AWS",
+    "link": "https://aws.amazon.com/blogs/architecture/how-artera-enhances-prostate-cancer-diagnostics-using-aws/",
+    "category": "Architecture"
+  },
+  {
+    "title": "How Salesforce migrated from Cluster Autoscaler to Karpenter across their fleet of 1,000 EKS clusters",
+    "link": "https://aws.amazon.com/blogs/architecture/how-salesforce-migrated-from-cluster-autoscaler-to-karpenter-across-their-fleet-of-1000-eks-clusters/",
+    "category": "Architecture"
+  },
+  {
+    "title": "Architecting conversational observability for cloud applications",
+    "link": "https://aws.amazon.com/blogs/architecture/architecting-conversational-observability-for-cloud-applications/",
+    "category": "Architecture"
+  },
+  {
+    "title": "How BASF’s Agriculture Solutions drives traceability and climate action by tokenizing cotton value chains using Amazon Managed Blockchain",
+    "link": "https://aws.amazon.com/blogs/architecture/how-basfs-agriculture-solutions-drives-traceability-and-climate-action-by-tokenizing-cotton-value-chains-using-amazon-managed-blockchain/",
+    "category": "Architecture"
+  },
+  {
+    "title": "She architects: Bringing unique perspectives to innovative solutions at AWS",
+    "link": "https://aws.amazon.com/blogs/architecture/she-architects-bringing-unique-perspectives-to-innovative-solutions-at-aws/",
+    "category": "Architecture"
+  },
+  {
+    "title": "Secure Amazon Elastic VMware Service (Amazon EVS) with AWS Network Firewall",
+    "link": "https://aws.amazon.com/blogs/architecture/secure-amazon-elastic-vmware-service-amazon-evs-with-aws-network-firewall/",
+    "category": "Architecture"
+  },
+  {
+    "title": "Building an AI gateway to Amazon Bedrock with Amazon API Gateway",
+    "link": "https://aws.amazon.com/blogs/architecture/building-an-ai-gateway-to-amazon-bedrock-with-amazon-api-gateway/",
+    "category": "Architecture"
+  },
+  {
+    "title": "Architecting for AI excellence: AWS launches three Well-Architected Lenses at re:Invent 2025",
+    "link": "https://aws.amazon.com/blogs/architecture/architecting-for-ai-excellence-aws-launches-three-well-architected-lenses-at-reinvent-2025/",
+    "category": "Architecture"
+  },
+  {
+    "title": "Announcing the updated AWS Well-Architected Generative AI Lens",
+    "link": "https://aws.amazon.com/blogs/architecture/announcing-the-updated-aws-well-architected-generative-ai-lens/",
+    "category": "Architecture"
+  },
+  {
+    "title": "Announcing the updated AWS Well-Architected Machine Learning Lens",
+    "link": "https://aws.amazon.com/blogs/architecture/announcing-the-updated-aws-well-architected-machine-learning-lens/",
+    "category": "Architecture"
+  },
+  {
+    "title": "Build priority-based message processing with Amazon MQ and AWS App Runner",
+    "link": "https://aws.amazon.com/blogs/architecture/build-priority-based-message-processing-with-amazon-mq-and-aws-app-runner/",
+    "category": "Architecture"
+  },
+  {
+    "title": "Know before you go – AWS re:Invent 2025 guide to Well-Architected and Cloud Optimization sessions",
+    "link": "https://aws.amazon.com/blogs/architecture/know-before-you-go-aws-reinvent-2025-guide-to-well-architected-and-cloud-optimization-sessions/",
+    "category": "Architecture"
+  },
+  {
+    "title": "BASF Digital Farming builds a STAC-based solution on Amazon EKS",
+    "link": "https://aws.amazon.com/blogs/architecture/basf-digital-farming-builds-a-stac-based-solution-on-amazon-eks/",
+    "category": "Architecture"
+  },
+  {
+    "title": "Modernization of real-time payment orchestration on AWS",
+    "link": "https://aws.amazon.com/blogs/architecture/modernization-of-real-time-payment-orchestration-on-aws/",
+    "category": "Architecture"
+  },
+  {
+    "title": "Build resilient generative AI agents",
+    "link": "https://aws.amazon.com/blogs/architecture/build-resilient-generative-ai-agents/",
+    "category": "Architecture"
+  },
+  {
+    "title": "A scalable, elastic database and search solution for 1B+ vectors built on LanceDB and Amazon S3",
+    "link": "https://aws.amazon.com/blogs/architecture/a-scalable-elastic-database-and-search-solution-for-1b-vectors-built-on-lancedb-and-amazon-s3/",
+    "category": "Architecture"
+  },
+  {
+    "title": "Simplify multi-tenant encryption with a cost-conscious AWS KMS key strategy",
+    "link": "https://aws.amazon.com/blogs/architecture/simplify-multi-tenant-encryption-with-a-cost-conscious-aws-kms-key-strategy/",
+    "category": "Architecture"
+  },
+  {
+    "title": "How CommBank made their CommSec trading platform highly available and operationally resilient",
+    "link": "https://aws.amazon.com/blogs/architecture/how-commbank-made-their-commsec-trading-platform-highly-available-and-operationally-resilient/",
+    "category": "Architecture"
+  },
+  {
+    "title": "How Karrot built a feature platform on AWS, Part 1: Motivation and feature serving",
+    "link": "https://aws.amazon.com/blogs/architecture/how-karrot-built-a-feature-platform-on-aws-part-1-motivation-and-feature-serving/",
+    "category": "Architecture"
+  },
+  {
+    "title": "How Karrot built a feature platform on AWS, Part 2: Feature ingestion",
+    "link": "https://aws.amazon.com/blogs/architecture/how-karrot-built-a-feature-platform-on-aws-part-2-feature-ingestion/",
+    "category": "Architecture"
+  },
+  {
+    "title": "Deploy LLMs on Amazon EKS using vLLM Deep Learning Containers",
+    "link": "https://aws.amazon.com/blogs/architecture/deploy-llms-on-amazon-eks-using-vllm-deep-learning-containers/",
+    "category": "Architecture"
+  },
+  {
+    "title": "Maximizing Business Value Through Strategic Cloud Optimization",
+    "link": "https://aws.amazon.com/blogs/architecture/maximizing-business-value-through-strategic-cloud-optimization/",
+    "category": "Architecture"
+  },
+  {
+    "title": "How Zapier runs isolated tasks on AWS Lambda and upgrades functions at scale",
+    "link": "https://aws.amazon.com/blogs/architecture/how-zapier-runs-isolated-tasks-on-aws-lambda-and-upgrades-functions-at-scale/",
+    "category": "Architecture"
+  },
+  {
+    "title": "How HashiCorp made cross-Region switchover seamless with Amazon Application Recovery Controller",
+    "link": "https://aws.amazon.com/blogs/architecture/how-hashicorp-made-cross-region-switchover-seamless-with-amazon-application-recovery-controller/",
+    "category": "Architecture"
+  },
+  {
+    "title": "Implement monitoring for Amazon EKS with managed services",
+    "link": "https://aws.amazon.com/blogs/architecture/implement-monitoring-for-amazon-eks-with-managed-services/",
+    "category": "Architecture"
+  },
+  {
+    "title": "How Scale to Win uses AWS WAF to block DDoS events",
+    "link": "https://aws.amazon.com/blogs/architecture/how-scale-to-win-uses-aws-waf-to-block-ddos-events/",
+    "category": "Architecture"
+  },
+  {
+    "title": "Migrate and modernize VMware workloads with AWS Transform for VMware",
+    "link": "https://aws.amazon.com/blogs/architecture/migrate-and-modernize-vmware-workloads-with-aws-transform-for-vmware/",
+    "category": "Architecture"
+  },
+  {
+    "title": "Simplifying sustainability reporting using AWS and generative AI in banking",
+    "link": "https://aws.amazon.com/blogs/architecture/simplifying-sustainability-reporting-using-aws-and-generative-ai-in-banking/",
+    "category": "Architecture"
+  },
+  {
+    "title": "Amazon Bedrock baseline architecture in an AWS landing zone",
+    "link": "https://aws.amazon.com/blogs/architecture/amazon-bedrock-baseline-architecture-in-an-aws-landing-zone/",
+    "category": "Architecture"
+  },
+  {
+    "title": "Build a multi-Region AWS PrivateLink backed service with seamless failover",
+    "link": "https://aws.amazon.com/blogs/architecture/build-a-multi-region-aws-privatelink-backed-service-with-seamless-failover/",
+    "category": "Architecture"
+  },
+  {
+    "title": "How Stellantis streamlines floating license management with serverless orchestration on AWS",
+    "link": "https://aws.amazon.com/blogs/architecture/how-stellantis-streamlines-floating-license-management-with-serverless-orchestration-on-aws/",
+    "category": "Architecture"
+  },
+  {
+    "title": "Analyze media content using AWS AI services",
+    "link": "https://aws.amazon.com/blogs/architecture/analyze-media-content-using-aws-ai-services/",
+    "category": "Architecture"
+  },
+  {
+    "title": "How Launchpad from Pega enables secure SaaS extensibility with AWS Lambda",
+    "link": "https://aws.amazon.com/blogs/architecture/how-launchpad-from-pega-enables-secure-saas-extensibility-with-aws-lambda/",
+    "category": "Architecture"
+  },
+  {
+    "title": "Improving platform resilience at Cash App",
+    "link": "https://aws.amazon.com/blogs/architecture/improving-platform-resilience-at-cash-app/",
+    "category": "Architecture"
+  },
+  {
+    "title": "Optimizing fleet operations using Amazon SageMaker AI and Amazon Bedrock",
+    "link": "https://aws.amazon.com/blogs/architecture/optimizing-fleet-operations-using-amazon-sagemaker-ai-and-amazon-bedrock/",
+    "category": "Architecture"
+  },
+  {
+    "title": "Transforming Maya’s API management with Amazon API Gateway",
+    "link": "https://aws.amazon.com/blogs/architecture/transforming-mayas-api-management-with-amazon-api-gateway/",
+    "category": "Architecture"
+  },
+  {
+    "title": "How Smartsheet boosts developer productivity with Amazon Bedrock and Roo Code",
+    "link": "https://aws.amazon.com/blogs/architecture/how-smartsheet-boosts-developer-productivity-with-amazon-bedrock-and-roo-code/",
+    "category": "Architecture"
+  },
+  {
+    "title": "Revolutionizing agricultural knowledge management using a multi-modal LLM: A reference architecture",
+    "link": "https://aws.amazon.com/blogs/architecture/revolutionizing-agricultural-knowledge-management-using-a-multi-modal-llm-a-reference-architecture/",
+    "category": "Architecture"
+  },
+  {
+    "title": "Implement event-driven invoice processing for resilient financial monitoring at scale",
+    "link": "https://aws.amazon.com/blogs/architecture/implement-event-driven-invoice-processing-for-resilient-financial-monitoring-at-scale/",
+    "category": "Architecture"
+  },
+  {
+    "title": "Empower your teams with modern architecture governance",
+    "link": "https://aws.amazon.com/blogs/architecture/empower-your-teams-with-modern-architecture-governance/",
+    "category": "Architecture"
+  },
+  {
+    "title": "How Smartsheet reduced latency and optimized costs in their serverless architecture",
+    "link": "https://aws.amazon.com/blogs/architecture/how-smartsheet-reduced-latency-and-optimized-costs-in-their-serverless-architecture/",
+    "category": "Architecture"
+  },
+  {
+    "title": "Announcing the AWS Well-Architected Generative AI Lens",
+    "link": "https://aws.amazon.com/blogs/architecture/announcing-the-aws-well-architected-generative-ai-lens/",
+    "category": "Architecture"
+  },
+  {
+    "title": "Build and operate an effective architecture review board",
+    "link": "https://aws.amazon.com/blogs/architecture/build-and-operate-an-effective-architecture-review-board/",
+    "category": "Architecture"
+  },
+  {
+    "title": "How UNiDAYS achieved AWS Region expansion in 3 weeks",
+    "link": "https://aws.amazon.com/blogs/architecture/how-unidays-achieved-aws-region-expansion-in-3-weeks/",
+    "category": "Architecture"
+  },
+  {
+    "title": "Announcing the Well-Architected Data Residency with Hybrid Cloud Services Lens",
+    "link": "https://aws.amazon.com/blogs/architecture/announcing-the-well-architected-data-residency-with-hybrid-cloud-services-lens/",
+    "category": "Architecture"
+  },
+  {
+    "title": "From virtual machine to Kubernetes to serverless: How dacadoo saved 78% on cloud costs and automated operations",
+    "link": "https://aws.amazon.com/blogs/architecture/from-virtual-machine-to-kubernetes-to-serverless-how-dacadoo-saved-78-on-cloud-costs-and-automated-operations/",
+    "category": "Architecture"
+  },
+  {
+    "title": "Master architecture decision records (ADRs): Best practices for effective decision-making",
+    "link": "https://aws.amazon.com/blogs/architecture/master-architecture-decision-records-adrs-best-practices-for-effective-decision-making/",
+    "category": "Architecture"
+  },
+  {
+    "title": "Pilot light with reserved capacity: How to optimize DR cost using On-Demand Capacity Reservations",
+    "link": "https://aws.amazon.com/blogs/architecture/pilot-light-with-reserved-capacity-how-to-optimize-dr-cost-using-on-demand-capacity-reservations/",
+    "category": "Architecture"
+  }
+]

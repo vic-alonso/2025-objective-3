@@ -1,1 +1,252 @@
-[]
+[
+  {
+    "title": "Democratizing climate data science: How Columbia University’s LEAP center built AutoClimDS on AWS",
+    "link": "https://aws.amazon.com/blogs/publicsector/democratizing-climate-data-science-how-columbia-universitys-leap-center-built-autoclimds-on-aws/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "AWS Marketplace: A catalyst for streamlining healthcare operations and improving administrative efficiency",
+    "link": "https://aws.amazon.com/blogs/publicsector/aws-marketplace-a-catalyst-for-streamlining-healthcare-operations-and-improving-administrative-efficiency/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "How Thales issues verifiable credentials at scale for governments using AWS managed services",
+    "link": "https://aws.amazon.com/blogs/publicsector/how-thales-issues-verifiable-credentials-at-scale-for-governments-using-aws-managed-services/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "Accessing commercial AI from AWS GovCloud (US) for your CJIS workloads",
+    "link": "https://aws.amazon.com/blogs/publicsector/accessing-commercial-ai-from-aws-govcloud-us-for-your-cjis-workloads/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "AWS social impact awards accelerate innovation at Columbia",
+    "link": "https://aws.amazon.com/blogs/publicsector/aws-social-impact-awards-accelerate-innovation-at-columbia/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "How the U.S. Department of the Treasury is using a human-centered approach to scale AI innovation",
+    "link": "https://aws.amazon.com/blogs/publicsector/how-the-u-s-department-of-the-treasury-is-using-a-human-centered-approach-to-scale-ai-innovation/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "Architecting secure AI sandboxes in AWS GovCloud (US)",
+    "link": "https://aws.amazon.com/blogs/publicsector/architecting-secure-ai-sandboxes-in-aws-govcloud-us/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "Why your AI agents give inconsistent results, and how Agent SOPs fix it",
+    "link": "https://aws.amazon.com/blogs/publicsector/why-your-ai-agents-give-inconsistent-results-and-how-agent-sops-fix-it/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "How Agriculture and Agri-Food Canada built a cloud-based coherence change detection solution with AWS",
+    "link": "https://aws.amazon.com/blogs/publicsector/how-agriculture-and-agri-food-canada-built-a-cloud-based-coherence-change-detection-solution-with-aws/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "From 911 to city hall: CentralSquare and AWS surpass 1,000 cloud deployments, modernizing public sector operations at scale",
+    "link": "https://aws.amazon.com/blogs/publicsector/from-911-to-city-hall-centralsquare-and-aws-surpass-1000-cloud-deployments-modernizing-public-sector-operations-at-scale/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "Bringing agentic AI into spreadsheets for planning tactical electrical power",
+    "link": "https://aws.amazon.com/blogs/publicsector/bringing-agentic-ai-into-spreadsheets-for-planning-tactical-electrical-power/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "Seesaw builds AI-powered reading assessment tool to support elementary literacy with AWS",
+    "link": "https://aws.amazon.com/blogs/publicsector/seesaw-builds-ai-powered-reading-assessment-tool-to-support-elementary-literacy-with-aws/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "How the City of Virginia Beach modernized its emergency and citizen services with Amazon Connect",
+    "link": "https://aws.amazon.com/blogs/publicsector/how-the-city-of-virginia-beach-modernized-its-emergency-and-citizen-services-with-amazon-connect/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "Building AI literacy by implementing Amazon PartyRock in educational settings",
+    "link": "https://aws.amazon.com/blogs/publicsector/building-ai-literacy-by-implementing-amazon-partyrock-in-educational-settings/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "Boise State University builds campus-wide AI platform on AWS and cuts per-user costs by 80%",
+    "link": "https://aws.amazon.com/blogs/publicsector/boise-state-university-builds-campus-wide-ai-platform-on-aws-and-cuts-per-user-costs-by-80/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "32 new or updated datasets available on the Registry of Open Data on AWS",
+    "link": "https://aws.amazon.com/blogs/publicsector/32-new-or-updated-datasets-available-on-the-registry-of-open-data-on-aws/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "How governments can deliver national data more securely and at scale",
+    "link": "https://aws.amazon.com/blogs/publicsector/how-governments-can-deliver-national-data-more-securely-and-at-scale/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "How MPAC accelerates IT support resolution using generative AI on AWS",
+    "link": "https://aws.amazon.com/blogs/publicsector/how-mpac-accelerates-it-support-resolution-using-generative-ai-on-aws/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "AWS: Powering America’s Genesis Mission from day one",
+    "link": "https://aws.amazon.com/blogs/publicsector/aws-powering-americas-genesis-mission-from-day-one/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "Modernize Moodle LMS with AWS serverless services",
+    "link": "https://aws.amazon.com/blogs/publicsector/modernize-moodle-lms-with-aws-serverless-services/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "Amplifying intelligence in ISR Data: Cloud-native streaming for FMV in an agentic AI era",
+    "link": "https://aws.amazon.com/blogs/publicsector/amplifying-intelligence-in-isr-data-cloud-native-streaming-for-fmv-in-an-agentic-ai-era/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "Coursera and AWS survey reveals how technology leaders navigate cloud and AI transformation",
+    "link": "https://aws.amazon.com/blogs/publicsector/coursera-and-aws-survey-reveals-how-technology-leaders-navigate-cloud-and-ai-transformation/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "AI that listens: Building educator-centered AI tools on AWS",
+    "link": "https://aws.amazon.com/blogs/publicsector/ai-that-listens-building-educator-centered-ai-tools-on-aws/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "How Pearson Clinical Assessments transform school mental health services with AWS",
+    "link": "https://aws.amazon.com/blogs/publicsector/how-pearson-clinical-assessments-transform-school-mental-health-services-with-aws/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "Transforming digital learning: How EDHEC Business School and Amanote AI are shaping the future of education",
+    "link": "https://aws.amazon.com/blogs/publicsector/transforming-digital-learning-how-edhec-business-school-and-amanote-ai-are-shaping-the-future-of-education/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "YMCA of Greater New York uses AWS to transform swim safety education and track life-saving skills",
+    "link": "https://aws.amazon.com/blogs/publicsector/ymca-of-greater-new-york-uses-aws-to-transform-swim-safety-education-and-track-life-saving-skills/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "Fast track your Cloud Center of Excellence in 5 steps: A guide for government agencies",
+    "link": "https://aws.amazon.com/blogs/publicsector/fast-track-your-cloud-center-of-excellence-in-5-steps-a-guide-for-government-agencies/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "Building national foundation models",
+    "link": "https://aws.amazon.com/blogs/publicsector/building-national-foundation-models/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "Bridging AI and biology: Inside the AWS and NVIDIA Open Data knowledge graph hackathon",
+    "link": "https://aws.amazon.com/blogs/publicsector/bridging-ai-and-biology-inside-the-aws-and-nvidia-open-data-knowledge-graph-hackathon/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "How Nanyang Polytechnic’s AI Tutor Assistant is reshaping asynchronous learning",
+    "link": "https://aws.amazon.com/blogs/publicsector/how-nanyang-polytechnics-ai-tutor-assistant-is-reshaping-asynchronous-learning/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "Building AI-powered weather forecasting tools with Open Data on AWS",
+    "link": "https://aws.amazon.com/blogs/publicsector/building-ai-powered-weather-forecasting-tools-with-open-data-on-aws/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "Transform DevOps practice with Kiro AI-powered agents",
+    "link": "https://aws.amazon.com/blogs/publicsector/transform-devops-practice-with-kiro-ai-powered-agents/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "Assurance for government digital services on AWS GovCloud with Cisco ThousandEyes for Government",
+    "link": "https://aws.amazon.com/blogs/publicsector/assurance-for-government-digital-services-on-aws-govcloud-with-cisco-thousandeyes-for-government/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "AWS Marketplace: A catalyst for federal procurement modernization",
+    "link": "https://aws.amazon.com/blogs/publicsector/aws-marketplace-a-catalyst-for-federal-procurement-modernization/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "Uniting AI and ancient wisdom: How WildTrack and AWS are revolutionizing wildlife monitoring",
+    "link": "https://aws.amazon.com/blogs/publicsector/uniting-ai-and-ancient-wisdom-how-wildtrack-and-aws-are-revolutionizing-wildlife-monitoring/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "From computer lab lines to global access: Boston Architectural College’s cloud transformation with Amazon AppStream 2.0",
+    "link": "https://aws.amazon.com/blogs/publicsector/from-computer-lab-lines-to-global-access-boston-architectural-colleges-cloud-transformation-with-amazon-appstream-2-0/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "Accelerate your Information Security Manual (ISM) compliance with AWS Managed Services (AMS)",
+    "link": "https://aws.amazon.com/blogs/publicsector/accelerate-your-information-security-manual-ism-compliance-with-aws-managed-services-ams/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "Empowering government document understanding with Amazon Nova Multimodal Embeddings",
+    "link": "https://aws.amazon.com/blogs/publicsector/empowering-government-document-understanding-with-amazon-nova-multimodal-embeddings/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "How Contra Costa County District Attorney’s Office modernized subpoena processing with AWS and CC Tech Digital",
+    "link": "https://aws.amazon.com/blogs/publicsector/how-contra-costa-county-district-attorneys-office-modernized-subpoena-processing-with-aws-and-cc-tech-digital/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "Build your Presidential AI Challenge project with PartyRock",
+    "link": "https://aws.amazon.com/blogs/publicsector/build-your-presidential-ai-challenge-project-with-partyrock/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "AI for impact: AWS awards Imagine Grants to pioneering nonprofits across three continents",
+    "link": "https://aws.amazon.com/blogs/publicsector/ai-for-impact-aws-awards-imagine-grants-to-pioneering-nonprofits-across-three-continents/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "New report: Cloud “fundamental” for European national security and defense",
+    "link": "https://aws.amazon.com/blogs/publicsector/new-report-cloud-fundamental-for-european-national-security-and-defense/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "Transforming classroom conversations: Cornell University’s AI-powered Socratic Chat on AWS",
+    "link": "https://aws.amazon.com/blogs/publicsector/transforming-classroom-conversations-cornell-universitys-ai-powered-socratic-chat-on-aws/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "How Singapore’s government used Amazon Connect to make its contact center more human",
+    "link": "https://aws.amazon.com/blogs/publicsector/how-singapores-government-used-amazon-connect-to-make-its-contact-center-more-human/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "How the University of Arizona’s KMap transforms research collaboration with AI-powered discovery on AWS",
+    "link": "https://aws.amazon.com/blogs/publicsector/how-the-university-of-arizonas-kmap-transforms-research-collaboration-with-ai-powered-discovery-on-aws/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "How the City of Tamarac transformed resident experience with Amazon Connect",
+    "link": "https://aws.amazon.com/blogs/publicsector/how-the-city-of-tamarac-transformed-resident-experience-with-amazon-connect/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "La Rioja transforms healthcare with PASCAL, a data space powered by AWS",
+    "link": "https://aws.amazon.com/blogs/publicsector/la-rioja-transforms-healthcare-with-pascal-a-data-space-powered-by-aws/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "Unlocking data, automation, and AI with Cloudwick’s Amorphic platform",
+    "link": "https://aws.amazon.com/blogs/publicsector/unlocking-data-automation-and-ai-with-cloudwicks-amorphic-platform/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "Better Angels supports wildfire recovery for 30,000 LA residents with AWS",
+    "link": "https://aws.amazon.com/blogs/publicsector/better-angels-supports-wildfire-recovery-for-30000-la-residents-with-aws/",
+    "category": "Public Sector"
+  },
+  {
+    "title": "How tax agencies are modernizing contact centers with Amazon Connect and generative AI",
+    "link": "https://aws.amazon.com/blogs/publicsector/how-tax-agencies-are-modernizing-contact-centers-with-amazon-connect-and-generative-ai/",
+    "category": "Public Sector"
+  }
+]

@@ -1,1 +1,252 @@
-[]
+[
+  {
+    "title": "How Allcargo migrated VDI workloads to Amazon FSx for NetApp ONTAP and FSx for Windows File Server using AWS DataSync",
+    "link": "https://aws.amazon.com/blogs/storage/how-allcargo-migrated-vdi-workload-to-amazon-fsx-using-aws-datasync/",
+    "category": "Storage"
+  },
+  {
+    "title": "Monitoring Amazon EFS KPIs using Amazon CloudWatch metrics",
+    "link": "https://aws.amazon.com/blogs/storage/monitoring-amazon-efs-kpis-using-aws-cloudwatch-metrics/",
+    "category": "Storage"
+  },
+  {
+    "title": "Applying Amazon S3 Object Lock at scale for petabytes of existing data",
+    "link": "https://aws.amazon.com/blogs/storage/applying-amazon-s3-object-lock-at-scale-for-petabytes-of-existing-data/",
+    "category": "Storage"
+  },
+  {
+    "title": "AWS Backup 2025 year in review: advancing recovery resilience",
+    "link": "https://aws.amazon.com/blogs/storage/aws-backup-2025-year-in-review-advancing-recovery-resilience/",
+    "category": "Storage"
+  },
+  {
+    "title": "Real-time fleet tracking using AWS IoT Core, Amazon S3 Tables, and Amazon Quick Sight",
+    "link": "https://aws.amazon.com/blogs/storage/real-time-fleet-tracking-using-aws-iot-core-amazon-s3-tables-and-amazon-quick-sight/",
+    "category": "Storage"
+  },
+  {
+    "title": "Improve resilience of low latency applications with Amazon EBS and AWS FIS",
+    "link": "https://aws.amazon.com/blogs/storage/improve-resilience-of-low-latency-applications-with-amazon-ebs-and-aws-fis/",
+    "category": "Storage"
+  },
+  {
+    "title": "Automated extraction of compressed files on Amazon S3 using AWS Batch and Amazon ECS",
+    "link": "https://aws.amazon.com/blogs/storage/automated-extraction-of-compressed-files-on-amazon-s3-using-aws-batch-and-amazon-ecs/",
+    "category": "Storage"
+  },
+  {
+    "title": "Getting started with self-managed Oracle in AWS using Amazon FSx for OpenZFS",
+    "link": "https://aws.amazon.com/blogs/storage/getting-started-with-self-managed-oracle-in-aws-using-amazon-fsx-for-openzfs/",
+    "category": "Storage"
+  },
+  {
+    "title": "Optimize WordPress performance on Amazon EKS with Amazon FSx for OpenZFS",
+    "link": "https://aws.amazon.com/blogs/storage/optimize-wordpress-performance-on-amazon-eks-with-amazon-fsx-for-openzfs/",
+    "category": "Storage"
+  },
+  {
+    "title": "Architecting high performance AI-driven data applications with Spice AI and AWS",
+    "link": "https://aws.amazon.com/blogs/storage/architecting-high-performance-ai-driven-data-applications-with-spice-ai-and-aws/",
+    "category": "Storage"
+  },
+  {
+    "title": "Building an open warehouse architecture: Supabase’s integration with Amazon S3 Tables",
+    "link": "https://aws.amazon.com/blogs/storage/building-an-open-warehouse-architecture-supabases-integration-with-amazon-s3-tables/",
+    "category": "Storage"
+  },
+  {
+    "title": "Lower your Amazon S3 backup costs with AWS Backup S3 tiering",
+    "link": "https://aws.amazon.com/blogs/storage/lower-your-amazon-s3-backup-cost-with-aws-backup-s3-tiering/",
+    "category": "Storage"
+  },
+  {
+    "title": "How TUI modernized their backup strategy with AWS: Driving clarity and scale",
+    "link": "https://aws.amazon.com/blogs/storage/how-tui-modernized-their-backup-strategy-with-aws-driving-clarity-and-scale/",
+    "category": "Storage"
+  },
+  {
+    "title": "PingCAP increased TiDB Cloud stability using Amazon EBS detailed performance statistics",
+    "link": "https://aws.amazon.com/blogs/storage/pingcap-increased-tidb-cloud-stability-using-amazon-ebs-detailed-performance-statistics/",
+    "category": "Storage"
+  },
+  {
+    "title": "Advanced notice: Amazon S3 to disable the use of SSE-C encryption by default for all new buckets and select existing buckets in April 2026",
+    "link": "https://aws.amazon.com/blogs/storage/advanced-notice-amazon-s3-to-disable-the-use-of-sse-c-encryption-by-default-for-all-new-buckets-and-select-existing-buckets-in-april-2026/",
+    "category": "Storage"
+  },
+  {
+    "title": "Using File Server Resource Manager (FSRM) on Amazon FSx for Windows File Server",
+    "link": "https://aws.amazon.com/blogs/storage/using-file-server-resource-manager-fsrm-for-amazon-fsx-for-windows-file-server/",
+    "category": "Storage"
+  },
+  {
+    "title": "Scan backups for malware with Amazon GuardDuty Malware Protection for AWS Backup",
+    "link": "https://aws.amazon.com/blogs/storage/scan-backups-for-malware-with-amazon-guardduty-malware-protection-for-aws-backup/",
+    "category": "Storage"
+  },
+  {
+    "title": "How to use Amazon S3 Multi-Region Access Points to streamline and reduce the cost of writing across AWS Regions",
+    "link": "https://aws.amazon.com/blogs/storage/how-to-use-amazon-s3-multi-region-access-points-to-streamline-and-reduce-the-cost-of-writing-across-aws-regions/",
+    "category": "Storage"
+  },
+  {
+    "title": "Automated cost-effective archiving and on-demand data restoration",
+    "link": "https://aws.amazon.com/blogs/storage/automated-cost-effective-archiving-and-on-demand-data-restoration/",
+    "category": "Storage"
+  },
+  {
+    "title": "Cost-optimized file storage with Amazon FSx for NetApp ONTAP and Komprise",
+    "link": "https://aws.amazon.com/blogs/storage/cost-optimized-file-storage-with-amazon-fsx-for-netapp-ontap-and-komprise/",
+    "category": "Storage"
+  },
+  {
+    "title": "Encrypt AWS Backup logically air-gapped vaults with customer-managed keys",
+    "link": "https://aws.amazon.com/blogs/storage/encrypt-aws-backup-logically-air-gapped-vaults-with-customer-managed-keys/",
+    "category": "Storage"
+  },
+  {
+    "title": "Build intelligent ETL pipelines using AWS Model Context Protocol and Amazon Q",
+    "link": "https://aws.amazon.com/blogs/storage/build-intelligent-etl-pipelines-using-aws-model-context-protocol-and-amazon-q/",
+    "category": "Storage"
+  },
+  {
+    "title": "Test and build application resilience using Amazon EBS latency injection",
+    "link": "https://aws.amazon.com/blogs/storage/test-and-build-application-resilience-using-amazon-ebs-latency-injection/",
+    "category": "Storage"
+  },
+  {
+    "title": "Optimizing recommendations and analytics using Amazon DynamoDB and Amazon S3",
+    "link": "https://aws.amazon.com/blogs/storage/using-amazon-dynamodb-and-amazon-s3-for-optimized-recommendations-and-analytics/",
+    "category": "Storage"
+  },
+  {
+    "title": "Cross-account Amazon S3 bulk transfers with enhanced AWS KMS support",
+    "link": "https://aws.amazon.com/blogs/storage/cross-account-amazon-s3-bulk-transfers-with-enhanced-aws-kms-support/",
+    "category": "Storage"
+  },
+  {
+    "title": "Derive intelligent storage insights using S3 Metadata and Model Context Protocol (MCP)",
+    "link": "https://aws.amazon.com/blogs/storage/using-conversational-ai-to-derive-insights-from-your-data-using-amazon-s3-metadata/",
+    "category": "Storage"
+  },
+  {
+    "title": "Accelerating Amazon S3 Batch Operations at scale with on-demand manifest generation",
+    "link": "https://aws.amazon.com/blogs/storage/accelerating-amazon-s3-batch-operations-at-scale-with-on-demand-manifest-generation/",
+    "category": "Storage"
+  },
+  {
+    "title": "Improve Kubernetes pod scheduling accuracy using Amazon EBS",
+    "link": "https://aws.amazon.com/blogs/storage/improve-kubernetes-pod-scheduling-accuracy-using-amazon-ebs/",
+    "category": "Storage"
+  },
+  {
+    "title": "Building self-managed RAG applications with Amazon EKS and Amazon S3 Vectors",
+    "link": "https://aws.amazon.com/blogs/storage/building-self-managed-rag-applications-with-amazon-eks-and-amazon-s3-vectors/",
+    "category": "Storage"
+  },
+  {
+    "title": "Enhance your SMB file transfer security with Kerberos and AWS DataSync",
+    "link": "https://aws.amazon.com/blogs/storage/enhance-your-smb-file-transfer-security-with-kerberos-and-aws-datasync/",
+    "category": "Storage"
+  },
+  {
+    "title": "Boost testing confidence with automated Amazon RDS data replication from production to non-production environment",
+    "link": "https://aws.amazon.com/blogs/storage/boost-testing-confidence-with-automated-rds-data-replication-from-production-to-non-production-environment/",
+    "category": "Storage"
+  },
+  {
+    "title": "Cross-account disaster recovery setup using AWS Elastic Disaster Recovery in secured networks (Part 2: Failover and failback implementation)",
+    "link": "https://aws.amazon.com/blogs/storage/cross-account-disaster-recovery-setup-using-aws-elastic-disaster-recovery-in-secured-networks-part-2-failover-and-failback-implementation/",
+    "category": "Storage"
+  },
+  {
+    "title": "Cross-account disaster recovery setup using AWS Elastic Disaster Recovery in secured networks (Part 1: Architecture and network setup)",
+    "link": "https://aws.amazon.com/blogs/storage/cross-account-disaster-recovery-setup-using-aws-elastic-disaster-recovery-in-secured-networks-part-1-architecture-and-network-setup/",
+    "category": "Storage"
+  },
+  {
+    "title": "How Zeta Global scales multi-tenant data ingestion with Amazon S3 Tables",
+    "link": "https://aws.amazon.com/blogs/storage/how-zeta-global-scales-multi-tenant-data-ingestion-with-amazon-s3-tables/",
+    "category": "Storage"
+  },
+  {
+    "title": "Build centralized cross-Region backup architecture with AWS Control Tower",
+    "link": "https://aws.amazon.com/blogs/storage/build-centralized-cross-region-backup-architecture-with-aws-control-tower/",
+    "category": "Storage"
+  },
+  {
+    "title": "How a customer reduced storage TCO by 28% with Amazon FSx for NetApp ONTAP",
+    "link": "https://aws.amazon.com/blogs/storage/how-a-customer-reduced-storage-tco-by-28-with-amazon-fsx-for-netapp-ontap/",
+    "category": "Storage"
+  },
+  {
+    "title": "Enforcing organization-wide Amazon S3 bucket-tagging policies",
+    "link": "https://aws.amazon.com/blogs/storage/enforcing-organization-wide-amazon-s3-bucket-tagging-policies/",
+    "category": "Storage"
+  },
+  {
+    "title": "Efficiently verify Amazon S3 data at scale with compute checksum operation",
+    "link": "https://aws.amazon.com/blogs/storage/efficiently-verify-amazon-s3-data-at-scale-with-compute-checksum-operation/",
+    "category": "Storage"
+  },
+  {
+    "title": "Resilience by design: Building an effective ransomware recovery strategy",
+    "link": "https://aws.amazon.com/blogs/storage/resilience-by-design-building-an-effective-ransomware-recovery-strategy/",
+    "category": "Storage"
+  },
+  {
+    "title": "Implementing Multi-party approval workflows for AWS Backup logically air-gapped vaults",
+    "link": "https://aws.amazon.com/blogs/storage/implementing-multi-party-approval-workflows-for-aws-backup-logically-air-gapped-vaults/",
+    "category": "Storage"
+  },
+  {
+    "title": "How to size an Amazon FSx for NetApp ONTAP file system",
+    "link": "https://aws.amazon.com/blogs/storage/how-to-size-an-amazon-fsx-for-netapp-ontap-file-system/",
+    "category": "Storage"
+  },
+  {
+    "title": "How Anuttacon scaled AI-enhanced gaming workloads for “Whispers from the Star”",
+    "link": "https://aws.amazon.com/blogs/storage/how-anuttacon-scaled-ai-enhanced-gaming-workloads-for-whispers-from-the-star/",
+    "category": "Storage"
+  },
+  {
+    "title": "Simplify log rotation with Amazon S3 Express One Zone",
+    "link": "https://aws.amazon.com/blogs/storage/simplify-log-rotation-with-amazon-s3-express-one-zone/",
+    "category": "Storage"
+  },
+  {
+    "title": "Deploy Okta as a custom identity provider for AWS Transfer Family",
+    "link": "https://aws.amazon.com/blogs/storage/deploy-okta-as-a-custom-identity-provider-for-aws-transfer-family/",
+    "category": "Storage"
+  },
+  {
+    "title": "Cross-Region disaster recovery using AWS Elastic Disaster Recovery",
+    "link": "https://aws.amazon.com/blogs/storage/cross-region-disaster-recovery-using-aws-elastic-disaster-recovery/",
+    "category": "Storage"
+  },
+  {
+    "title": "Mountpoint for Amazon S3 CSI driver v2: Accelerated performance and improved resource usage for Kubernetes workloads",
+    "link": "https://aws.amazon.com/blogs/storage/mountpoint-for-amazon-s3-csi-driver-v2-accelerated-performance-and-improved-resource-usage-for-kubernetes-workloads/",
+    "category": "Storage"
+  },
+  {
+    "title": "Backup Amazon Elastic Kubernetes Service (EKS) resources using NetApp Trident Protect",
+    "link": "https://aws.amazon.com/blogs/storage/backup-for-amazon-eks-resources-using-netapp-trident-protect/",
+    "category": "Storage"
+  },
+  {
+    "title": "A highly scalable solution for data replication using Amazon FSx for NetApp ONTAP and NetApp SnapMirror",
+    "link": "https://aws.amazon.com/blogs/storage/highly-scalable-solution-design-to-replicate-data-using-amazon-fsx-for-netapp-ontap-and-snapmirror/",
+    "category": "Storage"
+  },
+  {
+    "title": "Protect Amazon Aurora DSQL clusters using AWS Backup",
+    "link": "https://aws.amazon.com/blogs/storage/protect-amazon-aurora-dsql-clusters-using-aws-backup/",
+    "category": "Storage"
+  },
+  {
+    "title": "Faster threat detection at scale: Real-time cybersecurity graph analytics with PuppyGraph and Amazon S3 Tables",
+    "link": "https://aws.amazon.com/blogs/storage/faster-threat-detection-at-scale-real-time-cybersecurity-graph-analytics-with-puppygraph-and-amazon-s3-tables/",
+    "category": "Storage"
+  }
+]

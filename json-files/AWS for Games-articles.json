@@ -1,1 +1,252 @@
-[]
+[
+  {
+    "title": "Game development infrastructure simplified with AWS Game Dev Toolkit",
+    "link": "https://aws.amazon.com/blogs/gametech/game-development-infrastructure-simplified-with-aws-game-dev-toolkit/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "Build interactive experiences with data channels in Amazon GameLift Streams",
+    "link": "https://aws.amazon.com/blogs/gametech/build-interactive-experiences-with-data-channels-in-amazon-gamelift-stream/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "Run Unreal Engine 5.6 with Proton on Amazon GameLift Streams Linux Runtime",
+    "link": "https://aws.amazon.com/blogs/gametech/run-unreal-engine-5-6-with-proton-on-amazon-gamelift-streams-linux-runtime/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "Games Industry Lens update for the well-architected framework",
+    "link": "https://aws.amazon.com/blogs/gametech/games-industry-lens-update-for-the-well-architected-framework/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "AI-assisted game production: From static concept to interactive prototype",
+    "link": "https://aws.amazon.com/blogs/gametech/ai-assisted-game-production-from-static-concept-to-interactive-prototype/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "Monitoring server health with Amazon GameLift Servers",
+    "link": "https://aws.amazon.com/blogs/gametech/monitoring-server-health-with-amazon-gamelift-servers/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "AWS for Games powers up for AWS re:Invent 2025",
+    "link": "https://aws.amazon.com/blogs/gametech/aws-for-games-powers-up-for-aws-reinvent-2025/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "Game developer’s guide to Amazon DocumentDB Serverless",
+    "link": "https://aws.amazon.com/blogs/gametech/game-developers-guide-to-amazon-documentdb-serverless/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "Inside the federated authentication system of Amazon Game Studios",
+    "link": "https://aws.amazon.com/blogs/gametech/inside-the-federated-authentication-system-of-amazon-game-studios/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "Successful game launches with AWS Countdown Premium",
+    "link": "https://aws.amazon.com/blogs/gametech/successful-game-launches-with-aws-countdown-premium/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "Wicked Saints Studios integrates TikTok within World Reborn using AWS",
+    "link": "https://aws.amazon.com/blogs/gametech/wicked-saints-studios-integrates-tiktok-within-world-reborn-using-aws/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "Building gaming MLOps pipelines with Amazon Bedrock Agents",
+    "link": "https://aws.amazon.com/blogs/gametech/building-gaming-mlops-pipelines-with-amazon-bedrock-agents/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "Designing compliant and secure betting and gaming applications on AWS",
+    "link": "https://aws.amazon.com/blogs/gametech/designing-compliant-and-secure-betting-and-gaming-applications-on-aws/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "Hypermonk Games transforms mobile game development with data powered by AWS",
+    "link": "https://aws.amazon.com/blogs/gametech/hypermonk-games-transforms-mobile-game-development-with-data-powered-by-aws/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "emptyvessel builds global game development pipeline with AWS",
+    "link": "https://aws.amazon.com/blogs/gametech/emptyvessel-builds-global-game-development-pipeline-with-aws/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "ADMIRAL Technologies migrates for international expansion to AWS",
+    "link": "https://aws.amazon.com/blogs/gametech/admiral-technologies-migrates-for-international-expansion-to-aws/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "Launch phase steps for successful launches on Amazon GameLift Servers",
+    "link": "https://aws.amazon.com/blogs/gametech/launch-phase-steps-for-successful-launches-on-amazon-gamelift-servers/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "Fine-tuning player latency with Amazon GameLift Servers",
+    "link": "https://aws.amazon.com/blogs/gametech/fine-tuning-player-latency-with-amazon-gamelift-servers/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "Development phase steps for successful launches on Amazon GameLift Servers",
+    "link": "https://aws.amazon.com/blogs/gametech/development-phase-steps-for-successful-launches-on-amazon-gamelift-servers/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "24/7 Games reaches new audiences and devices with AWS",
+    "link": "https://aws.amazon.com/blogs/gametech/24-7-games-reaches-new-audiences-and-devices-with-aws/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "AWS wraps record-breaking week at devcom and gamescom 2025",
+    "link": "https://aws.amazon.com/blogs/gametech/aws-wraps-record-breaking-week-at-devcom-and-gamescom-2025/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "Building geolocation verification for iGaming and sports betting on AWS",
+    "link": "https://aws.amazon.com/blogs/gametech/building-geolocation-verification-for-igaming-and-sports-betting-on-aws/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "Building resilient and secure game backends with Amazon CloudFront",
+    "link": "https://aws.amazon.com/blogs/gametech/building-resilient-and-secure-game-backends-with-amazon-cloudfront/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "Level up data-driven player insights with the updated Game Analytics Pipeline",
+    "link": "https://aws.amazon.com/blogs/gametech/level-up-data-driven-player-insights-with-the-updated-game-analytics-pipeline/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "AWS powers breakthrough gaming experiences at devcom and gamescom 2025",
+    "link": "https://aws.amazon.com/blogs/gametech/aws-powers-breakthrough-gaming-experiences-at-devcom-and-gamescom-2025/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "Streaming Windows Games using Proton 9 on Amazon GameLift Streams",
+    "link": "https://aws.amazon.com/blogs/gametech/streaming-windows-games-using-proton-9-on-amazon-gamelift-streams/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "Yggdrasil Gaming boosts speed, resilience, and innovation with GOStack and AWS",
+    "link": "https://aws.amazon.com/blogs/gametech/yggdrasil-gaming-boosts-speed-resilience-and-innovation-with-gostack-and-aws/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "Host persistent world games on Amazon GameLift Servers",
+    "link": "https://aws.amazon.com/blogs/gametech/host-persistent-world-games-on-amazon-gamelift-servers/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "Revolutionizing games with small language model AI companions",
+    "link": "https://aws.amazon.com/blogs/gametech/revolutionizing-games-with-small-language-model-ai-companions/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "Deploy your first web application with Amazon GameLift Streams",
+    "link": "https://aws.amazon.com/blogs/gametech/deploy-your-first-web-application-with-amazon-gamelift-streams/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "Amazon GameLift Servers Streamlines Integration with Unreal Engine 5",
+    "link": "https://aws.amazon.com/blogs/gametech/amazon-gamelift-servers-streamlines-integration-with-unreal-engine-5/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "SportsCapital launches real-time event detection for sports trading powered by AWS",
+    "link": "https://aws.amazon.com/blogs/gametech/sportscapital-launches-real-time-event-detection-for-sports-trading-powered-by-aws/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "Game developer’s guide to Amazon Aurora Serverless v2",
+    "link": "https://aws.amazon.com/blogs/gametech/game-developers-guide-to-amazon-aurora-serverless-v2/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "Shiny Shoe launches Monster Train 2 on AWS",
+    "link": "https://aws.amazon.com/blogs/gametech/shiny-shoe-launches-monster-train-2-on-aws/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "Apex Legends Migrates to Amazon GameLift Servers in Just 10 Days",
+    "link": "https://aws.amazon.com/blogs/gametech/apex-legends-migrates-to-amazon-gamelift-servers-in-just-10-days/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "Implementing AI-Powered Matchmaking with Amazon GameLift FlexMatch",
+    "link": "https://aws.amazon.com/blogs/gametech/implementing-ai-powered-matchmaking-with-amazon-gamelift-flexmatch/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "Training AI models for skill-based matchmaking using Amazon SageMaker AI",
+    "link": "https://aws.amazon.com/blogs/gametech/training-ai-models-for-skill-based-matchmaking-using-amazon-sagemaker-ai/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "AWS GDC 2025 Highlights",
+    "link": "https://aws.amazon.com/blogs/gametech/aws-gdc-2025-highlights/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "FotMob delivers near real-time football updates to millions of fans with AWS",
+    "link": "https://aws.amazon.com/blogs/gametech/fotmob-delivers-near-real-time-football-updates-to-millions-of-fans-with-aws/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "AWS to showcase tools for breakthrough gaming experiences at GDC 2025",
+    "link": "https://aws.amazon.com/blogs/gametech/aws-to-showcase-tools-for-breakthrough-gaming-experiences-at-gdc-2025/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "6 lessons game developers can learn from Epic Games’ cloud governance strategy",
+    "link": "https://aws.amazon.com/blogs/gametech/6-lessons-game-developers-can-learn-from-epic-games-cloud-governance-strategy/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "Build High-Performance Unreal Engine Studios with Remāngu 2.0 and AWS",
+    "link": "https://aws.amazon.com/blogs/gametech/build-high-performance-unreal-engine-studios-with-remangu-2-0-and-aws/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "Faster multiplayer hosting with containers on Amazon GameLift Servers",
+    "link": "https://aws.amazon.com/blogs/gametech/faster-multiplayer-hosting-with-containers-on-amazon-gamelift-servers/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "Jackbox Games unlocks new opportunities with Amazon GameLift Streams",
+    "link": "https://aws.amazon.com/blogs/gametech/jackbox-games-unlocks-new-opportunities-with-amazon-gamelift-streams/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "Cost optimize your Minecraft Java EC2 Server",
+    "link": "https://aws.amazon.com/blogs/gametech/cost-optimize-your-minecraft-java-ec2-server/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "Local testing to cloud deployment: development workflows in Amazon GameLift",
+    "link": "https://aws.amazon.com/blogs/gametech/local-testing-to-cloud-deployment-development-workflows-in-amazon-gamelift/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "Amazon GameLift achieves 100 million concurrently connected users per game",
+    "link": "https://aws.amazon.com/blogs/gametech/amazon-gamelift-achieves-100-million-concurrently-connected-users-per-game/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "Level-Up Mood Board Creation with Miro and Amazon Bedrock – Part 2",
+    "link": "https://aws.amazon.com/blogs/gametech/level-up-mood-board-creation-with-miro-and-amazon-bedrock-part-2/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "The Gang readies to scale its games catalog with LootLocker and AWS",
+    "link": "https://aws.amazon.com/blogs/gametech/the-gang-readies-to-scale-its-games-catalog-with-lootlocker-and-aws/",
+    "category": "AWS for Games"
+  },
+  {
+    "title": "Developer’s Guide to operate game servers on Kubernetes – Part 2",
+    "link": "https://aws.amazon.com/blogs/gametech/developers-guide-to-operate-game-servers-on-kubernetes-part-2/",
+    "category": "AWS for Games"
+  }
+]

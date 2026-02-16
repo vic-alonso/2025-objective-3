@@ -1,1 +1,252 @@
-[]
+[
+  {
+    "title": "Enhance Agreement Notifications in AWS Marketplace with Amazon EventBridge",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/enhance-agreement-notifications-in-aws-marketplace-with-amazon-eventbridge/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "Evolving the cloud marketplace to support solution-centric procurement",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/evolving-the-cloud-marketplace-to-support-solution-centric-procurement/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "AWS Marketplace: Simplifying the path from discovery to deployment in the AI era",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/aws-marketplace-simplifying-the-path-from-discovery-to-deployment-in-the-ai-era/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "Deploy CrowdStrike Falcon Next-Gen SIEM for AWS through AWS Marketplace",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/deploy-crowdstrike-falcon-next-gen-siem-aws-through-aws-marketplace/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "Deliver High-Quality Software Faster with CloudEQ’s DevOps Pipeline Automation and the AWS Well-Architected Framework",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/deliver-high-quality-software-faster-cloudeqs-devops-pipeline-automation-aws-well-architected-framework/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "How to Unlock Real-Time Industrial Intelligence with AI-Driven AWS IIoT",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/how-to-unlock-real-time-industrial-intelligence-with-ai-driven-aws-iiot/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "Why customers choose professional services and implementation expertise in AWS Marketplace",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/why-customers-choose-professional-services-and-implementation-expertise-in-aws-marketplace/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "Optimize AWS Marketplace license and audit data through centralized data lake",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/optimize-aws-marketplace-license-and-audit-data-through-centralized-data-lake/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "Mitigate AI security risks with Amazon Q Business and Securiti: Five-step governance framework",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/mitigate-ai-security-risks-amazon-q-business-securiti-five-step-governance-framework/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "Enhance retail operations using Concierto Insights & Agentic AI Platform with AWS",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/enhance-retail-operations-using-concierto-insights-agentic-ai-platform-with-aws/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "Enhancing multicloud networking with AWS Direct Connect and Equinix",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/enhancing-multicloud-networking-with-aws-direct-connect-and-equinix/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "Step-by-Step Guide to SaaS Integration with AWS Marketplace",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/step-by-step-guide-to-saas-integration-with-aws-marketplace/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "Centralized software and AI agent procurement visibility with AWS Marketplace Single Pane of Glass dashboard",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/centralized-software-and-ai-agent-procurement-visibility-with-aws-marketplace-single-pane-of-glass-dashboard/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "Create on-brand AI videos using Lucas AI Video Creator and AWS AI services",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/create-on-brand-ai-videos-using-lucas-ai-video-creator-and-aws/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "Actionable International Expansion Insights from AWS Marketplace Sellers",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/actionable-international-expansion-insights-from-aws-marketplace-sellers/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "Claude for Enterprise Premium Seats with Claude Code Now Available in AWS Marketplace",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/claude-for-enterprise-premium-seats-with-claude-code-now-available-in-aws-marketplace/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "Creating AWS Marketplace components with EC2 Image Builder and Amazon Q",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/creating-aws-marketplace-components-with-ec2-image-builder-and-amazon-q/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "Transform CI/CD pipelines with CircleCI’s MCP and AWS Agentic AI",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/transform-ci-cd-pipelines-with-circleci-mcp-and-aws-agentic-ai/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "How to accelerate private equity software growth using SourceFuse solutions in AWS Marketplace",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/how-to-accelerate-private-equity-software-growth-using-sourcefuse-solutions/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "Bringing AWS firewall policies into focus with AlgoSec Horizon and ACE",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/aws-firewall-policies-focus-with-algosec-horizon-and-ace/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "How to enable multi-account log collection with AWS Control Tower and Cribl",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/how-to-enable-multi-account-log-collection-with-aws-control-tower-and-cribl/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "How to drive sales alignment to grow in AWS Marketplace",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/how-to-drive-sales-alignment-to-grow-in-aws-marketplace/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "A guide to executing a SaaS product-led growth strategy in AWS Marketplace",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/a-guide-to-executing-a-saas-product-led-growth-strategy-in-aws-marketplace/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "Streamline customer support operations by integrating Zendesk with AWS Support API",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/streamline-customer-support-operations-by-integrating-zendesk-with-aws-support-api/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "Agentic AI in Financial Services: The future of autonomous finance solutions",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/agentic-ai-solutions-in-financial-services/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "Modernizing financial services: Cloud and AI opportunities",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/modernizing-financial-services-cloud-and-ai-opportunities/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "How to enhance government security with CIS Hardened Images in AWS Marketplace",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/how-to-enhance-government-security-with-cis-hardened-images-on-aws-marketplace/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "Streamlining automotive industry procurement with AWS Private Marketplace",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/streamlining-automotive-industry-procurement-with-aws-private-marketplace/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "AWS Marketplace seller success: Building an enablement strategy",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/aws-marketplace-seller-success-building-an-enablement-strategy/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "Improving Your Visibility to AWS Sales: A Practical Guide for AWS Partners",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/improving-your-visibility-to-aws-sales-a-practical-guide-for-partners/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "Implementing SaaS contract pricing models in AWS Marketplace",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/implementing-saas-contract-pricing-models-in-aws-marketplace/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "Anthropic’s Claude for Enterprise is now available in AWS Marketplace",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/anthropics-claude-for-enterprise-now-available-in-aws-marketplace/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "Accelerating financial services innovation with AWS Marketplace",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/accelerating-financial-services-innovation/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "Validate IoT infrastructure with SoftServe IoTForge available in AWS Marketplace",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/validate-iot-infrastructure-with-softserve-iotforge/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "Enabling digital transformation to advance healthcare",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/enabling-digital-transformation-to-advance-healthcare/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "Media, Entertainment, Games, and Sports: Harness the cloud to accelerate innovation with AWS Marketplace",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/media-entertainment-games-and-sports-harness-the-cloud-to-accelerate-innovation-with-aws-marketplace/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "Making SaaS products accessible in AWS Marketplace",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/making-saas-products-accessible-in-aws-marketplace/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "The Total Economic Impact™ of using AWS Marketplace, a commissioned study by Forrester Consulting",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/economic-impact-of-using-aws-marketplace-a-commissioned-study-by-forrester-consulting/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "A Seller’s Guide: Structuring Your Organization for AWS Marketplace Success",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/a-sellers-guide-structuring-your-organization-for-aws-marketplace-success/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "Healthcare reimagined: Harness the cloud to drive innovation and efficiency",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/healthcare-reimagined-harness-the-cloud-to-drive-innovation-and-efficiency/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "Streamline scalable AI governance with Domino in AWS Marketplace",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/streamline-scalable-ai-governance-with-domino-in-aws-marketplace/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "Bridging the compliance gap: Identifying issues early in the software development lifecycle",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/bridging-the-compliance-gap-identifying-issues-early-in-the-software-development-lifecycle/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "Risk management analytics: Turning uncertainty into opportunity",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/risk-management-analytics-turning-uncertainty-into-opportunity/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "Start building voice intelligence with AssemblyAI’s speech-to-text model from AWS Marketplace",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/start-building-voice-intelligence-with-assemblyais-speech-to-text-model-from-aws-marketplace/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "How to get organization-wide visibility into AWS Marketplace purchases",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/how-to-get-organization-wide-visibility-into-aws-marketplace-purchases/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "Optimize Amazon VPC Flow Logs analysis with Cribl Stream sampling",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/optimize-amazon-vpc-flow-logs-analysis-with-cribl-stream-sampling/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "Deploy Amazon EKS advanced data protection using NetApp Trident AWS Marketplace EKS add-on and Amazon FSx for NetApp ONTAP",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/deploy-amazon-eks-advanced-data-protection-using-netapp-trident-aws-marketplace-eks-add-on-and-amazon-fsx-for-netapp-ontap/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "How to launch a SaaS product in AWS Marketplace",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/how-to-launch-a-saas-product-in-aws-marketplace/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "Choosing the right fulfillment option for your SaaS product in AWS Marketplace",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/choosing-the-right-fulfillment-option-for-your-saas-product-in-aws-marketplace/",
+    "category": "AWS Marketplace"
+  },
+  {
+    "title": "Secure your applications using Check Point’s AI powered WAF-as-a-Service",
+    "link": "https://aws.amazon.com/blogs/awsmarketplace/secure-your-applications-using-check-points-ai-powered-waf-as-a-service/",
+    "category": "AWS Marketplace"
+  }
+]

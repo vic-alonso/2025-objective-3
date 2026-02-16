@@ -1,1 +1,252 @@
-[]
+[
+  {
+    "title": "Modernize Xamarin.Forms to .NET MAUI with AWS Transform",
+    "link": "https://aws.amazon.com/blogs/dotnet/modernize-xamarin-forms-to-net-maui-with-aws-transform/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": "Modernize ASP.NET Web Forms UI to Blazor with AWS Transform",
+    "link": "https://aws.amazon.com/blogs/dotnet/modernize-asp-net-web-forms-ui-to-blazor-with-aws-transform/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": "Modernize ASP.NET MVC Razor UI with AWS Transform",
+    "link": "https://aws.amazon.com/blogs/dotnet/modernize-asp-net-mvc-razor-ui-with-aws-transform/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": "Implementing Scalable DynamoDB Counter Operations in .NET Applications",
+    "link": "https://aws.amazon.com/blogs/dotnet/implementing-scalable-dynamodb-counter-operations-in-net-application/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": "VTEX accelerates application scale-up by 88% with Amazon EKS",
+    "link": "https://aws.amazon.com/blogs/dotnet/how-vtex-reduced-legacy-net-framework-application-scale-up-time-by-88-with-amazon-eks/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": "Optimizing AWS development costs for .NET applications with LocalStack",
+    "link": "https://aws.amazon.com/blogs/dotnet/optimizing-aws-development-costs-for-net-applications-with-localstack/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": "AXA Belgium’s Journey to Running .NET Web APIs on AWS Lambda",
+    "link": "https://aws.amazon.com/blogs/dotnet/axa-belgiums-journey-to-running-net-web-apis-on-aws-lambda/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": "Announcing AWS Transform for .NET detailed transformation reports",
+    "link": "https://aws.amazon.com/blogs/dotnet/announcing-aws-transform-for-net-detailed-transformation-reports/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": "Building a GraphQL API with AWS AppSync Using Direct Lambda Resolvers in .NET",
+    "link": "https://aws.amazon.com/blogs/dotnet/building-a-graphql-api-with-aws-appsync-using-direct-lambda-resolvers-in-net/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": "Bob’s Used Books: Build a .NET Serverless Application on AWS – Part 2: Architecture",
+    "link": "https://aws.amazon.com/blogs/dotnet/bobs-used-books-build-a-net-serverless-application-on-aws-part-2-architecture/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": "AWS Transform for .NET now supports connection to Azure Repos and Azure Artifacts",
+    "link": "https://aws.amazon.com/blogs/dotnet/aws-transform-for-net-now-supports-connection-to-azure-repos-and-azure-artifacts/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": "Bob’s Used Books: Build a .NET Serverless Application on AWS, Part 1: Deployment and Setup",
+    "link": "https://aws.amazon.com/blogs/dotnet/bobs-used-books-build-a-net-serverless-application-on-aws-part-1-deployment-and-setup/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": "Dynamic configuration updates in .NET using Parameter Store and Secrets Manager",
+    "link": "https://aws.amazon.com/blogs/dotnet/dynamic-configuration-updates-in-net-using-parameter-store-and-secrets-manager/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": "AWS Transform for .NET now supports chat about assessments and transformations",
+    "link": "https://aws.amazon.com/blogs/dotnet/aws-transform-for-net-now-supports-chat-about-assessments-and-transformations/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": "Integrating C# Model Context Protocol servers with Amazon Q Developer CLI",
+    "link": "https://aws.amazon.com/blogs/dotnet/integrating-c-model-context-protocol-servers-with-amazon-q-developer-cli/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": "Building AI-Ready Applications with Amazon Bedrock and .NET Aspire",
+    "link": "https://aws.amazon.com/blogs/dotnet/building-ai-ready-applications-with-amazon-bedrock-and-net-aspire/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": "Improving SnapStart Performance in .NET Lambda Functions",
+    "link": "https://aws.amazon.com/blogs/dotnet/blog-improving-snapstart-performance-in-net-lambdas/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": "Port .NET Framework workloads to Linux with Amazon Q Developer, Part 4: MVC projects",
+    "link": "https://aws.amazon.com/blogs/dotnet/port-net-framework-workloads-to-linux-with-amazon-q-developer-part-4-mvc-applications/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": "AWS Elastic Beanstalk now integrates with AWS Secrets Manager and Systems Manager Parameter Store",
+    "link": "https://aws.amazon.com/blogs/dotnet/aws-elastic-beanstalk-now-integrates-with-aws-secrets-manager-and-systems-manager-parameter-store/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": "Port .NET Framework workloads to Linux with Amazon Q Developer, Part 3: Web APIs",
+    "link": "https://aws.amazon.com/blogs/dotnet/port-net-framework-workloads-to-linux-with-amazon-q-developer-part-3-web-apis/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": "Serverless solution to summarize text using Amazon Bedrock Converse API in .NET",
+    "link": "https://aws.amazon.com/blogs/dotnet/serverless-solution-to-summarize-text-using-amazon-bedrock-converse-api-in-net/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": "Build a .NET Context-Aware Generative AI Chatbot using Amazon Bedrock and LangChain",
+    "link": "https://aws.amazon.com/blogs/dotnet/building-context-aware-generative-ai-chatbot-using-amazon-bedrock-and-langchain-in-net/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": "Port .NET Framework workloads to Linux with Amazon Q Developer, Part 2: Test Projects",
+    "link": "https://aws.amazon.com/blogs/dotnet/port-net-framework-workloads-to-linux-with-amazon-q-developer-part-2-test-projects/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": "Implement Role-based Access Control for .NET applications with Amazon Cognito",
+    "link": "https://aws.amazon.com/blogs/dotnet/implement-role-based-access-control-for-net-applications-with-amazon-cognito/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": "Generate Code Documentation Using Amazon Q Developer",
+    "link": "https://aws.amazon.com/blogs/dotnet/generate-code-documentation-using-amazon-q-developer/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": "Implementing Semantic Search using Amazon Bedrock and RDS for PostgreSQL in .NET",
+    "link": "https://aws.amazon.com/blogs/dotnet/implementing-semantic-search-using-amazon-bedrock-and-rds-for-postgresql-in-net/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": "Empowering .NET Developers: C# in Amazon SageMaker Jupyter Notebooks using Amazon Bedrock",
+    "link": "https://aws.amazon.com/blogs/dotnet/empowering-net-developers-c-in-amazon-sagemaker-jupyter-notebooks-using-amazon-bedrock/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": "Port .NET Framework workloads to Linux with Amazon Q Developer, Part 1: Class libraries",
+    "link": "https://aws.amazon.com/blogs/dotnet/port-net-framework-workloads-to-linux-with-amazon-q-developer-part-1-class-libraries/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": "Announcing the general availability of AWS .NET OpenTelemetry libraries",
+    "link": "https://aws.amazon.com/blogs/dotnet/announcing-the-general-availability-of-aws-net-opentelemetry-libraries/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": "Add Retrieval Augmented Generation (RAG) to your .NET applications with Amazon Bedrock Knowledge Bases",
+    "link": "https://aws.amazon.com/blogs/dotnet/add-retrieval-augmented-generation-rag-to-your-net-applications-with-amazon-bedrock-knowledge-bases/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": ".NET Observability with OpenTelemetry – Part 3: Distributed Tracing using AWS X-Ray",
+    "link": "https://aws.amazon.com/blogs/dotnet/net-observability-with-opentelemetry-part-3-distributed-tracing-using-aws-x-ray/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": "Developing Custom Processors using OpenTelemetry in .NET 8",
+    "link": "https://aws.amazon.com/blogs/dotnet/developing-custom-processors-using-opentelemetry-in-net-8/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": "Deploy to Elastic Beanstalk with Azure DevOps",
+    "link": "https://aws.amazon.com/blogs/dotnet/deploy-to-elastic-beanstalk-with-azure-devops/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": "Generate images using Amazon Bedrock with stability diffusion model in .NET",
+    "link": "https://aws.amazon.com/blogs/dotnet/generate-images-using-amazon-bedrock-with-stability-diffusion-model-in-net/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": "Deploy to Elastic Beanstalk with GitHub Actions",
+    "link": "https://aws.amazon.com/blogs/dotnet/deploy-to-elastic-beanstalk-environment-with-github-actions/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": "Integrating Amazon Bedrock in your .NET applications",
+    "link": "https://aws.amazon.com/blogs/dotnet/getting-started-with-amazon-bedrock-in-net-applications/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": "Modernize ASP.NET Web Forms applications in-place using DotVVM",
+    "link": "https://aws.amazon.com/blogs/dotnet/modernize-asp-net-web-forms-applications-in-place-using-dotvvm/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": "Seamless Production Deployment with Elastic Beanstalk",
+    "link": "https://aws.amazon.com/blogs/dotnet/seamless-production-deployment-with-elastic-beanstalk/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": "Modernize an existing Windows service to a .NET 8 gRPC service with Amazon ECS",
+    "link": "https://aws.amazon.com/blogs/dotnet/modernize-an-existing-windows-service-to-a-net-6-grpc-service-with-amazon-ecs/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": "Build DR ready .NET Web APIs on AWS",
+    "link": "https://aws.amazon.com/blogs/dotnet/build-dr-ready-net-web-apis-on-aws/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": "Implement fine-grained authorization in your .NET API using Amazon Cognito Custom Scopes",
+    "link": "https://aws.amazon.com/blogs/dotnet/implement-fine-grained-authorization-in-your-net-api-using-amazon-cognito-custom-scopes/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": "Scaling AWS Toolkit for .NET Refactoring to help modernize large-scale enterprise applications",
+    "link": "https://aws.amazon.com/blogs/dotnet/scaling-aws-toolkit-for-net-refactoring-to-help-modernize-large-scale-enterprise-applications/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": "Easily Migrate .NET Web Apps to AWS with Elastic Beanstalk, Part 2",
+    "link": "https://aws.amazon.com/blogs/dotnet/easily-migrate-net-web-apps-to-aws-with-elastic-beanstalk-part-2/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": "Easily Migrate .NET Web Apps to AWS with Elastic Beanstalk, Part 1",
+    "link": "https://aws.amazon.com/blogs/dotnet/easily-migrate-net-web-apps-to-aws-with-elastic-beanstalk-part-1/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": "Building a Conversational Document Bot on Amazon Bedrock and Amazon Textract with .NET Windows Forms",
+    "link": "https://aws.amazon.com/blogs/dotnet/document-bot-on-amazon-bedrock-with-net-windows-forms/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": ".NET 8 Support on AWS",
+    "link": "https://aws.amazon.com/blogs/dotnet/net-8-support-on-aws/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": "Remote development on AWS using JetBrains Rider",
+    "link": "https://aws.amazon.com/blogs/dotnet/remote-development-on-aws-using-jetbrains-rider/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": ".NET Observability – Part 2: Logs using Fluent Bit and Amazon OpenSearch",
+    "link": "https://aws.amazon.com/blogs/dotnet/net-observability-with-opentelemetry-part-2-logs-using-fluent-bit-and-amazon-opensearch/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": "Add AI-powered coding assistance to Visual Studio with Amazon CodeWhisperer",
+    "link": "https://aws.amazon.com/blogs/dotnet/add-ai-powered-coding-assistance-to-visual-studio-with-amazon-codewhisperer/",
+    "category": ".NET on AWS"
+  },
+  {
+    "title": "Powering .NET 8 with AWS Graviton3: Benchmarks",
+    "link": "https://aws.amazon.com/blogs/dotnet/powering-net-8-with-aws-graviton3-benchmarks/",
+    "category": ".NET on AWS"
+  }
+]

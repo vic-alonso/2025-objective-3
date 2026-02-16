@@ -1,1 +1,252 @@
-[]
+[
+  {
+    "title": "Federate access to Amazon SageMaker Unified Studio with AWS IAM Identity Center and Ping Identity",
+    "link": "https://aws.amazon.com/blogs/big-data/federate-access-to-amazon-sagemaker-unified-studio-with-aws-iam-identity-center-and-ping-identity/",
+    "category": "Big Data"
+  },
+  {
+    "title": "Build a trusted foundation for data and AI using Alation and Amazon SageMaker Unified Studio",
+    "link": "https://aws.amazon.com/blogs/big-data/build-a-trusted-foundation-for-data-and-ai-using-alation-and-amazon-sagemaker-unified-studio/",
+    "category": "Big Data"
+  },
+  {
+    "title": "Reduce EMR HBase upgrade downtime with the EMR read-replica prewarm feature",
+    "link": "https://aws.amazon.com/blogs/big-data/reduce-emr-hbase-upgrade-downtime-with-the-emr-read-replica-prewarm-feature/",
+    "category": "Big Data"
+  },
+  {
+    "title": "How Tipico democratized data transformations using Amazon Managed Workflows for Apache Airflow and AWS Batch",
+    "link": "https://aws.amazon.com/blogs/big-data/how-tipico-democratized-data-transformations-using-amazon-managed-workflows-for-apache-airflow-and-aws-batch/",
+    "category": "Big Data"
+  },
+  {
+    "title": "Modernize game intelligence with generative AI on Amazon Redshift",
+    "link": "https://aws.amazon.com/blogs/big-data/modernize-game-intelligence-with-generative-ai-on-amazon-redshift/",
+    "category": "Big Data"
+  },
+  {
+    "title": "Streamline your Amazon Redshift maintenance event notifications with Amazon Simple Notification Service",
+    "link": "https://aws.amazon.com/blogs/big-data/streamline-your-amazon-redshift-maintenance-event-notifications-with-amazon-simple-notification-service/",
+    "category": "Big Data"
+  },
+  {
+    "title": "Get started faster with one-click onboarding, serverless notebooks, and AI agents in Amazon SageMaker Unified Studio",
+    "link": "https://aws.amazon.com/blogs/big-data/get-started-faster-with-one-click-onboarding-serverless-notebooks-and-ai-agents-in-amazon-sagemaker-unified-studio/",
+    "category": "Big Data"
+  },
+  {
+    "title": "Create a customizable cross-company log lake, Part II: Build and add Amazon Bedrock",
+    "link": "https://aws.amazon.com/blogs/big-data/create-a-customizable-cross-company-log-lake-part-ii-build-and-add-amazon-bedrock/",
+    "category": "Big Data"
+  },
+  {
+    "title": "Secure Apache Spark writes to Amazon S3 on Amazon EMR with dynamic AWS KMS encryption",
+    "link": "https://aws.amazon.com/blogs/big-data/secure-apache-spark-writes-to-amazon-s3-on-amazon-emr-with-dynamic-aws-kms-encryption/",
+    "category": "Big Data"
+  },
+  {
+    "title": "Top 10 best practices for Amazon EMR Serverless",
+    "link": "https://aws.amazon.com/blogs/big-data/top-10-best-practices-for-amazon-emr-serverless/",
+    "category": "Big Data"
+  },
+  {
+    "title": "Access a VPC-hosted Amazon OpenSearch Service domain with SAML authentication using AWS Client VPN",
+    "link": "https://aws.amazon.com/blogs/big-data/access-a-vpc-hosted-amazon-opensearch-service-domain-with-saml-authentication-using-aws-client-vpn/",
+    "category": "Big Data"
+  },
+  {
+    "title": "Enable strategic data quality management with AWS Glue DQDL labels",
+    "link": "https://aws.amazon.com/blogs/big-data/enable-strategic-data-quality-management-with-aws-glue-dqdl-labels/",
+    "category": "Big Data"
+  },
+  {
+    "title": "Apache Spark 4.0.1 preview now available on Amazon EMR Serverless",
+    "link": "https://aws.amazon.com/blogs/big-data/apache-spark-4-0-1-preview-now-available-on-amazon-emr-serverless/",
+    "category": "Big Data"
+  },
+  {
+    "title": "Managing Amazon OpenSearch UI infrastructure as code with AWS CDK",
+    "link": "https://aws.amazon.com/blogs/big-data/managing-amazon-opensearch-ui-infrastructure-as-code-with-aws-cdk/",
+    "category": "Big Data"
+  },
+  {
+    "title": "Modernize your data warehouse by migrating Oracle Database to Amazon Redshift with Oracle GoldenGate",
+    "link": "https://aws.amazon.com/blogs/big-data/modernize-your-data-warehouse-by-migrating-oracle-database-to-amazon-redshift-with-oracle-goldengate/",
+    "category": "Big Data"
+  },
+  {
+    "title": "On-demand and scheduled scaling of Amazon MSK Express based clusters",
+    "link": "https://aws.amazon.com/blogs/big-data/on-demand-and-scheduled-scaling-of-amazon-msk-express-based-clusters/",
+    "category": "Big Data"
+  },
+  {
+    "title": "Power up your analytics with Amazon SageMaker Unified Studio integration with Tableau, Power BI, and more",
+    "link": "https://aws.amazon.com/blogs/big-data/power-up-your-analytics-with-amazon-sagemaker-unified-studio-integration-with-tableau-power-bi-and-more/",
+    "category": "Big Data"
+  },
+  {
+    "title": "Accelerate context-aware data analysis and ML workflows with Amazon SageMaker Data Agent",
+    "link": "https://aws.amazon.com/blogs/big-data/accelerate-context-aware-data-analysis-and-ml-workflows-with-amazon-sagemaker-data-agent/",
+    "category": "Big Data"
+  },
+  {
+    "title": "Streamline large binary object migrations: A Kafka-based solution for Oracle to Amazon Aurora PostgreSQL and Amazon S3",
+    "link": "https://aws.amazon.com/blogs/big-data/streamline-large-binary-object-migrations-a-kafka-based-solution-for-oracle-to-amazon-aurora-postgresql-and-amazon-s3/",
+    "category": "Big Data"
+  },
+  {
+    "title": "How Bazaarvoice modernized their Apache Kafka infrastructure with Amazon MSK",
+    "link": "https://aws.amazon.com/blogs/big-data/how-bazaarvoice-modernized-their-apache-kafka-infrastructure-with-amazon-msk/",
+    "category": "Big Data"
+  },
+  {
+    "title": "Enterprise scale in-place migration to Apache Iceberg: Implementation guide",
+    "link": "https://aws.amazon.com/blogs/big-data/enterprise-scale-in-place-migration-to-apache-iceberg-implementation-guide/",
+    "category": "Big Data"
+  },
+  {
+    "title": "Using Amazon EMR DeltaStreamer to stream data to multiple Apache Hudi tables",
+    "link": "https://aws.amazon.com/blogs/big-data/using-amazon-emr-deltastreamer-to-stream-data-to-multiple-apache-hudi-tables/",
+    "category": "Big Data"
+  },
+  {
+    "title": "Unlock granular resource control with queue-based QMR in Amazon Redshift Serverless",
+    "link": "https://aws.amazon.com/blogs/big-data/unlock-granular-resource-control-with-queue-based-qmr-in-amazon-redshift-serverless/",
+    "category": "Big Data"
+  },
+  {
+    "title": "How Slack achieved operational excellence for Spark on Amazon EMR using generative AI",
+    "link": "https://aws.amazon.com/blogs/big-data/how-slack-achieved-operational-excellence-for-spark-on-amazon-emr-using-generative-ai/",
+    "category": "Big Data"
+  },
+  {
+    "title": "Access Snowflake Horizon Catalog data using catalog federation in the AWS Glue Data Catalog",
+    "link": "https://aws.amazon.com/blogs/big-data/access-snowflake-horizon-catalog-data-using-catalog-federation-in-the-aws-glue-data-catalog/",
+    "category": "Big Data"
+  },
+  {
+    "title": "Navigating architectural choices for a lakehouse using Amazon SageMaker",
+    "link": "https://aws.amazon.com/blogs/big-data/navigating-architectural-choices-for-a-lakehouse-using-amazon-sagemaker/",
+    "category": "Big Data"
+  },
+  {
+    "title": "Access Databricks Unity Catalog data using catalog federation in the AWS Glue Data Catalog",
+    "link": "https://aws.amazon.com/blogs/big-data/access-databricks-unity-catalog-data-using-catalog-federation-in-the-aws-glue-data-catalog/",
+    "category": "Big Data"
+  },
+  {
+    "title": "Use Amazon SageMaker custom tags for project resource governance and cost tracking",
+    "link": "https://aws.amazon.com/blogs/big-data/use-amazon-sagemaker-custom-tags-for-project-resource-governance-and-cost-tracking/",
+    "category": "Big Data"
+  },
+  {
+    "title": "Create AWS Glue Data Catalog views using cross-account definer roles",
+    "link": "https://aws.amazon.com/blogs/big-data/create-aws-glue-data-catalog-views-using-cross-account-definer-roles/",
+    "category": "Big Data"
+  },
+  {
+    "title": "AWS analytics at re:Invent 2025: Unifying Data, AI, and governance at scale",
+    "link": "https://aws.amazon.com/blogs/big-data/aws-analytics-at-reinvent-2025-unifying-data-ai-and-governance-at-scale/",
+    "category": "Big Data"
+  },
+  {
+    "title": "Amazon EMR Serverless eliminates local storage provisioning, reducing data processing costs by up to 20%",
+    "link": "https://aws.amazon.com/blogs/big-data/amazon-emr-serverless-eliminates-local-storage-provisioning-reducing-data-processing-costs-by-up-to-20/",
+    "category": "Big Data"
+  },
+  {
+    "title": "Building scalable AWS Lake Formation governed data lakes with dbt and Amazon Managed Workflows for Apache Airflow",
+    "link": "https://aws.amazon.com/blogs/big-data/building-scalable-aws-lake-formation-governed-data-lakes-with-dbt-and-amazon-managed-workflows-for-apache-airflow/",
+    "category": "Big Data"
+  },
+  {
+    "title": "Simplify multi-warehouse data governance with Amazon Redshift federated permissions",
+    "link": "https://aws.amazon.com/blogs/big-data/simplify-multi-warehouse-data-governance-with-amazon-redshift-federated-permissions/",
+    "category": "Big Data"
+  },
+  {
+    "title": "Simplified management of Amazon MSK with natural language using Kiro CLI and Amazon MSK MCP Server",
+    "link": "https://aws.amazon.com/blogs/big-data/simplified-management-of-amazon-msk-with-natural-language-using-kiro-cli-and-amazon-msk-mcp-server/",
+    "category": "Big Data"
+  },
+  {
+    "title": "Unifying governance and metadata across Amazon SageMaker Unified Studio and Atlan",
+    "link": "https://aws.amazon.com/blogs/big-data/unifying-governance-and-metadata-across-amazon-sagemaker-unified-studio-and-atlan/",
+    "category": "Big Data"
+  },
+  {
+    "title": "Modernize Apache Spark workflows using Spark Connect on Amazon EMR on Amazon EC2",
+    "link": "https://aws.amazon.com/blogs/big-data/modernize-apache-spark-workflows-using-spark-connect-on-amazon-emr-on-amazon-ec2/",
+    "category": "Big Data"
+  },
+  {
+    "title": "How Taxbit achieved cost savings and faster processing times using Amazon S3 Tables",
+    "link": "https://aws.amazon.com/blogs/big-data/how-taxbit-achieved-cost-savings-and-faster-processing-times-using-amazon-s3-tables/",
+    "category": "Big Data"
+  },
+  {
+    "title": "Create and update Apache Iceberg tables with partitions in the AWS Glue Data Catalog using the AWS SDK and AWS CloudFormation",
+    "link": "https://aws.amazon.com/blogs/big-data/create-and-update-apache-iceberg-tables-with-partitions-in-the-aws-glue-data-catalog-using-the-aws-sdk-and-aws-cloudformation/",
+    "category": "Big Data"
+  },
+  {
+    "title": "Power data ingestion into Splunk using Amazon Data Firehose",
+    "link": "https://aws.amazon.com/blogs/big-data/power-data-ingestion-into-splunk-using-amazon-data-firehose/",
+    "category": "Big Data"
+  },
+  {
+    "title": "Best practices for querying Apache Iceberg data with Amazon Redshift",
+    "link": "https://aws.amazon.com/blogs/big-data/best-practices-for-querying-apache-iceberg-data-with-amazon-redshift/",
+    "category": "Big Data"
+  },
+  {
+    "title": "IPv6 addressing with Amazon Redshift",
+    "link": "https://aws.amazon.com/blogs/big-data/ipv6-addressing-with-amazon-redshift/",
+    "category": "Big Data"
+  },
+  {
+    "title": "Reference guide for building a self-service analytics solution with Amazon SageMaker",
+    "link": "https://aws.amazon.com/blogs/big-data/reference-guide-for-building-a-self-service-analytics-solution-with-amazon-sagemaker/",
+    "category": "Big Data"
+  },
+  {
+    "title": "Introducing the Apache Spark troubleshooting agent for Amazon EMR and AWS Glue",
+    "link": "https://aws.amazon.com/blogs/big-data/introducing-the-apache-spark-troubleshooting-agent-for-amazon-emr-and-aws-glue/",
+    "category": "Big Data"
+  },
+  {
+    "title": "Introducing Apache Spark upgrade agent for Amazon EMR",
+    "link": "https://aws.amazon.com/blogs/big-data/introducing-apache-spark-upgrade-agent-for-amazon-emr/",
+    "category": "Big Data"
+  },
+  {
+    "title": "Accelerate Apache Hive read and write on Amazon EMR using enhanced S3A",
+    "link": "https://aws.amazon.com/blogs/big-data/accelerate-apache-hive-read-and-write-on-amazon-emr-using-enhanced-s3a/",
+    "category": "Big Data"
+  },
+  {
+    "title": "Amazon EMR HBase on Amazon S3 transitioning to EMR S3A with comparable EMRFS performance",
+    "link": "https://aws.amazon.com/blogs/big-data/amazon-emr-hbase-on-amazon-s3-transitioning-to-emr-s3a-with-comparable-emrfs-performance/",
+    "category": "Big Data"
+  },
+  {
+    "title": "How Socure achieved 50% cost reduction by migrating from self-managed Spark to Amazon EMR Serverless",
+    "link": "https://aws.amazon.com/blogs/big-data/how-socure-achieved-50-cost-reduction-by-migrating-from-self-managed-spark-to-amazon-emr-serverless/",
+    "category": "Big Data"
+  },
+  {
+    "title": "How Bayer transforms Pharma R&D with a cloud-based data science ecosystem using Amazon SageMaker",
+    "link": "https://aws.amazon.com/blogs/big-data/how-bayer-transforms-pharma-rd-with-a-cloud-based-data-science-ecosystem-using-amazon-sagemaker/",
+    "category": "Big Data"
+  },
+  {
+    "title": "Introducing Apache Iceberg materialized views in AWS Glue Data Catalog",
+    "link": "https://aws.amazon.com/blogs/big-data/introducing-apache-iceberg-materialized-views-in-aws-glue-data-catalog/",
+    "category": "Big Data"
+  },
+  {
+    "title": "Introducing AWS Glue 5.1 for Apache Spark",
+    "link": "https://aws.amazon.com/blogs/big-data/introducing-aws-glue-5-1-for-apache-spark/",
+    "category": "Big Data"
+  }
+]

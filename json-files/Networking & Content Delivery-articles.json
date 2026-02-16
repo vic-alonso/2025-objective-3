@@ -1,1 +1,252 @@
-[]
+[
+  {
+    "title": "Amazon CloudFront now supports mTLS authentication to origins",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/amazon-cloudfront-now-supports-mtls-authentication-to-origins/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "Streamline AWS Client VPN usage reporting with Amazon CloudWatch Logs Insights queries",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/streamline-aws-client-vpn-usage-reporting-with-amazon-cloudwatch-logs-insights-queries/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "Building Zero Trust Access Across Multi-Account AWS Environments",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/building-zero-trust-access-across-multi-account-aws-environments/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "Modernizing financial networks: Huatai Securities’ multicast implementation on AWS",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/modernizing-financial-networks-huatai-securities-multicast-implementation-on-aws/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "Automate prefix lists with Amazon VPC IP Address Manager (IPAM)",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/automate-prefix-lists-with-amazon-vpc-ip-address-manager-ipam/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "Building Intelligent Network Operations Agent with Amazon Bedrock AgentCore",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/building-intelligent-network-operations-agent-with-amazon-bedrock-agentcore/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "Implementing consistent DNS Query Logging with Amazon Route 53 Profiles",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/implementing-consistent-dns-query-logging-with-amazon-route-53-profiles/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "Implementing ingress geo-restriction with AWS to reduce attack surface",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/implementing-ingress-geo-restriction-with-aws-to-reduce-attack-surface/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "Distributing Amazon VPC IP Address Manager costs to member accounts in AWS Organizations",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/distributing-amazon-vpc-ip-address-manager-costs-to-member-accounts-in-aws-organizations/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "Rivian’s proactive approach to identify unrouteable traffic with AWS Transit Gateway Flow Logs",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/rivians-proactive-approach-to-identify-unrouteable-traffic-with-aws-transit-gateway-flow-logs/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "Designing for global scale: XM Cyber’s 22-Region AWS Cloud WAN implementation",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/designing-for-global-scale-xm-cybers-22-region-aws-cloud-wan-implementation/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "Build resilient and scalable multicloud connectivity architectures with AWS Interconnect – multicloud",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/build-resilient-and-scalable-multicloud-connectivity-architectures-with-aws-interconnect-multicloud/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "Building Resiliency For AWS Direct Connect Maintenance Events To Mitigate Downtime",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/building-resiliency-for-aws-direct-connect-maintenance-events-to-mitigate-downtime/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "AWS and Google Cloud collaborate to simplify multicloud networking",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/aws-and-google-cloud-collaborate-to-simplify-multicloud-networking/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "Announcing Amazon Route 53 Accelerated Recovery for managing public DNS records",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/announcing-amazon-route-53-accelerated-recovery-for-managing-public-dns-records/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "re:Invent 2025: Your ultimate AWS Networking guide to this year’s must-attend cloud event",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/aws-reinvent-2025-your-ultimate-aws-networking-guide-to-this-years-must-attend-cloud-event/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "Snap Inc. uses Amazon CloudFront Origin Shield to improve download and upload latency",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/snap-inc-uses-amazon-cloudfront-origin-shield-to-improve-download-and-upload-latency/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "Securing Egress Architectures with Network Firewall Proxy",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/securing-egress-architectures-with-network-firewall-proxy/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "Amazon CloudFront: Delivering millisecond performance to global audiences",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/amazon-cloudfront-delivering-millisecond-performance-to-global-audiences/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "Trust goes both ways: Amazon CloudFront now supports viewer mTLS",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/trust-goes-both-ways-amazon-cloudfront-now-supports-viewer-mtls/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "How AWS improves global connectivity via automated traffic engineering",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-aws-improves-global-connectivity-via-automated-traffic-engineering/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "Introducing Flexible Cost Allocation for AWS Transit Gateway",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-flexible-cost-allocation-for-aws-transit-gateway/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "AWS Site-to-Site VPN and eero make remote connectivity for distributed sites simpler",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/aws-site-to-site-vpn-and-eero-make-remote-connectivity-for-distributed-sites-simpler/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "Drive application performance with Application Load Balancer Target Optimizer",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/drive-application-performance-with-application-load-balancer-target-optimizer/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "AWS Cloud WAN Routing Policy: Fine-grained controls for your global network (Part 1)",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/aws-cloud-wan-routing-policy-fine-grained-controls-for-your-global-network-part-1/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "Introducing Amazon VPC Regional NAT Gateway",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-amazon-vpc-regional-nat-gateway/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "Introducing AWS Site-to-Site VPN Concentrator for multi-site connectivity",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-aws-site-to-site-vpn-concentrator-for-multi-site-connectivity/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "Build scalable IPv4 addressing with AWS NAT gateway in regional availability mode, Amazon VPC IPAM policies and Prefix Lists",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/build-scalable-ipv4-addressing-with-aws-nat-gateway-in-regional-availability-mode-amazon-vpc-ipam-policies-and-prefix-lists/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "AWS PrivateLink extends cross-region connectivity to AWS services",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/aws-privatelink-extends-cross-region-connectivity-to-aws-services/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "Network Load Balancers now support Weighted Target Groups",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/network-load-balancers-now-support-weighted-target-groups/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "Introducing flat-rate pricing plans with no overages",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-flat-rate-pricing-plans-with-no-overages/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "Scaling AWS VPN maintenance with tunnel endpoint lifecycle automation",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/scaling-aws-vpn-maintenance-with-tunnel-endpoint-lifecycle-automation/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "Introducing QUIC Protocol Support for Network Load Balancer: Accelerating Mobile-First Applications",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-quic-protocol-support-for-network-load-balancer-accelerating-mobile-first-applications/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "Introducing AWS Site-to-Site VPN 5 Gbps Tunnels to support high throughput workloads",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-aws-site-to-site-vpn-5-gbps-tunnels-to-support-high-throughput-workloads/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "Use Amazon VPC Lattice to streamline and secure TCP resource connectivity across multiple AWS Accounts",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/use-amazon-vpc-lattice-to-streamline-and-secure-tcp-resource-connectivity-across-multiple-aws-accounts/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "Custom domain names for VPC Lattice resources",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/custom-domain-names-for-vpc-lattice-resources/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "Introducing cross-account support for Amazon CloudFront Virtual Private Cloud (VPC) origins",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-cross-account-support-for-amazon-cloudfront-virtual-private-cloud-vpc-origins/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "Configuring the AWS WAF Anti-DDoS managed rule group for your resources and clients",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/configuring-the-aws-waf-anti-ddos-managed-rule-group-for-your-resources-and-clients/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "Streamline in-place application upgrades with Amazon VPC Lattice",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/streamline-in-place-application-upgrades-with-amazon-vpc-lattice/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "Charting the life of an Amazon CloudFront request",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/charting-the-life-of-an-amazon-cloudfront-request/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "How Silverflow modernized network operations by combining AWS Cloud WAN and DevOps",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-silverflow-modernized-network-operations-by-combining-aws-cloud-wan-and-devops/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "Secure customer resource access in multi-tenant SaaS with Amazon VPC Lattice",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/secure-customer-resource-access-in-multi-tenant-saas-with-amazon-vpc-lattice/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "AWS Site-to-Site VPN now supports IPv6 on the outside IPs",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/aws-site-to-site-vpn-now-supports-ipv6-on-the-outside-ips/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "Building a high-performance exchange market data broadcasting platform on AWS",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/building-a-high-performance-exchange-market-data-broadcasting-platform-on-aws/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "Building Resilient Multi-cluster Applications with Amazon EKS, Part 1: Implementing Cross-cluster Load Balancing with NLB",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/building-resilient-multi-cluster-applications-with-amazon-eks/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "Redirecting internet bound traffic through a transparent forward proxy",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/redirecting-internet-bound-traffic-through-a-transparent-forward-proxy/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "Amazon CloudFront now supports IPv6 origins for end-to-end IPv6 delivery",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/amazon-cloudfront-now-supports-ipv6-origins-for-end-to-end-ipv6-delivery/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "AWS Site-to-Site VPN: secure pre-shared key (PSK) Management with AWS Secrets Manager",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/aws-site-to-site-vpn-secure-pre-shared-key-psk-management-with-aws-secrets-manager/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "Protect your Amazon Route 53 DNS zones and records",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/protect-your-amazon-route-53-dns-zones-and-records/",
+    "category": "Networking & Content Delivery"
+  },
+  {
+    "title": "Dynamic routing using Amazon VPC Route Server",
+    "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/dynamic-routing-using-amazon-vpc-route-server/",
+    "category": "Networking & Content Delivery"
+  }
+]
