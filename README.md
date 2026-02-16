@@ -1,10 +1,11 @@
+
 {
   "title": "How AutoScout24 built a Bot Factory to standardize AI agent development with Amazon Bedrock",
   "url": "https://aws.amazon.com/blogs/machine-learning/how-autoscout24-built-a-bot-factory-to-standardize-ai-agent-development-with-amazon-bedrock/",
   "similarity": 0.8232405639713017
 }
 
-Lista de blogs:
+Blogs list:
 - Architecture: https://aws.amazon.com/blogs/architecture/
 - Artificial Intelligence: https://aws.amazon.com/blogs/machine-learning/
 - AWS Cloud Operations: https://aws.amazon.com/blogs/mt/
@@ -50,3 +51,13 @@ Lista de blogs:
 - Supply Chain & Logistics: https://aws.amazon.com/blogs/supply-chain/
 - Training & Certification: https://aws.amazon.com/blogs/training-and-certification/
 - Web3: https://aws.amazon.com/blogs/web3/
+
+# Test Local
+``` bash
+cd /home/altostratus/Project/objective-3
+uv run functions-framework --target=recommend_article --source=cloud-function/main.py --port=8080
+```
+
+``` bash
+uv run test_function.py
+```
